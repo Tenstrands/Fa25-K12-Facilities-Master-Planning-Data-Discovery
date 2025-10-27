@@ -1,0 +1,33 @@
+{
+  "district": "Sancarlos",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "The plan includes a comprehensive district-wide inventory with detailed assessments of building conditions, including a Facility Condition Index and specific recommendations for improvements (Executive Summary, pages 12-19)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan provides a detailed demographic study with historical and projected enrollment trends, linking capacity analysis to facility needs and future program expansions (Executive Summary, pages 16-17)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "The plan integrates educational goals with facility design, emphasizing adaptable learning spaces and alignment with the district's educational vision (Executive Summary, pages 14-19)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "The plan discusses outdoor spaces and greening initiatives, including some strategies for improvement, but lacks comprehensive district-wide data and mapping (Executive Summary, pages 18-19)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 3,
+      "justification": "The plan includes a detailed analysis of climate risks and resilience strategies, positioning climate readiness as a recurring theme throughout the document (Executive Summary, pages 14-19)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan mentions energy efficiency upgrades and provides some strategies for electrification and resilience, but lacks detailed compliance plans (Executive Summary, pages 14-19)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The financial summary provides a detailed capital strategy with cost estimates, prioritization frameworks, and multiple funding mechanisms for long-term sustainability (Executive Summary, pages 19-20)."
+    }
+  }
+}

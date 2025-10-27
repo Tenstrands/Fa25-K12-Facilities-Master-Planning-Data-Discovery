@@ -1,0 +1,33 @@
+{
+  "district": "Arcadia",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 3,
+      "justification": "The plan includes a reasonably detailed inventory of facilities, including building sizes and ages, and mentions condition assessments. However, it lacks comprehensive data across all systems and does not fully integrate lifecycle planning (Section 1, Conditions Assessments)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 3,
+      "justification": "The plan provides 5-10 year enrollment projections and discusses capacity issues, identifying over-utilized sites. However, it does not fully explore adaptive uses or link projections to specific facility actions (Section 2, Planning Enrollment)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "The plan connects educational goals to facilities and includes detailed specifications for various programs. However, it does not fully analyze how facilities support multiple programs or future educational needs (Section 2, Educational Vision)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "The plan identifies improvement strategies for outdoor spaces and mentions the need for shaded areas and outdoor learning environments. However, it lacks comprehensive district-wide data and multiple greening strategies (Section 2, Planning Themes)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan minimally acknowledges climate risks but lacks detailed analysis or specific strategies for resilience (Section 1, Introduction)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "The plan mentions upgrades for energy efficiency but lacks detailed strategies or compliance plans related to state requirements (Section 2, Planning Themes)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 3,
+      "justification": "The plan outlines itemized cost estimates and prioritization for projects but lacks a comprehensive capital strategy that integrates funding mechanisms and long-term sustainability (Section 2, Planning Themes)."
+    }
+  }
+}

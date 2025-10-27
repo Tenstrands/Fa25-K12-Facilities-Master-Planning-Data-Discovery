@@ -1,0 +1,33 @@
+{
+  "district": "Roseville",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 3,
+      "justification": "The plan provides a reasonably detailed inventory of facilities, including building sizes, ages, and systems, and utilizes the Facilities Inspection Tool (FIT) for assessments. However, it lacks comprehensive district-wide data and lifecycle planning integration (Sections 2-4, 2-5)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan includes comprehensive demographic analysis and long-term projections, identifying over/under-utilized sites and linking these to facility actions. It also discusses boundary adjustments and future growth considerations (Sections 2-2, 2-4)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "The plan connects facilities to educational goals and includes detailed specifications for various learning environments. However, it does not fully integrate adaptability and evolving pedagogy into the planning (Section 1-1, 2-8)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "The plan mentions outdoor spaces and some needs for improvement but lacks detailed data on greening initiatives and their connection to health and wellness (Section 2-4)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan acknowledges climate broadly but lacks detailed analysis or specific strategies for climate risks and resilience (Section 2-12)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan discusses energy upgrades and some strategies for resilience but lacks comprehensive data and a full compliance plan with state requirements (Sections 2-11, 2-12)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 3,
+      "justification": "The plan outlines itemized cost estimates and prioritization for projects but lacks a detailed funding strategy and comprehensive coverage of lifecycle costs (Sections 2-10, 2-12)."
+    }
+  }
+}

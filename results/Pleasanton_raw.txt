@@ -1,0 +1,33 @@
+{
+  "district": "Pleasanton",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "The plan includes a comprehensive district-wide inventory with detailed assessments of building conditions, including roof conditions and classroom specifications, linking these to learning outcomes (Sections 1.A, 1.B, 1.C)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 3,
+      "justification": "The plan provides a sufficient analysis of capacity needs and future projections, including discussions on potential new school construction to address overcrowding (Sections 1.B, 1.C)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "The plan connects educational goals to facility needs, detailing specifications for modern learning environments and science classrooms, though it lacks a comprehensive analysis of all programmatic needs (Sections 1.B, 1.C)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "The plan mentions outdoor spaces and some greening initiatives but lacks detailed data or comprehensive strategies for health and wellness connections (Sections 1.B, 1.C)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan acknowledges climate risks but provides minimal detail or specific strategies for mitigation (Section 1.B)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan includes energy efficiency measures and some strategies for upgrades, but lacks a detailed compliance plan with state requirements (Sections 1.B, 1.C)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The financial plan is comprehensive, detailing project costs, funding sources, and prioritization strategies, ensuring alignment with educational and facility priorities (Sections 1.B, 1.C)."
+    }
+  }
+}

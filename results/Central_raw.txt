@@ -1,0 +1,33 @@
+{
+  "district": "Central",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "The plan includes a comprehensive district-wide inventory with detailed assessments of all facilities, linking condition data to educational outcomes and integrating lifecycle planning (Section I, Summary of Facilities Assessments)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 3,
+      "justification": "The plan provides 5-10 year enrollment projections and identifies over/under-utilized sites, but lacks a comprehensive analysis of community uses and adaptive strategies (Section G, Capacity Analysis)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "The plan aligns facilities with the district's educational mission, detailing how upgrades will support various programs and future pedagogical needs (Section D, Mission and Goals)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "The plan mentions outdoor spaces and some upgrades but lacks detailed data or comprehensive strategies for greening initiatives (Section J, 21st Century School Environments)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan acknowledges climate broadly but lacks detailed analysis or specific strategies for climate risks (Section F, Process)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan discusses energy upgrades and some strategies for efficiency but lacks a complete compliance plan with state requirements (Section J, 21st Century School Environments)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 3,
+      "justification": "The plan outlines funding sources and prioritization for projects but lacks detailed cost methods and contingencies (Section K, Funding Plan)."
+    }
+  }
+}
