@@ -1,0 +1,11 @@
+
+.venv/
+
+.venv/
+.env
+__pycache__/
+results/
+*.csv
+*.json
+.DS_Store
+fmp_pdfs/*.pdf
