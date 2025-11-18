@@ -1,0 +1,33 @@
+{
+  "district": "Adelanto",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 3,
+      "justification": "The plan includes a comprehensive inventory of facilities with details on building age, size, and types, as well as a condition assessment that identifies areas for improvement. However, it lacks a robust connection between condition data and long-term planning (see sections on Needs Assessment & Master Planning)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan provides a detailed analysis of enrollment projections and capacity utilization, including specific strategies for addressing future needs related to Universal Transitional Kindergarten and projected enrollment declines (see Enrollment and Capacity section)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "The plan effectively integrates educational specifications with facility planning, detailing how various spaces will support specific educational programs and goals, including STEM and arts education (see Educational Specifications section)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "The plan discusses outdoor spaces and greening initiatives, including the addition of shade structures and outdoor learning areas, but lacks comprehensive district-wide data on existing outdoor spaces (see Outdoor Spaces and Campus Greening section)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "The plan acknowledges climate risks and includes some strategies for mitigation, such as solar panels and EV charging stations, but lacks a comprehensive climate risk assessment and detailed strategies across all sites (see Climate Risk and Mitigation section)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan mentions energy efficiency strategies, including solar panels and EV charging stations, and discusses energy resilience as a goal, but does not provide detailed data on energy use or comprehensive strategies for electrification (see Energy Efficiency and Resilience section)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The financial plan is detailed, providing comprehensive cost estimates, funding strategies, and a prioritization framework for projects, demonstrating alignment with district educational priorities and facility needs (see Financial Summary section)."
+    }
+  }
+}

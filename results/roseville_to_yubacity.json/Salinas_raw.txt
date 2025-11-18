@@ -1,0 +1,33 @@
+{
+  "district": "Salinas",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 3,
+      "justification": "The plan includes an inventory of all district facilities with details on building sizes, ages, and portables, as well as information on specialized spaces (Chunks 1-2). The condition assessment covers major systems like HVAC and roofs and identifies areas for improvement, but does not fully integrate multiple data sources or real-time monitoring (Chunks 5-9)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan provides comprehensive enrollment projections with detailed methodology, including demographic trends and housing developments (Chunks 3-7). Capacity utilization data is detailed by site and grade, including portable classrooms, and is linked to specific facility actions such as new construction and portable additions (Chunks 6-9)."
+    },
+    "Educational Alignment": {
+      "score": 2,
+      "justification": "The plan references educational goals broadly and mentions specialized classrooms like science labs and CTE facilities (Chunks 2-3), but does not provide detailed educational specifications or fully connect facility projects to instructional needs or program requirements."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "The plan mentions outdoor learning areas, greenhouses, and gardens at some sites (Chunk 6), but provides minimal districtwide data or analysis on green space, shade coverage, or greening strategies, and does not frame these as climate resilience strategies."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan acknowledges climate change impacts broadly and references some strategies such as HVAC upgrades and energy controls (Chunks 6-9), but lacks detailed climate risk assessments or comprehensive mitigation strategies integrated into the facilities plan."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan includes energy efficiency strategies such as HVAC and energy controls upgrades, solar panels, and mentions energy resilience goals (Chunks 6-9). It references state requirements like Title 24 and Zero Net Energy goals but does not present a fully comprehensive energy resilience strategy."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents detailed cost estimates for projects with itemized categories and references cost estimation methods (Chunks 7-9). It outlines a clear prioritization framework and multiple funding sources including bonds, developer fees, and state programs, with a long-term financial strategy aligned to district priorities."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "district": "SanLuisCoastal",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed site plans, building ages, sizes, and specialized spaces. Robust condition assessments cover all major systems with prioritized needs and lifecycle considerations integrated into capital planning (Sections 4, 5; Tables 4-2, 5-1 to 5-184)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections through 2028-29 with methodology and demographic analysis. Capacity utilization data by site and classroom with clear connection to facility actions and strategies for portable replacement and boundary adjustments (Section 3; Tables 3-1 to 3-20)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "Includes a robust educational specifications section linking educational goals to facility needs. Facility projects connect to educational programs, though some programmatic shifts and integration details are partial (Section 1-3; District Background and Educational Specifications)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Plan provides data and analysis of outdoor spaces with strategies for improvements such as playfield upgrades, landscaping, and shade structures at multiple sites. Some districtwide greening strategies and connections to wellness are mentioned but not fully detailed (Site assessments and project scopes across multiple schools)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges climate-related risks broadly and includes some strategies such as shade structures and HVAC upgrades, but lacks detailed climate risk assessment or comprehensive districtwide climate resilience planning (No explicit detailed climate risk assessment found)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as LED lighting upgrades, HVAC modernization, and some renewable energy references. Mentions energy resilience goals but lacks comprehensive districtwide energy resilience or electrification plans with detailed data (Sections 4 and 5 project scopes)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a detailed capital strategy with itemized cost estimates, priority-based phasing, and multiple funding sources. Includes escalation assumptions, contingency, and long-term financial sustainability considerations (Section 6; Tables 6-1 and 6-2; detailed cost summaries by priority and site)."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "district": "Stockton",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed room counts, building ages, specialized spaces, and site plans. Facility condition assessment uses ASTM E2018-15 standard with detailed system evaluations and cost estimates, linking condition data to long-term capital planning (Chunks 10-14, 21-64)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections through 2029-30 with methodology and demographic data. Capacity utilization data by site and grade with square footage and student counts. Explicit connection of enrollment trends to facility actions including portables and modernization (Chunks 8-10, 19-20)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational specifications are a core organizing principle with detailed space programs for classrooms, labs, special education, and support spaces. Clear integration of district mission, instructional priorities, and facilities planning with comprehensive analysis of program needs and facility responses (Chunks 65-87)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 4,
+      "justification": "Outdoor learning and greening are central elements with districtwide strategies for shade structures, outdoor classrooms, and play yard redesign. Detailed design principles for greening, shade, and climate resilience with data on outdoor learning environments and community benefits (Chunks 85-86)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 3,
+      "justification": "Plan addresses climate impacts such as heat and air quality with detailed indoor environmental quality assessments and strategies like shade structures and HVAC upgrades. Climate readiness is a priority theme integrated into assessment and planning, though comprehensive multi-risk districtwide assessment is not fully detailed (Chunks 14-16, 19)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 4,
+      "justification": "Energy resilience and efficiency are core to the plan with baseline energy data, Title 24 and ZNE references, and strategies including solar, battery storage, electrification, and microgrids. Detailed cost and implementation plans align with state mandates and climate disruptions (Chunks 19, 29, 39)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Comprehensive capital strategy with detailed cost estimates by project and system, prioritization framework based on safety, equity, and program needs, and multiple funding sources including bonds, state programs, and grants. Long-term financial sustainability and escalation assumptions are included (Chunks 18-20, 21-64)."
+    }
+  }
+}

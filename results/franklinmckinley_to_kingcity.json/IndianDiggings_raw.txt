@@ -1,0 +1,33 @@
+{
+  "district": "IndianDiggings",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 2,
+      "justification": "The plan includes a basic inventory mentioning the original building dates and some facility components (e.g., classrooms, multipurpose room) and uses the Facility Inspection Tool (FIT) for condition assessment. However, it lacks detailed square footage data, comprehensive system assessments, and robust condition scoring beyond major issues (Chunk 1)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 1,
+      "justification": "There is no mention or analysis of enrollment trends, projections, or capacity utilization in the provided plan content."
+    },
+    "Educational Alignment": {
+      "score": 2,
+      "justification": "The plan references educational goals broadly, such as creating learning environments for the next generation and technology upgrades, but lacks detailed educational specifications or connections between facility projects and specific instructional needs (Chunk 1)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 1,
+      "justification": "The plan does not reference outdoor spaces or schoolyard greening strategies; outdoor areas are only mentioned in terms of playground and field repairs without greening or environmental considerations (Chunks 2 and 3)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan acknowledges snow damage as a climate-related issue affecting infrastructure and includes repair strategies, but does not provide a detailed climate risk assessment or comprehensive mitigation strategies (Chunk 1)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "The plan mentions energy efficiency projects such as Proposition 39 energy efficiency program and some technology upgrades but lacks detailed energy use data, resilience strategies, or references to state requirements like Title 24 or Zero Net Energy goals (Chunk 1)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 3,
+      "justification": "The plan provides itemized cost estimates for projects with prioritization codes and discusses funding sources including ERATE, community donations, and potential modernization funds. It outlines a phased approach and prioritization based on safety and needs but lacks comprehensive long-term financial sustainability analysis (Chunks 2 and 3)."
+    }
+  }
+}

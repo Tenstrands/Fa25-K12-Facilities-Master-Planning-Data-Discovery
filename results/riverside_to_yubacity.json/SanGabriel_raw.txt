@@ -1,0 +1,33 @@
+{
+  "district": "SanGabriel",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed site plans, building sizes, ages, and specialized spaces; robust condition assessment covering HVAC, plumbing, roofs, electrical, lighting, technology infrastructure, and accessibility; connects condition data to student outcomes and integrates short- and long-term capital planning (Sections 5, 7, and Existing Conditions)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides comprehensive enrollment analysis with detailed capacity utilization by site and grade; connects projections to specific facility actions including new construction, modernization, and adaptive uses; includes innovative uses such as wellness hubs and community partnerships (Sections 2, 6, and Campus Master Plans)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle; detailed educational specifications link district mission and instructional priorities to facilities; comprehensive analysis of how facilities support multiple programs including TK, CTE, special education, collaborative learning, and technology-rich environments (Educational Specifications Sections 3 and 4)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 4,
+      "justification": "Outdoor greening and climate-adapted design are central elements; provides districtwide data on green surfaces, shade coverage, and stormwater management; detailed strategies for campus greening including tree cover expansion, permeable surfaces, outdoor classrooms, rain gardens, and bioswales; frames outdoor spaces as climate resilience and wellness strategies (Design Criteria Sections 2.1-2.5)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 3,
+      "justification": "Plan addresses multiple climate impacts and resilience strategies in detail, including shade structures, stormwater management, and HVAC upgrades; climate readiness is a theme in the plan and integrated into long-range planning, though not fully districtwide or site-specific for all risks (Planning Themes and Priorities, Climate sections)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 4,
+      "justification": "Energy resilience and efficiency are core parts of the plan; includes baseline energy data, targets, and strategies for reduction; references state requirements such as Title 24 and Zero Net Energy goals; plans for electrification, renewable integration, solar + storage, and microgrids; connects energy improvements to climate disruptions and cost savings (Energy & Environmental Stewardship Sections 7 and Technology Sections 5)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a comprehensive capital strategy with detailed cost estimates across all projects, including escalation assumptions; uses clear criteria-based prioritization aligned with safety, equity, program alignment, lifecycle cost, and climate resilience; outlines multiple funding strategies including bonds, state programs, developer fees, and alternative financing; considers long-term financial sustainability and alignment with educational priorities (Cost Summary and Funding sections)."
+    }
+  }
+}

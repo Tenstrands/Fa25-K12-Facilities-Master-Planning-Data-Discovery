@@ -1,0 +1,33 @@
+{
+  "district": "El Segundo",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 3,
+      "justification": "The plan includes a comprehensive inventory of facilities with details on building sizes, ages, and specialized spaces. It also provides a condition assessment that evaluates major systems, though it could benefit from more explicit connections to long-term planning."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 3,
+      "justification": "The plan provides detailed enrollment projections and identifies sites that are over- or under-capacity, discussing potential actions. However, it lacks fully developed strategies for addressing these capacity issues."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "The plan connects facility projects to educational goals and includes educational specifications for various programs. However, the coverage of programmatic shifts is partial and could be more comprehensive."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "The plan provides data on outdoor spaces and identifies strategies for improvement, such as shade structures and gardens. However, it lacks a district-wide approach to greening and outdoor learning."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "The plan acknowledges climate risks and includes some strategies for mitigation, but it does not provide a comprehensive assessment of multiple climate impacts or detailed strategies across the district."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan discusses energy efficiency strategies and mentions state requirements, but it lacks comprehensive data on energy use and does not fully address energy resilience as a core goal."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents a detailed financial strategy with itemized cost estimates, prioritization frameworks, and multiple funding sources. It aligns financial capacity with district educational priorities effectively."
+    }
+  }
+}

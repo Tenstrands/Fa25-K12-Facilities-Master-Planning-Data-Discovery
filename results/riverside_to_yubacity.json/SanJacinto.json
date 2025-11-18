@@ -1,0 +1,33 @@
+{
+  "district": "SanJacinto",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed site plans, building ages, classroom counts, and specialized spaces; robust condition assessment using CEFPI standards with detailed immediate, future, and long-term needs and cost estimates for all major systems across all sites (Sections 6, pages 69-240)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections by grade and site through 2021 with demographic analysis, housing development impact, and capacity utilization by site; explicit connection of projections to facility needs including new school sites and boundary adjustments (Sections 4, pages 41-56)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "Includes educational specifications with detailed space standards aligned to district goals; discusses CTE programs and specialized classrooms; connects facility projects to educational programs but coverage of programmatic shifts and integration is partial (Sections 3, 5, 14-20)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "References outdoor spaces such as playfields and hardcourts with some site maps; mentions deficiencies in playfield and hardcourt areas at multiple campuses but lacks districtwide data or comprehensive greening strategies (Facility assessments, site plans)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges health and safety upgrades including fire safety and emergency lighting but does not provide detailed climate risk assessments or comprehensive climate resilience strategies (Immediate and long-term needs sections)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy-related upgrades such as LED lighting replacements, HVAC system upgrades, and electrical capacity improvements; references state requirements and energy resilience goals but lacks fully comprehensive districtwide energy resilience strategy (Immediate and future needs across campuses)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a detailed financial plan with itemized cost estimates, phased project prioritization, multiple funding sources including Measure V bond and state funds, and long-term capital strategy aligned with district priorities (Section 7, pages 241-243)."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "district": "SanYsidro",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 3,
+      "justification": "The plan includes an inventory of all district facilities with details on building ages, sizes, portables, and specialized spaces (e.g., kitchens, libraries). It provides a facility condition assessment including HVAC, roofing, and electrical systems, with references to modernization needs and upgrades (e.g., HVAC replacements, roofing, security systems) across sites (e.g., La Mirada, San Ysidro Middle School). However, it lacks comprehensive multi-source data or real-time monitoring and explicit connection of condition data to student outcomes."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan provides detailed historical enrollment data and long-term projections with explanations of influencing factors. It includes capacity utilization data by site and discusses under- and over-capacity issues with specific actions such as replacing portables, right-sizing spaces, and consolidations. The plan links enrollment trends to facility needs and proposes adaptive uses of space (e.g., community resource center at Beyer site)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "The plan references district educational goals and mission, and connects facility projects to educational programs such as Transitional Kindergarten, 21st Century Learning, and technology integration. It discusses flexible furniture and technology upgrades to support instructional shifts. However, it lacks a fully comprehensive educational specifications section linking all projects directly to educational outcomes."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "The plan mentions site improvements including playground replacements, new playground structures, and some landscaping. It references shade structures and playground shade shelters at multiple sites. However, it lacks districtwide data on green space, canopy cover, or detailed greening strategies such as permeable surfaces or stormwater management."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan acknowledges sustainability and climate change as trending topics and includes some energy efficiency and HVAC upgrades. However, it does not provide a detailed climate risk assessment or comprehensive climate resilience strategies across multiple climate impacts."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan includes energy efficiency strategies such as solar arrays at many sites, HVAC upgrades, and lighting improvements. It references security and technology upgrades that may support energy resilience. However, it lacks detailed energy use data, comprehensive electrification plans, or explicit reference to state mandates like Title 24 or Zero Net Energy goals."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents a comprehensive capital strategy with detailed conceptual cost estimates for all projects, including new construction, renovations, site improvements, and furniture/technology. It describes cost estimating methods, contingency, and escalation assumptions. The plan includes a prioritization framework and multiple funding sources such as bonds and state programs, with alignment to district priorities and long-term sustainability considerations."
+    }
+  }
+}

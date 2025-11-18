@@ -1,0 +1,33 @@
+{
+  "district": "WCC",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including 21 Priority School Sites with detailed building and site assessments, including building sizes, ages, and specialized spaces. Uses a robust scoring system with weighted building and site scores, and links condition data to long-term capital planning (Sections 3, 8)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed long-term enrollment projections over 10 years including Charter School impacts, capacity utilization by site and grade, and integration of demographic data. Explicit connection of enrollment trends to facility needs and project sequencing (Section 4, 5)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "Includes educational specifications and alignment with district goals, with plans to revise and update specifications involving stakeholders. Connects facility projects to educational programs but coverage is partial and some programmatic shifts are noted but not fully developed (Sections 1, 2, 6)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "Outdoor spaces are referenced in site plans and some outdoor learning areas are noted (e.g., science gardens, playgrounds), but there is limited districtwide data or comprehensive greening strategies. No explicit climate resilience framing for outdoor spaces (Sections 8 school site plans)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Acknowledges climate-related issues such as soil instability and seismic risks with detailed seismic prioritization and critical needs. Includes some mitigation strategies like site relocation (Highland to Harmon-Knolls) and soil testing but lacks comprehensive multi-risk climate assessment or districtwide resilience theme (Sections 5, 6, 8)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "Mentions HVAC upgrades and modernization projects that imply energy improvements; however, no comprehensive energy use data, resilience strategies, or references to state mandates like Title 24 or Zero Net Energy goals are evident (Sections 6, 8)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a detailed capital strategy with itemized cost estimates, prioritization framework based on community input and technical criteria, multiple funding scenarios including bond issuances, and phased implementation plans with Board approval (Sections 6, 7)."
+    }
+  }
+}

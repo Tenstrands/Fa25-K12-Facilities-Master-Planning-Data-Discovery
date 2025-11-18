@@ -1,0 +1,33 @@
+{
+  "district": "SaintHelena",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed building sizes, ages, classrooms, portables, and specialized spaces (Sections G, H, Appendix C). Robust condition assessment using FACT tool with detailed scoring across multiple systems and buildings, connecting condition data to long-term planning and capital needs (Sections H, FACT analysis)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed 10-year enrollment projections using cohort survival method, birth data, migration rates, and residential development analysis with clear methodology and assumptions (Sections F, Appendix A). Capacity utilization data by site and grade with square footage and student counts, linked to facility actions and planning (Section G, Tables 13-14)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "Plan includes educational mission and goals linked to facilities, with specific references to CTE programs, special education, and multimedia classrooms (Sections H, High School CTE facilities, vignettes). Some programmatic shifts and educational specifications are discussed but coverage is partial and not fully integrated across all projects."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "References to outdoor spaces include playgrounds, sports fields, and some landscaping improvements (Sections H, vignettes). Limited data or districtwide analysis of green spaces, shade coverage, or stormwater management; greening and outdoor learning mentioned only in passing."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Minimal mention of climate risks or resilience strategies; no detailed climate risk assessment or comprehensive mitigation strategies found. Some references to water conservation and climate adaptation in City General Plan but not integrated into facilities planning (Section D)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "Mentions some energy efficiency projects such as HVAC upgrades and lighting improvements (Sections H). No comprehensive energy use data or detailed resilience strategies; no explicit reference to Title 24 or Zero Net Energy goals."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Comprehensive financial plan including detailed cost estimates, prioritization of projects, and multiple funding strategies (State School Facility Program, GO bonds, developer fees) with timelines and community engagement (Sections J, K, L). Clear prioritization framework and alignment with district educational priorities."
+    }
+  }
+}

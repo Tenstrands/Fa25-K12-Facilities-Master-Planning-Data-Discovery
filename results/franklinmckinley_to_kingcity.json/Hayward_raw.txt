@@ -1,0 +1,33 @@
+{
+  "district": "Hayward",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed data on building age, size, classrooms, specialized spaces, and site plans. Robust condition assessments cover all major systems with multiple data sources and connect facility condition to student outcomes and long-term capital planning (Sections 4, 7, 15, 76-82)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides comprehensive enrollment analysis with detailed methodology, long-term projections, capacity utilization by site and grade, and explicit strategies for school closures, consolidations, and adaptive uses. Includes demographic studies and detailed capacity data linked to facility actions (Sections 7, 14, 25-27)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle, with clear integration of district mission, instructional priorities, and facilities planning. Detailed analysis of how facilities support multiple programs including TK, CTE, special education, and collaborative learning is provided (Sections 2, 4, 7)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Includes data and analysis of outdoor spaces with references to shade structures, playgrounds, and outdoor learning areas at multiple sites. Strategies for improvement are identified but not fully detailed district-wide or framed as climate resilience (Sections 7, 11)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 3,
+      "justification": "Plan addresses climate risks such as seismic hazards with detailed structural reviews and mitigation strategies for affected sites. Climate readiness is a priority and theme in planning and design, though comprehensive multi-risk district-wide assessment is limited (Sections 11, 74)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 4,
+      "justification": "Energy resilience and efficiency are core parts of the plan, with data on energy use, solar PV installations district-wide, electrification plans, and alignment with state requirements. Includes strategies for reducing costs, emissions, and improving indoor air quality (Sections 6, 11, 75)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a comprehensive capital strategy with detailed cost estimates, prioritization frameworks, multiple funding sources including bonds and developer fees, and long-term financial sustainability considerations. Includes bond history, financing plans, and asset management strategies (Sections 9, 70-72)."
+    }
+  }
+}

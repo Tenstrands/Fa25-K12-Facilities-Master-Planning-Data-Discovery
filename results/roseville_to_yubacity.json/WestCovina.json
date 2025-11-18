@@ -1,0 +1,33 @@
+{
+  "district": "WestCovina",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 3,
+      "justification": "The plan includes an inventory of all district facilities with details such as building age, last modernization dates, and site maps showing specialized spaces like athletic fields and multipurpose rooms (Chunks 1 and 2). The condition assessment covers major systems and identifies modernization needs, but does not show evidence of multiple data sources or a comprehensive connection to long-term planning."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 1,
+      "justification": "There is no mention or analysis of enrollment trends, projections, or capacity utilization in the provided plan content."
+    },
+    "Educational Alignment": {
+      "score": 1,
+      "justification": "The plan does not reference educational goals, specifications, or connect facility projects to instructional needs or educational programs."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "The plan references outdoor spaces such as playgrounds, athletic fields, and includes some mention of shade structures and solar panel/shade structures (Chunks 1 and 2), but lacks detailed data or districtwide strategies for greening or outdoor learning."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan minimally references solar panels and shade structures but does not provide a detailed climate risk assessment or comprehensive mitigation strategies."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "The plan mentions solar panel installations and HVAC upgrades as part of modernization projects, indicating some energy efficiency efforts, but lacks detailed energy use data, resilience strategies, or references to state requirements."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 3,
+      "justification": "The plan includes a bond issuance schedule with phased funding and timelines, mentions additional funding sources such as state matching funds and partnerships, and outlines project phases, but does not provide detailed cost estimates or a comprehensive prioritization framework."
+    }
+  }
+}

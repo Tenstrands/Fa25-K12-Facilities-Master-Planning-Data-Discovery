@@ -1,0 +1,33 @@
+{
+  "district": "SequoiaUnionHigh",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including building age, size, classrooms, specialized spaces, and detailed site plans for all campuses (Ch. 4-5). Robust condition assessment with detailed evaluations of major systems and integration into long-term capital planning (Ch. 5-6)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 3,
+      "justification": "Provides detailed enrollment data by campus and capacity utilization with number of classrooms and portables (Ch. 4-5). Discusses replacement of undersized classrooms and capacity improvements but lacks explicit long-term enrollment projection methodology and innovative adaptive space uses."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Facilities planning is clearly aligned with educational goals, emphasizing flexible learning spaces, student support services, STEM, counseling, and wellness (Ch. 5-6). Projects directly respond to educational needs with detailed educational specifications and integration of instructional priorities."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Includes analysis and strategies for outdoor spaces such as expanded shaded areas, outdoor classrooms, and campus greening (Ch. 9, 12-14). Provides some districtwide data on green spaces and solar installations but lacks fully districtwide detailed greening metrics or climate resilience framing."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Acknowledges climate-related risks and includes strategies such as solar installations and shading (Ch. 6, 9, 12-14). However, lacks a comprehensive climate risk assessment across multiple impacts or districtwide detailed mitigation strategies."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 4,
+      "justification": "Detailed energy efficiency and resilience strategies including solar photovoltaic installations, LED lighting upgrades, HVAC improvements, electrification plans, and alignment with Title 24 and Zero Net Energy goals (Ch. 6, 9, 12-14). Includes energy use data and resilience measures."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Comprehensive financial plan with detailed cost estimates, prioritization framework, and multiple funding sources including Measure W bond, developer fees, and state grants (Ch. 15-17). Includes contingencies, escalation allowances, and aligns financial capacity with district priorities."
+    }
+  }
+}

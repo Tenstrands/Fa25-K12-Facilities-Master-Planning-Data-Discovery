@@ -1,0 +1,33 @@
+{
+  "district": "Williams",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed building ages, sizes, portables, and specialized spaces; robust condition assessment covering HVAC, electrical, plumbing, fire alarm, and infrastructure systems; connects condition data to long-term planning and student safety (Sections 4, Tables 4.1-4.3, Maps 4.1-4.10)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides detailed 10-year enrollment projections with methodology, demographic analysis, and capacity utilization by site and grade; links projections to facility needs including new school site planning and consolidation strategies (Sections 3 and 4, Tables 1.1, 3.1, 3.2, 3.3)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "Plan references educational goals and includes some alignment with facility projects such as science labs, CTE pathways, and flexible classrooms; however, explicit educational specifications and detailed programmatic facility requirements are partially covered (Sections 4 and 6, proposed science wing, CTE grant, and classroom modernization)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "Mentions outdoor play fields, relocation of Little League field, and new play areas; however, lacks districtwide data on green space, canopy cover, or detailed greening strategies; no explicit connection to climate resilience or outdoor learning (Sections 4, Maps 4.4-4.6)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges flood zone constraints and expansive soils affecting site planning and stormwater management; however, no comprehensive climate risk assessment or detailed mitigation strategies beyond basic site considerations (Section 4, Map 4.1)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 1,
+      "justification": "No mention of energy efficiency, electrification, decarbonization, or energy resilience strategies; no data on energy use or reference to state energy requirements found in the plan content."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents detailed cost estimates with escalation and contingencies; comprehensive funding strategy including local bonds, COP, state grants, developer fees, and CTE grants; clear prioritization and phased implementation plan linked to funding availability and financial hardship status (Sections 6 and 7, Tables 6.1, 7.1-7.3, Charts 6.1-6.3)."
+    }
+  }
+}

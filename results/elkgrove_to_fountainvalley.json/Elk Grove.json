@@ -1,0 +1,33 @@
+{
+  "district": "Elk Grove",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "The plan includes a comprehensive inventory of all district facilities with detailed assessments of building conditions, including HVAC, plumbing, and safety features, and connects these assessments to long-term planning (Section 7)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan provides a thorough analysis of enrollment projections and capacity utilization, detailing specific schools' needs and potential actions to address overcrowding (Section 5)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "The plan aligns closely with the district's educational mission and includes detailed educational specifications that connect facility projects to instructional needs (Section 4)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "The plan discusses outdoor spaces and greening initiatives, providing some data and strategies for improvement, but lacks comprehensive district-wide data on green space (Section 4)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "The plan acknowledges climate risks and includes some strategies for mitigation, but lacks a comprehensive climate risk assessment or detailed strategies across the district (Section 5)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan mentions energy efficiency strategies and references state requirements, but does not provide comprehensive data on energy use or detailed resilience strategies (Section 6)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 3,
+      "justification": "The plan includes itemized cost estimates and a prioritization framework for projects, but lacks detailed long-term financial sustainability considerations (Section 8)."
+    }
+  }
+}

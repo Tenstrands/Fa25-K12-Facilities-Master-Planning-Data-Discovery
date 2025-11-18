@@ -1,0 +1,33 @@
+{
+  "district": "SantaPaula",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed site assessments for all schools, with detailed condition assessments of major systems and connection to educational priorities and long-term planning (Sections 1.7, 2-11, 13)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections with methodology, capacity utilization by site and grade, and explicit strategies for new K-8 school, boundary adjustments, and facility expansions linked to enrollment growth and development (Sections 1.5, 1.6, 12)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed educational specifications, integration of district mission and instructional priorities, and direct connection of facility projects to educational programs including CTE, academies, dual language immersion, and special education (Sections 1.2, 13)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "Some references to outdoor spaces such as playgrounds and playfields, but minimal detail or districtwide data on greening, shade, or environmental benefits; no comprehensive greening strategy evident (Site assessments in Sections 2-11)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Plan addresses climate control/HVAC needs and alternative climate control strategies with cost estimates and community input, but lacks comprehensive climate risk assessment or districtwide climate resilience strategy (Section 1.4)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as HVAC upgrades, technology infrastructure improvements, and references to Title 24 and state goals; energy resilience goals mentioned but no comprehensive districtwide plan for electrification or microgrids (Sections 1.7, 14)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Comprehensive capital strategy with detailed cost estimates, phased project prioritization, multiple funding sources including bonds, state grants, developer fees, and detailed financial sustainability analysis; includes voter survey and bond authorization strategy (Sections 14, 15)."
+    }
+  }
+}

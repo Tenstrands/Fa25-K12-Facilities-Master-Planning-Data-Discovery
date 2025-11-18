@@ -1,0 +1,33 @@
+{
+  "district": "Gilroy",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed classroom counts, portables, and specialized spaces; robust condition assessments with categories and detailed system evaluations; integration of condition data with long-term planning (Sections 4.1-4.20, Appendix 5.2)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections through 2023/24 with methodology, cohort analyses, and capacity utilization by site and grade; clear connection of projections to facility needs and potential expansions (Section 2.2, Appendix 5.2)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed educational program vision, specifications for flexible and technology-rich classrooms, specialized program spaces (CTE, special education, STEAM), and integration of facilities with instructional goals (Sections 2.3, 3.0, Meeting Minutes 5.1)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Includes data and analysis of outdoor spaces with references to shade structures, play apparatus, and outdoor learning courts; strategies for improvement mentioned but not fully districtwide or detailed (Sections 2.3, site plans, and Meeting Minutes)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges climate-related concerns such as drought and energy conservation; however, lacks comprehensive climate risk assessment or detailed mitigation strategies across the district (Meeting Minutes 5.1, Energy Focus Group)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Discusses energy efficiency strategies including LED lighting upgrades, solar carports, EMS systems, and HVAC replacements; references to Title 24 and state goals are implicit; energy resilience goals mentioned but not fully detailed (Energy Focus Group, Meeting Minutes)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Comprehensive capital strategy with detailed cost estimates, prioritization framework, multiple funding sources including bonds and state grants, and phased implementation plan; includes prioritization exercises and financial projections (Section 3, Meeting Minutes 5.1, 6)."
+    }
+  }
+}

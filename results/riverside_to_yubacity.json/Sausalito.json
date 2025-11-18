@@ -1,0 +1,33 @@
+{
+  "district": "Sausalito",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed building ages, sizes, portables, and specialized spaces; robust condition assessments by Bureau Veritas covering all major systems; connection of condition data to student outcomes and long-term capital planning (Chapters 2, 5; Facility Condition Assessments; Executive Summary)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections with methodology based on demographic and county data; capacity utilization data by site and grade with square footage and student counts; explicit connection of enrollment trends to facility actions including consolidation and new construction (Introduction and Process, pp. 26-28; Demographic and Capacity Assessment)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed educational specifications; clear integration of district mission, instructional priorities, and facilities planning; comprehensive analysis of how facilities support multiple programs including TK, CTE, special education, collaborative learning, and technology (Introduction and Process, pp. 21-25; Facilities Assessments, Educational Suitability)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Provides data and analysis of outdoor spaces including play yards, gardens, and athletic fields; identifies strategies for improvement such as shade structures, outdoor classrooms, and play structures; references outdoor learning and wellness but not fully districtwide or detailed (Staff and Community Input; Site Analysis and Master Plans)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges climate-related issues such as stormwater drainage problems and corrosive marine environment impacts; however, lacks comprehensive climate risk assessment or detailed mitigation strategies across multiple climate impacts (Facility Condition Assessments; Site Analysis)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "Mentions some energy efficiency projects such as LED lighting upgrades and HVAC improvements; lacks comprehensive energy data, resilience strategies, or references to state mandates like Title 24 or Zero Net Energy goals (Facility Condition Assessments; Bond Implementation Priorities)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a detailed capital strategy with itemized cost estimates, phased project prioritization, and multiple funding sources including bonds and state grants; includes escalation assumptions and contingencies; aligns financial capacity with district priorities and long-term sustainability (Program Costs, Bond Implementation Priorities, Cost Models)."
+    }
+  }
+}

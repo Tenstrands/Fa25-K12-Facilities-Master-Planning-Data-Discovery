@@ -1,0 +1,33 @@
+{
+  "district": "Roseville",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including building sizes, ages, portables, and detailed site maps (Ch. 1-4). Robust condition assessment using Facilities Inspection Tool (FIT) with detailed evaluations of HVAC, roofing, plumbing, electrical, and ADA compliance, linked to capital planning and maintenance (Ch. 2-6, 2-7, 6-1 to 6-7)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed long-term enrollment projections with demographic analysis and student yield factors, including housing development impacts and boundary adjustments (Ch. 2-1 to 4-8). Capacity utilization data by site and grade with strategies for new school construction, portable classrooms, and facility repurposing linked to enrollment trends (Ch. 4-1 to 4-8)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational specifications are a core organizing principle, detailing how facilities support district mission and instructional goals. Includes comprehensive analysis of flexible learning spaces, technology integration, special education, and community use, with clear connections between facility projects and educational programs (Ch. 5-1 to 5-17)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Site maps and descriptions of outdoor spaces including playgrounds, athletic fields, and landscaping are provided (Ch. 6-9 to 6-31). Strategies for improvements such as landscaping and security are mentioned, but districtwide greening data and climate resilience framing are limited."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Acknowledges climate-related issues such as creek maintenance and wildfire impact mitigation (Ch. 3-2). Some strategies like tree inspections and flood control are described, but lacks comprehensive district-wide climate risk assessment or multi-impact mitigation strategies."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency projects such as HVAC upgrades, roofing replacements, and lighting retrofits with some data on energy use and state funding programs (Ch. 2-12, 3-1, 6-11). References to energy resilience goals and partial strategies exist, but comprehensive electrification and decarbonization plans are not fully detailed."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 3,
+      "justification": "Provides itemized cost estimates for maintenance and capital projects with some prioritization (Ch. 2-9 to 2-11). Funding sources including state grants, bonds, and mitigation fees are identified with strategies for accessing them. Lacks detailed escalation assumptions and comprehensive long-term financial sustainability analysis."
+    }
+  }
+}

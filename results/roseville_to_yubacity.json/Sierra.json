@@ -1,0 +1,33 @@
+{
+  "district": "Sierra",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed site plans and building data; robust condition assessment covering major systems (HVAC, plumbing, electrical, roofing, technology, accessibility) with prioritization of immediate and long-term needs (Sections 4, 5, and Executive Summary)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment data and projections over multiple years with demographic analysis; capacity utilization by site and grade; explicit connection of enrollment trends to facility actions including closures, consolidations, and new construction (Sections 2, 6)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed connections between district mission, instructional priorities, and facilities planning; includes comprehensive analysis of support for multiple programs (CTE, special education, preschool, alternative education) and facility projects responding to educational needs (Focus Groups, Master Plan concepts)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Provides data and analysis of outdoor spaces with references to shade structures, outdoor learning areas, and campus greening strategies; includes plans for shade, amphitheaters, and outdoor classrooms but lacks fully districtwide detailed data on green space coverage or stormwater management (Master Site Plans, Focus Groups)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges climate-related risks broadly and references some strategies such as shade structures and HVAC upgrades, but lacks detailed climate risk assessment or comprehensive districtwide mitigation strategies (No detailed climate risk assessment found)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "Mentions energy efficiency projects such as HVAC upgrades and some infrastructure improvements; however, lacks comprehensive energy data, resilience strategies, or references to state mandates like Title 24 or Zero Net Energy goals (Facility Assessments and Implementation sections)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a detailed capital strategy with itemized cost estimates, prioritization framework, and multiple funding sources including state programs, bonds, and developer fees; includes escalation assumptions and long-term financial sustainability considerations (Sections 4, 6)."
+    }
+  }
+}

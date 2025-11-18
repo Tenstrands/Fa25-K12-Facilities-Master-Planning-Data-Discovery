@@ -1,0 +1,33 @@
+{
+  "district": "WheatlandUnion",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 2,
+      "justification": "The plan includes a basic list of facilities and some project cost estimates (e.g., cafeteria modernization, HVAC upgrade) but lacks detailed inventory data such as square footage, building ages, or comprehensive condition assessments across all systems (pages 52-56). No detailed assessment tool or connection to student outcomes is evident."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan provides comprehensive enrollment projections with low, moderate, and high scenarios through 2026-27, detailed capacity data including current and post-CTE project capacity, and demographic analysis integrating community data (pages 4-5, 48-49). It links enrollment projections to facility capacity and planned projects."
+    },
+    "Educational Alignment": {
+      "score": 1,
+      "justification": "There is no explicit mention or detailed discussion of educational goals, educational specifications, or how facilities align with instructional needs in the provided content."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 1,
+      "justification": "The plan does not reference outdoor spaces, greening, shade, or outdoor learning in the provided content."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 0,
+      "justification": "No mention of climate risks, climate readiness, or mitigation strategies is found in the provided plan content."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 1,
+      "justification": "There is no mention of energy efficiency, electrification, decarbonization, energy resilience, or related state requirements in the provided content."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 3,
+      "justification": "The plan provides itemized cost estimates for several projects and references state funding eligibility and applications (pages 52-59). It outlines some prioritization through project listings but lacks detailed cost estimation methods, comprehensive funding strategies, or long-term financial sustainability discussion."
+    }
+  }
+}

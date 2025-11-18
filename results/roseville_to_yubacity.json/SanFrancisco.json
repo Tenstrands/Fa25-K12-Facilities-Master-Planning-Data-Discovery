@@ -1,0 +1,33 @@
+{
+  "district": "SanFrancisco",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including 147 sites with detailed data on building age, size, classrooms, and specialized spaces (Sections 2, 4). Robust condition assessment using Facility Condition Index (FCI) and System Condition Index (SCI) across all major systems (HVAC, electrical, plumbing, roofs, etc.) with cost estimates and lifecycle considerations (Section 4, Figures 25-30). Connects condition data to student outcomes and integrates short- and long-term capital planning (Sections 4, 5)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides comprehensive enrollment analysis with multiple projection studies (LGDR, FCMAT) including methodology and assumptions (Section 3, Figures 23). Detailed capacity utilization data by site and grade with enrollment trends and demographic context (Section 3). Explicitly links enrollment projections to facility actions including new school construction (Mission Bay, Treasure Island), consolidation, and adaptive uses (Sections 3, 5, 7)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle of the FMP, grounded in district vision and values focused on the whole child (Sections 1, 2, 5). Facility projects are directly connected to educational goals, including STEM hubs, collaborative learning spaces, TK expansion, CTE pathways, and inclusive design (Sections 2, 5, 20). The plan integrates instructional priorities with facilities planning to drive educational improvement."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 4,
+      "justification": "Outdoor greening and climate-adapted design are central elements, with districtwide data on green spaces, stormwater management, and shade coverage (Section 5, Figures 34-35). Detailed strategies include schoolyard renovations, permeable surfaces, rain gardens, outdoor classrooms, and partnerships with SFPUC for stormwater management (Section 5). Outdoor learning and environmental literacy are explicitly referenced as part of the holistic approach."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 3,
+      "justification": "Plan addresses multiple climate impacts including heat, air quality, and seismic risks with detailed strategies such as ventilation improvements, seismic retrofits, and stormwater management (Sections 5, 14-17). Climate readiness is a priority and theme throughout the plan, integrated into assessment and project planning. However, the plan does not present a comprehensive multi-impact districtwide climate risk assessment with detailed projections for two or more impacts."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as LED lighting, HVAC upgrades, and electrification efforts (Section 5). Discusses energy resilience goals including backup power and network improvements (Section 5). References state requirements (Title 24, Zero Net Energy goals) and includes some energy use data, but lacks a fully comprehensive districtwide energy resilience and decarbonization plan with detailed baselines and targets."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a comprehensive capital strategy with detailed cost estimates, prioritization criteria, and multiple funding sources including G.O. bonds, developer fees, state grants, and alternative financing (Section 6). Prioritization framework aligns with safety, equity, program alignment, and lifecycle cost considerations. Demonstrates long-term financial sustainability and alignment with educational priorities (Sections 6, 7)."
+    }
+  }
+}

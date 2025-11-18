@@ -1,0 +1,33 @@
+{
+  "district": "Kentfield",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "The plan provides a comprehensive district-wide inventory including detailed building sizes, ages, classrooms, portables, and specialized spaces (e.g., libraries, MPRs, athletic fields). It includes robust condition assessments of major systems (HVAC, plumbing, electrical, structural) with engineering reports and recommendations, connecting condition data to long-term planning and modernization needs (Chunks 3-6, 8-10)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Includes a detailed demographic study with 10-year enrollment projections and growth assumptions, identifies overcrowding issues, and proposes specific strategies such as relocating a grade level and new classroom construction. Capacity utilization is analyzed by site and connected to facility actions including new construction and renovations (Chunks 1-2, 7-9)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "The plan explicitly integrates educational goals with facilities planning, emphasizing 21st century learning environments, flexible classrooms, and specialized spaces (e.g., STEM labs, maker spaces, music rooms). Facility projects are directly linked to educational programs and instructional needs, with detailed educational specifications and program summaries (Chunks 7-10)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "The plan provides data and analysis of outdoor spaces including courtyards, playgrounds, and athletic fields, and identifies strategies for improvement such as outdoor learning environments, shade structures, and passive play areas. However, districtwide greening data and comprehensive climate-adapted design as a central element are not fully detailed (Chunks 7-9)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan acknowledges the need for safety and security improvements and infrastructure upgrades but does not provide a detailed climate risk assessment or comprehensive climate resilience strategies related to specific climate impacts (no explicit mention of climate risks or mitigation strategies) (all chunks)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan includes recommendations for HVAC upgrades, energy management systems, and replacement of inefficient boilers and water heaters. It references energy efficiency strategies and infrastructure modernization but lacks comprehensive data on energy use, resilience strategies, or explicit reference to state requirements like Title 24 or Zero Net Energy goals (Chunks 4, 6, 8, 10)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a detailed capital strategy with itemized cost estimates for all projects, including contingencies and escalation. The plan includes a phasing plan, funding sources (Measure D bond), prioritization criteria, and a comprehensive financial framework aligned with district needs and educational priorities (Chunks 1-2, 12)."
+    }
+  }
+}

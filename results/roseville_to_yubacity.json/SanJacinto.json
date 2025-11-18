@@ -1,0 +1,33 @@
+{
+  "district": "SanJacinto",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed site plans, building ages, classroom counts, and specialized spaces; robust condition assessment using CEFPI standards covering major systems and connecting condition data to long-term capital planning (Sections 6, Facility Inventory & Site Assessment Analysis)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections by grade and school attendance area through 2021 with methodology from Davis Demographics; capacity utilization data by site and grade; explicit connection of projections to facility needs including new school sites and boundary adjustments (Sections 4, Demographics; Enrollment Matrices)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "Includes educational specifications with detailed space standards aligned to district goals; connects facility projects to educational programs such as CTE and special education; partial coverage of programmatic shifts and instructional technology integration (Sections 3, Educational Alignment; Space Standards)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "References to outdoor spaces primarily as playfields and hardcourts with some noted deficiencies; limited discussion of greening or shade strategies; no districtwide data on green space or climate resilience framing (Facility Assessments for campuses)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Minimal mention of climate-related risks or resilience strategies; no comprehensive climate risk assessment or integration into planning; emergency preparedness referenced but not linked to climate change (No detailed climate risk section found)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as LED lighting upgrades, HVAC replacements, and references to electrical capacity upgrades; mentions energy resilience goals and some renewable energy integration; references to Title 24 and state requirements implied but not fully detailed (Facility Immediate Needs and Upgrades)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Comprehensive capital strategy with detailed cost estimates for projects across all sites; clear prioritization of projects by immediate, future, and long-term needs; multiple funding sources including Measure V bonds, state funding, and local resources; includes financial context and sustainability considerations (Section 7, Financial Analysis)."
+    }
+  }
+}

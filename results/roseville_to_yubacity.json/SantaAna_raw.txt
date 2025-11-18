@@ -1,0 +1,33 @@
+{
+  "district": "SantaAna",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory with detailed data on building age, size, classrooms, specialized spaces, and site plans. Robust condition assessments cover major systems and connect facility conditions to educational outcomes and long-term capital planning (e.g., pages 7-9, campus master plans, and detailed cost estimates)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides detailed enrollment projections and capacity utilization by site, including square footage and student counts. Explicitly links enrollment data to facility actions such as new construction, modernization, and planning for the INDA neighborhood school (pages 5, 43-44)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "Includes district educational goals and relates them to facilities with detailed educational specifications and program needs. Connects facility projects to specific programs (e.g., CTE, special education), but coverage of programmatic shifts and integration is partial (e.g., references to educational specifications and program confirmation meetings in chunks 3-4)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Provides data and analysis on outdoor spaces including fields, playgrounds, shade structures, and site improvements. Identifies strategies for greening and outdoor learning at multiple sites, though not fully districtwide or comprehensive (e.g., playground expansions, shade structures, synthetic turf, and landscaping detailed in campus plans)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges climate-related risks broadly and includes some strategies such as shade structures and site improvements, but lacks detailed climate risk assessments or comprehensive resilience strategies across the district."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "Mentions energy efficiency projects such as HVAC upgrades and solar carports at some campuses, but lacks comprehensive data on energy use, resilience strategies, or references to state mandates like Title 24 or Zero Net Energy goals."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a detailed capital strategy with itemized cost estimates, prioritization criteria, and multiple funding sources including bonds and developer fees. Includes escalation assumptions, contingencies, and long-term financial sustainability considerations (e.g., detailed project budgets and funding strategies throughout)."
+    }
+  }
+}

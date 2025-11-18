@@ -1,0 +1,33 @@
+{
+  "district": "Escalon",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed data on building ages, sizes, portables, classrooms, specialized spaces, and site plans (Sections 3.1, 4.1-4.8). Robust condition assessments cover major systems and connect facility condition to educational needs and long-term capital planning (Sections 4.1-4.8, 6.1)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections with methodology, including demographic trends and birth rates, over a long-term horizon (Sections 3.3, 3.4). Capacity utilization data by site and grade with local and state loading standards, including portables, is analyzed and linked to facility actions such as modernization and new construction (Tables 6-8, Sections 3.4, 6.1)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed educational specifications for all grade spans, including 21st Century learning environments, STEM labs, special education, CTE, and flexible learning spaces (Sections 2.1-2.3, 6.2). Facility projects are directly connected to educational goals and programs (Sections 6.1-6.3)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Plan provides data and analysis of outdoor spaces including playfields, gardens, and hardcourts at multiple sites (Sections 4.1.6, 4.2.6, 4.3.6, 4.4.6). Strategies for improvements such as play structures and shade are mentioned but not fully detailed districtwide or framed as climate resilience (Sections 4.1-4.5)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Minimal mention of climate risks or mitigation strategies; no detailed climate risk assessment or integration of climate resilience as a theme in the plan (no explicit references found)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes references to energy efficiency projects such as solar panels, HVAC updates, and lighting improvements (Section 4.3.1). Discusses energy resilience goals and references state requirements (Title 24, ZNE) indirectly through modernization and new construction plans (Sections 4.3, 6)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Comprehensive financial plan with detailed cost estimates, prioritization framework, and multiple funding sources including state grants, local bonds, developer fees, and capital funds (Sections 5, 7). Clear sequencing and phasing of projects aligned with funding availability and district priorities (Sections 7.1-7.3)."
+    }
+  }
+}

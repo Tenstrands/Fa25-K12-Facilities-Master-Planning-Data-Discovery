@@ -1,0 +1,33 @@
+{
+  "district": "Firebaugh",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed building sizes, ages, portables, and specialized spaces (e.g., kitchens, music rooms, athletic fields). Robust condition assessment covers major systems (HVAC, plumbing, roofs, electrical, lighting, technology infrastructure, accessibility) with detailed project budgets and prioritization (Sections 3, 4, 6). Connects condition data to student outcomes and instructional priorities."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 3,
+      "justification": "Provides detailed enrollment data and projections with historical trends and demographic context. Identifies capacity utilization and discusses potential actions such as modernization and facility improvements. However, lacks explicit long-term strategies for closures, consolidations, or boundary changes (Sections 1, 3, 5)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "Plan references district mission and educational goals, including support for 21st century learning environments, CTE, AP courses, and collaboration with community college. Facility projects are connected to educational programs (e.g., music rooms, kitchens, STEM labs), but integration is partial and not fully comprehensive (Sections 1, 3, 4)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Includes data and analysis of outdoor spaces with site maps showing playfields, courts, and green areas. Identifies strategies for improvements such as shade structures and turf upgrades. References outdoor learning and community joint-use projects, but districtwide greening and climate resilience framing is limited (Sections 3, 4, 5)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Minimal mention of climate risks or resilience strategies. No detailed climate risk assessment or comprehensive mitigation strategies are evident in the plan. Emergency preparedness is not linked to climate change impacts (No explicit sections found)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "Mentions energy efficiency projects such as LED lighting upgrades and HVAC improvements. References Proposition 39 funding and energy management systems but lacks comprehensive data on energy use or detailed resilience strategies like microgrids or electrification plans (Sections 3, 6)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents detailed capital strategy with itemized cost estimates, funding sources including state grants, developer fees, and potential general obligation bonds. Includes prioritization framework and contingency considerations. Aligns financial capacity with district priorities and provides a realistic path forward (Section 6)."
+    }
+  }
+}

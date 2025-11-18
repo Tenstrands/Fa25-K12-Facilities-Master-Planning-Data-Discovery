@@ -1,0 +1,33 @@
+{
+  "district": "Goleta",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including building age, size, classrooms, specialized spaces, and detailed site plans (Chunks 1-6). Robust condition assessments cover HVAC, plumbing, roofs, electrical, lighting, technology infrastructure, and accessibility with data-driven prioritization for immediate and long-term needs (Chunks 4-6, 18-20). Termite damage and roof issues are documented with integrated capital planning (Chunks 5, 18, 31)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections and capacity utilization data by site, classroom, and grade with square footage and student counts (Chunks 3-4). Plans link capacity analysis to specific facility actions including new construction, consolidation, and adaptive space use (Chunks 3, 16, 24). Innovative uses such as wellness hubs and community partnerships are referenced (Chunks 16, 24)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with comprehensive analysis connecting district mission, instructional priorities, and facilities planning (Appendix A, Chunks 69-80). Detailed educational specifications cover STEAM, art, music, special education, outdoor learning, and flexible learning environments (Chunks 69-80). Facility projects respond directly to educational needs including maker spaces, flexible classrooms, and specialized program spaces."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 4,
+      "justification": "Outdoor greening and climate-adapted design are central elements with districtwide data on green surfaces, shade coverage, and stormwater management (Appendix A, Chunks 69, 91-92). Strategies include expanding tree cover, permeable surfaces, outdoor classrooms, rain gardens, and bioswales (Appendix A). Outdoor learning and environmental literacy are integrated holistically (Chunks 69, 91-92)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Plan addresses climate impacts and resilience strategies with some detail, including shade structures and solar parking shade with battery storage (Budget Summary, Chunks 93-96). However, comprehensive district-wide climate risk assessment and multi-impact mitigation strategies are not fully evident."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Energy efficiency strategies such as solar panels, LED lighting, HVAC upgrades, and electrification are included (Budget Summary, Chunks 93-96). Energy resilience is mentioned with solar parking shade structures and battery storage, but comprehensive data on energy use and full electrification plans are limited."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Comprehensive capital strategy with detailed cost estimates, project prioritization, and multiple funding strategies including bonds, state programs, and developer fees (Budget Summary, Chunks 93-96). Cost escalation assumptions and contingencies are included. Prioritization criteria align with safety, equity, program alignment, lifecycle cost, and climate resilience."
+    }
+  }
+}

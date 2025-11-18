@@ -1,0 +1,33 @@
+{
+  "district": "TahoeTruckee",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed building sizes, ages, portables, classrooms, and specialized spaces; robust condition assessment covering HVAC, plumbing, roofs, electrical, lighting, technology infrastructure, and accessibility; integrates condition data with student outcomes and long-term capital planning (Ch. 3, Appendices 1-3)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections through 2029 with methodology from SchoolWorks; site-level capacity utilization data including classrooms and square footage; explicit connection of enrollment trends to rightsizing strategies, closures, consolidations, and adaptive space uses (Ch. 2, Demographics and Enrollment Analysis)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Facilities Master Plan explicitly integrates district mission and educational goals; detailed educational specifications addressing TK, CTE, special education, wellness centers, and collaborative learning spaces; facility projects directly respond to educational program needs and instructional priorities (Executive Summary, Guiding Principles, and site-specific plans)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 4,
+      "justification": "District-wide data on outdoor spaces including playgrounds, turf fields, shade structures, and stormwater management; detailed strategies for campus greening such as artificial turf fields, permeable surfaces, rain gardens, and outdoor learning environments; greening framed as climate resilience and wellness strategy (Site plans and Executive Summary)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 4,
+      "justification": "Climate readiness and resilience are central themes throughout the plan; comprehensive climate risk assessment addressing snow loads, wildfire, and weather disruptions; detailed mitigation strategies including structural roof upgrades, backup power, stormwater management, and sustainable design integrated district-wide and site-specific (Executive Summary, Guiding Principles, Structural Narrative)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 4,
+      "justification": "Significant detail on energy use baselines, targets, and strategies; references to Title 24, Zero Net Energy goals, and DSA Sustainability Review; plans for electrification, solar PV, battery storage, microgrids, HVAC upgrades, and decarbonization; energy resilience linked to climate disruptions and cost savings (Sustainability section, Executive Summary)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Comprehensive capital strategy with detailed cost estimates, escalation, contingencies, and soft costs; clear prioritization framework aligned with safety, equity, program alignment, lifecycle cost, and climate resilience; multiple funding sources identified including bonds, state programs, developer fees; long-term financial sustainability and project phasing addressed (Appendix 2, Budget Model)."
+    }
+  }
+}

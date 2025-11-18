@@ -1,0 +1,33 @@
+{
+  "district": "Soledad",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including all schools, administrative buildings, and other properties with detailed data on building age, size, classrooms, specialized spaces, and site plans (Table 1, pages 13-15). Robust condition assessments cover major systems (HVAC, plumbing, roofs, electrical, lighting, technology infrastructure, accessibility) with multiple data sources including facility audits and engineering assessments (Volume Three, pages 15-127). The plan connects facility condition to student outcomes and instructional priorities, identifying immediate and long-term needs integrated into capital planning."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides comprehensive enrollment analysis with detailed methodology including demographic trends, housing patterns, and community data (Volume Two, pages 1-35). Detailed capacity utilization data by site, classroom, and grade with square footage and student counts (Table 1, pages 13-15; Enrollment projections pages 20-36). Explicitly links enrollment projections to long-term facility needs with strategies for new construction, consolidation, and boundary changes, including innovative uses of space (e.g., wellness hubs) and detailed planning for Miramonte development (pages 21-24)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "Includes discussion of educational goals and some connection to facilities, with references to specialized classrooms and programs (e.g., CTE, special education) in site assessments and project lists (Volume Three). However, the plan coverage of educational specifications is partial and uneven, lacking a fully integrated core organizing principle linking facilities projects directly to educational goals."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "Mentions outdoor spaces such as playgrounds, athletic fields, and some shade structures (Volume Three site assessments). Includes some references to greening and shade but lacks districtwide data or comprehensive strategies for campus greening, stormwater management, or outdoor learning. No detailed analysis of surface types, canopy cover, or climate resilience framing."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges climate-related issues indirectly through references to roofing, drainage, and site conditions but does not provide a detailed climate risk assessment or comprehensive climate resilience strategies. No central theme of climate readiness or districtwide mitigation planning is evident."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "Mentions energy efficiency projects such as lighting upgrades under Prop. 39 and HVAC system upgrades across sites (Volume Three). Lacks comprehensive energy data, detailed resilience strategies, or references to state requirements like Title 24 or Zero Net Energy goals. No discussion of electrification or decarbonization."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a comprehensive financial plan including detailed cost estimates for Tier 1 projects with escalation, contingencies, and soft costs (Volume Three, pages 9-10). Provides a clear prioritization framework and multiple funding strategies including Measure G bond funding, state funding, developer fees, and alternative financing (pages 16-19, 25-28). Considers long-term financial sustainability and aligns financial capacity with district priorities."
+    }
+  }
+}

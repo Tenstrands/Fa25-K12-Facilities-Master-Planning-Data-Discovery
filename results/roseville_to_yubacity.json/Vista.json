@@ -1,0 +1,33 @@
+{
+  "district": "Vista",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed building and classroom data, portable counts, and site plans. Robust condition assessment covering all major systems (HVAC, plumbing, electrical, roofing, lighting, technology infrastructure, accessibility) with multiple data sources and connection to student outcomes and capital planning (Facility Needs Assessment, Site Master Plans, Facility Condition Assessment sections)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections over 7 years with methodology explained (Davis Demographics report). Capacity utilization data by site and classroom with state loading standards. Clear connection of enrollment trends to facility actions including new construction, modernization, portable removal, and adaptive reuse (Demographics & Capacity Analysis, Site Master Plans)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed educational specifications linking district mission, learner and adult portraits, curriculum framework, instructional delivery, and facility design. Facility projects and scopes are explicitly connected to educational goals and programs including TK, CTE, special education, and collaborative learning (Education Specifications, Curriculum Framework, Instructional Delivery sections)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 4,
+      "justification": "District-wide data on outdoor spaces including square footage of green surfaces, shade structures, permeable surfaces, and stormwater management. Detailed strategies for campus greening such as expanding tree cover, rain gardens, bioswales, outdoor classrooms, and climate resilience framing. Outdoor learning and community benefits are integrated (Site Master Plans, Proposed Scopes of Work, Community Engagement)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 3,
+      "justification": "Plan addresses multiple climate impacts with detailed strategies such as shade structures, solar panels, EV charging, stormwater management, and reconditioning hillsides. Climate readiness is a theme in the plan and integrated into site-level projects and long-range planning, but lacks a comprehensive district-wide climate risk assessment for multiple impacts (Facility Condition Assessment, Site Master Plans, Solar Panels, Shade Structures)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 4,
+      "justification": "Significant detail with district-wide energy use data, strategies for electrification, renewable integration, solar arrays, battery storage, microgrids, and compliance with Title 24 and Zero Net Energy goals. Energy resilience is embedded as a core part of the plan with detailed cost estimates and project scopes (Energy Efficiency & Resilience sections, Site Master Plans, Solar Panel installations)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Comprehensive capital strategy with detailed cost estimates by project and site, including escalation and contingencies. Clear prioritization framework and multiple funding strategies including bonds, state programs, developer fees, and alternative financing. Long-term financial sustainability and alignment with educational priorities demonstrated (Financial Summary, Cost Analysis, Project Cost Summaries)."
+    }
+  }
+}

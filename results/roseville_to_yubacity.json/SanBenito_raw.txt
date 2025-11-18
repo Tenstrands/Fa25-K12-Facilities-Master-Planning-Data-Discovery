@@ -1,0 +1,33 @@
+{
+  "district": "SanBenito",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 2,
+      "justification": "The plan references completed and ongoing facility projects and improvements (e.g., new buildings, modernization, energy efficient systems) but lacks a comprehensive district-wide inventory with detailed square footage, site plans, or multi-system condition assessments (Ch. 2-4)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan provides detailed enrollment projections over 10+ years, including student generation rates from new development, capacity utilization data, and explicit strategies for addressing overcapacity such as constructing a new high school (Ch. 3-6)."
+    },
+    "Educational Alignment": {
+      "score": 2,
+      "justification": "The plan references educational goals broadly and mentions challenges of large school size on learning environment but lacks detailed educational specifications or direct connections between facility projects and specific educational programs (Ch. 1-2, 5)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 1,
+      "justification": "No mention or discussion of outdoor spaces, greening, shade, or outdoor learning is found in the plan content provided."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan minimally acknowledges climate-related impacts indirectly via energy efficiency and modernization but does not provide a detailed climate risk assessment or comprehensive mitigation strategies (Ch. 4-5)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan details energy efficiency upgrades such as LED lighting, solar photovoltaic systems, and HVAC improvements, and references energy resilience goals, but lacks comprehensive strategies or detailed energy use data (Ch. 2-4)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents a comprehensive financial strategy with detailed cost estimates, multiple funding sources (developer fees, bonds, state grants), prioritization of projects, and long-term financial sustainability considerations (Ch. 6-10)."
+    }
+  }
+}

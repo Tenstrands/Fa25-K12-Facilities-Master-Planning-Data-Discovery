@@ -1,0 +1,33 @@
+{
+  "district": "Washington",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed building ages, sizes, classrooms, specialized spaces, and site plans (e.g., Bridgeway Island ES detailed in 2.2). Robust condition assessments cover HVAC, plumbing, roofs, electrical, lighting, technology infrastructure, and accessibility features with multiple data sources and connection to student outcomes (Sections 2.2-2.16, Maintenance 5.0)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides detailed enrollment projections through 2024/25 with methodology and assumptions, including demographic trends and housing developments (Section 4.0 Historic and Projected Enrollment). Capacity utilization data by site and classroom is detailed with explicit strategies for addressing under- and over-capacity, including new construction and repurposing (e.g., Bridgeway Island ES 2.2, Riverbank ES 2.5)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with clear integration between district mission, instructional priorities, and facilities planning. Detailed educational specifications support multiple programs including TK, CTE, special education, and collaborative learning (Section 2.1 Goals and Purpose, 2.7 Visual and Performing Arts, and site-specific projects). Facility projects directly respond to educational needs."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 4,
+      "justification": "Outdoor greening and climate-adapted design are central elements with districtwide data on green surfaces, shade coverage, and stormwater management strategies. Detailed strategies include campus greening projects, shade structures, outdoor classrooms, rain gardens, and bioswales (Sections 2.7, 2.8, 2.9, 2.12). Outdoor learning and environmental literacy are referenced holistically."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Plan acknowledges climate risks broadly and includes some strategies such as shade structures and drainage improvements (e.g., Positive Campus Climate projects in 2.7-2.10). However, it lacks a comprehensive climate risk assessment or districtwide detailed mitigation strategies and climate readiness is not a central theme."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as solar panels, HVAC upgrades, and network cabling improvements (e.g., Bridgeway Island ES 2.2, Riverbank ES 2.5). Energy resilience is mentioned with some backup power and infrastructure upgrades, and references to state requirements (Title 24) are implied but not comprehensively detailed."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a comprehensive capital strategy with detailed cost estimates, prioritization of projects by categories, and multiple funding strategies including GO bonds, state grants, developer fees, and alternative financing (Section 3.0 Potential Funding Sources). Includes bond authorization analysis, escalation assumptions, and a clear implementation timeline (Section 3.4)."
+    }
+  }
+}

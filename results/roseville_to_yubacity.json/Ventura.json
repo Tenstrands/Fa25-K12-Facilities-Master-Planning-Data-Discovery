@@ -1,0 +1,33 @@
+{
+  "district": "Ventura",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed building ages, sizes, classrooms, specialized spaces, and site plans. Robust condition assessment covering HVAC, plumbing, roofs, electrical, lighting, technology infrastructure, and accessibility, with connection to student outcomes and long-term capital planning (Chunks 1-5, 31-34, 39-42)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections over 10 years with methodology explained, including demographic trends and housing patterns. Capacity utilization data by site and grade with square footage and student counts, linked to specific facility actions and strategies for consolidation and adaptive space use (Chunks 6-8, 87-89)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed educational specifications. The plan integrates district mission, instructional priorities, and facilities planning, addressing multiple programs including TK, CTE, special education, STEM, and outdoor learning. Facility projects are directly connected to educational goals (Chunks 8-24, 29-30)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Provides data and analysis of outdoor spaces including playgrounds and green areas, with strategies for improvements such as shade structures and outdoor learning areas. However, districtwide data on green surfaces and climate resilience framing is limited (Chunks 9-11, 26, 53)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Acknowledges climate-related site issues such as drainage and heat mitigation through shade structures. Mentions some strategies like solar opportunities and hydration stations but lacks comprehensive districtwide climate risk assessment or multi-impact mitigation strategies (Chunks 11, 31, 53, 61)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy use data and energy efficiency strategies such as lighting upgrades, HVAC replacements, and references to Title 24 and Zero Net Energy goals. Energy resilience is mentioned but comprehensive resilience strategies like microgrids or electrification plans are not fully detailed (Chunks 31, 39, 53, 61, 76)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 3,
+      "justification": "Provides itemized cost estimates, prioritization framework, and identifies funding sources including bonds, state grants, and developer fees. Discusses phased implementation and aligns financial capacity with educational priorities but lacks detailed escalation assumptions and comprehensive long-term financial sustainability analysis (Chunks 81-83)."
+    }
+  }
+}

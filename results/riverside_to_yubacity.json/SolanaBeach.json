@@ -1,0 +1,33 @@
+{
+  "district": "SolanaBeach",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory with detailed site plans and condition assessments including major systems and accessibility; connects condition data to student outcomes and long-term capital planning (Sections 6, 7, 9)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed 10-year enrollment projections with methodology, demographic analysis, capacity utilization by site and grade, and explicit connection to facility actions including new school construction and reconfiguration (Sections 4, 5, 9)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed discussion of how facilities support multiple programs including TK, special education, and CTE; facility projects directly respond to educational goals (Sections 1, 2, 9)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 4,
+      "justification": "District-wide data on outdoor spaces including shade, green surfaces, stormwater management; detailed site-specific greening strategies such as bioswales, permeable surfaces, outdoor classrooms, and climate resilience framing (Section 8)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 3,
+      "justification": "Plan addresses climate impacts with detailed environmental and wind analyses, and provides multiple resilience strategies including shade, cool roofs, stormwater management, and HVAC improvements; climate readiness is a theme but not fully district-wide across all sites (Section 8)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 4,
+      "justification": "Significant detail with district-wide energy use data, strategies for energy efficiency, electrification, decarbonization, and resilience including solar, battery storage, microgrids, and compliance with Title 24 and Zero Net Energy goals (Sections 8, 9)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Comprehensive capital strategy with detailed cost estimates, phased prioritization, multiple funding strategies including bonds and state grants, and alignment with district priorities; includes bond issuance scenarios and modernization eligibility (Sections 9, 10)."
+    }
+  }
+}

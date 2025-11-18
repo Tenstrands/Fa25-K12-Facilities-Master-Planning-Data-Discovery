@@ -1,0 +1,33 @@
+{
+  "district": "Gravenstein",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "The plan provides a comprehensive district-wide inventory including detailed information on building age, size, classrooms, and specialized spaces (e.g., music rooms, science labs, multipurpose rooms). It includes robust condition assessments covering structural, electrical, mechanical, roofing, dry rot, accessibility, and energy systems, with detailed recommendations and phased capital planning (Sections 4 and 5, pages 11-26)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 2,
+      "justification": "The plan includes enrollment trend data from 2001-2011 with some discussion of recent increases but lacks detailed long-term projections or capacity utilization analysis linked to specific facility actions (Page 6). There is no comprehensive strategy connecting enrollment trends to facility consolidation or adaptive reuse."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "The plan references educational goals and programs such as music, science labs, and arts, and connects facility projects to these programs (e.g., new science and music classrooms). It includes some educational specifications beyond minimum requirements but coverage is partial and not fully integrated district-wide (Sections 4 and 5, pages 12-25)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "The plan mentions outdoor spaces such as shaded lunch areas, garden and greenhouse, and plaza/amphitheater concepts, but provides minimal data or districtwide analysis of green space or greening strategies. References to outdoor learning and greening are limited and not fully developed (Pages 19, 30-31)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan acknowledges energy efficiency and some environmental considerations but does not include a detailed climate risk assessment or comprehensive climate resilience strategies. Climate readiness is not a central theme (Sections on energy and facility assessments)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan discusses energy efficiency upgrades including insulation, lighting upgrades, solar photovoltaic systems, and mechanical system improvements. It references energy benchmarking and some resilience goals but lacks a fully integrated energy resilience strategy or detailed data on energy use and state compliance (Pages 8-9, 15, 25)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 3,
+      "justification": "The plan provides detailed cost estimates for projects, phased implementation, and some prioritization criteria. It identifies funding sources such as state modernization funds but lacks a comprehensive multi-source funding strategy or long-term financial sustainability analysis (Pages 31-33)."
+    }
+  }
+}

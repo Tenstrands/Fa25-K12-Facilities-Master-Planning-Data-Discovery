@@ -1,0 +1,33 @@
+{
+  "district": "Alisal",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 3,
+      "justification": "The plan includes a comprehensive inventory of facilities with details on building age, size, and condition assessments for major systems. However, it lacks a robust connection between condition data and long-term planning (Executive Summary, Campus Analysis)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 3,
+      "justification": "The plan provides detailed enrollment projections and identifies sites that are under- or over-capacity, discussing potential actions. It acknowledges long-term implications but lacks fully developed strategies for school closures or consolidations (Executive Summary, Growth in North Salinas)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "The plan connects facility projects to educational goals and includes educational specifications, but the coverage of programmatic shifts and specific requirements for various educational programs is partial (Executive Summary, Campus Analysis)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "The plan includes some references to outdoor spaces and greening but lacks detailed analysis or strategies for improvement. There is minimal discussion on the health benefits of outdoor spaces (Executive Summary, Campus Analysis)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan acknowledges climate change impacts but does not provide detailed assessments or specific strategies for mitigating climate risks. There is no comprehensive climate risk assessment included (Executive Summary)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "The plan mentions energy efficiency projects but lacks comprehensive strategies for energy resilience and does not provide data on energy use or reference state requirements (Executive Summary, Funding)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 3,
+      "justification": "The plan provides itemized cost estimates and identifies potential funding sources, but lacks a detailed prioritization framework and comprehensive discussion of long-term financial sustainability (Funding, Cost Projections)."
+    }
+  }
+}

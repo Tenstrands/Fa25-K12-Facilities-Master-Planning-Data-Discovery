@@ -1,0 +1,33 @@
+{
+  "district": "SantaClara",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed building sizes, ages, portables, classrooms, specialized spaces, and site plans (e.g., Bowers, Bracher, Braly, Central Park, etc.). Robust condition assessments cover major systems and building conditions with lifecycle and budget projections (Pages 4, 14-16, 23, 31, 44, 53, 62, 73, 82, 91, 99, 109, 118, 128, 136, 145, 150, 159, 168). The plan connects condition data to long-term capital planning."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections and capacity utilization analyses are integrated into long-term planning with phased construction and site-specific strategies. Plans include capacity data by site and classroom, with explicit strategies for portables replacement, new construction, and adaptive uses (e.g., Bowers, Braly, Central Park, Haman, Millikin, Montague, Pomeroy, Scott Lane, etc.). Enrollment trends and demographic considerations are linked to facility actions (Pages 16-23, 31, 44, 53-55, 62-64, 73-75, 82-90, 91-98, 109-117, 118-126, 128-135, 136-144)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed educational specifications for classrooms, specialized spaces (makerspaces, STEM labs, music rooms), and programmatic needs (early learners, special education, wellness centers). Facility projects are directly connected to educational goals and instructional priorities district-wide (e.g., detailed descriptions of classroom types, collaboration spaces, wellness centers, and program support in multiple schools including Don Callejon, Bowers, Braly, Central Park, and others) (Pages 5-7, 14-16, 31, 44, 53, 62, 73, 82, 91, 109, 118, 128, 136, 145, 150)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 4,
+      "justification": "The plan positions outdoor greening and climate-adapted design as central elements, providing districtwide data on green spaces, shade structures, permeable surfaces, and outdoor classrooms. Strategies include expanding tree cover, rain gardens, bioswales, and outdoor learning environments. Shade and green space are framed as climate resilience strategies with connections to wellness and environmental literacy (e.g., outdoor amphitheaters, gardens, lunch shade structures, PE shade structures, outdoor classrooms across multiple campuses) (Pages 7, 19, 45, 49, 68, 87, 105, 114, 133, 141, 148)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 3,
+      "justification": "The plan addresses multiple climate impacts and resilience strategies in detail, including shade structures, stormwater management, and energy resilience. Climate readiness is a priority and a theme in the plan, with references to heat mitigation, flood risk, and air quality improvements. However, the assessment and strategies are more generalized districtwide rather than site-specific or comprehensive for multiple climate impacts (Introduction, District Standards, Sustainability Initiatives, and various site plans referencing shade and stormwater) (Pages 2, 4, 7, 14)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 4,
+      "justification": "Energy resilience and efficiency are core parts of the facilities plan, with data on energy use, strategies for electrification, solar panels, battery storage, and microgrids. The plan references state requirements (Title 24, Zero Net Energy goals) and includes comprehensive strategies for decarbonization and energy resilience to address climate-related disruptions (District Standards, Sustainability Initiatives, and multiple site plans with solar and energy strategies) (Pages 2, 7, 14)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents a comprehensive capital strategy with detailed cost estimates, phased project prioritization, and multiple funding strategies including bonds, state programs, and developer fees. It includes escalation assumptions, contingencies, and aligns financial capacity with educational priorities and facility needs. The plan provides clear prioritization criteria and long-term financial sustainability considerations (Phased implementation described throughout site plans and master plan summaries, with detailed project phasing and funding strategies referenced in multiple campus plans)."
+    }
+  }
+}

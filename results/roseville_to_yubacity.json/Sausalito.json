@@ -1,0 +1,33 @@
+{
+  "district": "Sausalito",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed building ages, sizes, portables, and specialized spaces; robust condition assessments by Bureau Veritas covering all major systems; connection of condition data to student outcomes and long-term capital planning (Chapters 2, 5; Facility Condition Assessments; Executive Summary)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections with methodology, including demographic trends and state data; capacity utilization data by site and grade with square footage; explicit connection of enrollment to facility actions including consolidation and new construction; innovative uses of space discussed (Introduction and Process, pp. 26-28)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle; detailed educational specifications linked to district mission and instructional priorities; comprehensive analysis of how facilities support multiple programs including TK, CTE, special education, collaborative learning, and technology; facility projects directly respond to educational goals (Introduction and Process, pp. 21-25; Facilities Assessments, pp. 45-48; Staff and Community Input)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Provides data and analysis of outdoor spaces including play yards, fields, and gardens; identifies strategies for improvement such as shade structures, outdoor classrooms, and play structures; mentions connections to wellness and outdoor learning at certain sites; however, lacks districtwide greening data and comprehensive climate resilience framing (Staff and Community Input; Site Analysis and Master Plans)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Acknowledges climate-related issues such as stormwater drainage problems and need for shade and solar panels; includes some strategies for mitigation like stream daylighting and solar panels; however, lacks comprehensive climate risk assessment or districtwide climate resilience as a central theme (Facility Condition Assessments; Community Priorities)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as HVAC upgrades, LED lighting, and solar panels; references Title 24 and Zero Net Energy goals; discusses energy resilience goals including solar and battery storage; provides some energy use data but lacks fully comprehensive energy resilience plan (Bond Implementation Priorities; Staff and Community Input)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a comprehensive capital strategy with detailed cost estimates across all projects, including escalation and contingencies; clear prioritization framework with phased projects; multiple funding strategies including bonds and state programs; considers long-term financial sustainability and aligns financial capacity with educational priorities (Program Costs, Chapters 3 and 5; Bond Implementation Priorities)."
+    }
+  }
+}

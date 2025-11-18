@@ -1,0 +1,33 @@
+{
+  "district": "Gonzales",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed building ages, sizes, classrooms, portables, and specialized spaces across all schools. Robust condition assessments cover major systems (HVAC, roofing, windows, ADA compliance, security) with detailed cost estimates and integration into long-term capital planning (Sections 4, 9-15)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections over 6 years with methodology explained, including demographic trends, birth rates, housing development, and cohort analysis. Capacity utilization data by site and classroom provided with clear connection to facility needs and planning for new construction and modernization (Sections 3, 6-8)."
+    },
+    "Educational Alignment": {
+      "score": 2,
+      "justification": "Educational goals and mission are mentioned broadly (e.g., technology use, standards-based curriculum at Gonzales High), but the plan lacks detailed educational specifications or explicit connections between facility projects and specific educational programs or instructional needs (Sections 8, 44)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "Outdoor spaces such as playfields, all-weather tracks, and playground upgrades are noted with some cost estimates, but there is minimal discussion of greening, shade, or environmental benefits. No districtwide data or comprehensive greening strategies are provided (Sections 3, 11, 15)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan acknowledges facility needs related to roofing, HVAC, and security but does not include a detailed climate risk assessment or climate resilience strategies. Climate readiness is not a central theme in the plan (no explicit references found)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 1,
+      "justification": "No mention of energy efficiency, electrification, decarbonization, or energy resilience strategies. No data on energy use or reference to state requirements such as Title 24 or Zero Net Energy goals (no relevant content found)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Comprehensive financial plan including detailed cost estimates for modernization and new construction projects, multiple funding sources (state modernization, new construction, developer fees, local bonds, COPs), and discussion of prioritization and long-term funding strategy (Sections 2-6)."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "district": "SanBenito",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 2,
+      "justification": "The plan references completed and ongoing facility projects and improvements (e.g., new buildings, modernization, energy efficient systems) but lacks a comprehensive district-wide inventory with detailed square footage, site plans, or a robust condition assessment tool beyond general descriptions (Chunks 2, 4)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan provides detailed enrollment projections with methodology including cohort survival and student generation rates from new development, detailed capacity data, and explicit discussion of capacity challenges and strategies including new high school construction versus expansion (Chunks 3, 4, 5)."
+    },
+    "Educational Alignment": {
+      "score": 2,
+      "justification": "The plan references educational goals broadly and mentions programmatic considerations (e.g., special programs at new high school), but lacks detailed educational specifications or explicit connections between facility projects and specific educational programs or instructional needs (Chunks 1, 5)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 1,
+      "justification": "There is no mention or discussion of outdoor spaces, greening, shade, or outdoor learning in the plan content provided."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan minimally acknowledges energy efficiency and some environmental upgrades but does not provide a detailed climate risk assessment or comprehensive climate resilience strategies (Chunks 2, 7)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan details energy efficiency upgrades such as LED lighting, solar photovoltaic systems, and energy efficient HVAC, and references energy resilience goals, but lacks comprehensive data on energy use baselines, targets, or detailed electrification and decarbonization strategies (Chunks 2, 7)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents a comprehensive financial strategy including detailed cost estimates, multiple funding sources (developer fees, CFDs, state funding, GO bonds), prioritization of projects, and long-term financial sustainability considerations with escalation assumptions and funding shortfall analysis (Chunks 6, 7, 8, 9, 10)."
+    }
+  }
+}

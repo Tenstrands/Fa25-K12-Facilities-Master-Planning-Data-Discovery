@@ -1,0 +1,33 @@
+{
+  "district": "GrassValley",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed building and classroom data, portable counts, and site acreage (Sections II, Appendix A-D). Robust condition assessment using Facility Inspection Tool with detailed ratings and connection to maintenance planning (Section III, Tables III-2, III-3). Includes DSA certification status and long-term capital needs integrated into planning (Section VI)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections through 2026/27 with methodology explained, including cohort survival and housing development impact (Section IV, Tables IV-1 to IV-3). Capacity utilization data by site and classroom with practical capacity calculations and connection to facility actions (Section II, Table II-4). Explicit discussion of under- and over-capacity and potential facility actions."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational goals and mission clearly integrated with facilities planning (Section I). Detailed LCAP goals linked to facility needs and program support including special education, charter school programs, and instructional technology. Facility projects and modernization plans respond directly to educational program needs and priorities (Sections I, VI)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "Some references to outdoor spaces such as playgrounds, community gardens, and shaded outdoor patios (Sections II, VI). However, lacks districtwide data or comprehensive strategies for greening, shade coverage, or stormwater management. No explicit connection to climate resilience or outdoor learning."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Minimal mention of climate-related risks or mitigation strategies. Some references to weatherproofing roofs and infrastructure upgrades (Section VI), but no comprehensive climate risk assessment or districtwide resilience planning."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy use data and energy-related upgrades such as HVAC replacements, LED lighting retrofits, and solar attenuating windows (Sections VI, Appendices). References to Title 24 and energy efficiency goals are implicit in modernization projects. Energy resilience discussed but not comprehensively planned districtwide."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Comprehensive capital strategy with detailed cost estimates by project and priority, including contingencies and escalation (Section VI, Appendix F). Clear prioritization framework and multiple funding sources identified including state programs, bonds, and grants (Section VII). Financial planning aligned with educational and facility needs."
+    }
+  }
+}

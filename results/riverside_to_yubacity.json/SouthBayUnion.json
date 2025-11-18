@@ -1,0 +1,33 @@
+{
+  "district": "SouthBayUnion",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "The plan provides a comprehensive district-wide inventory including all schools, administrative buildings, and support facilities with detailed information on building age, size, portables, and specialized spaces (Chunks 1, 4-15). It includes a robust condition assessment using color-coded grades (Excellent, Good, Fair, Poor) for all major systems and buildings, with detailed site-specific assessments and integration into long-term capital planning (Chunks 2, 4-15)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan includes a detailed demographic study with 10-year enrollment projections using third-party consultant data, explaining assumptions and trends such as declining enrollment and its causes (Chunks 2-3). It provides detailed capacity utilization data by site, including impacts on portables and space reconfiguration, and links these projections to specific facility actions like removal of portables and new construction (Chunks 3-6, 9)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "The plan explicitly connects facility projects to educational goals and programs, including STEAM, Dual Language Immersion, Makerspace labs, VAPA/STEM, and special education (Chunks 1, 4-15). Educational alignment is a core organizing principle, with detailed educational specifications guiding renovations and new construction to support instructional priorities and programmatic needs."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 4,
+      "justification": "The plan positions outdoor greening and climate-adapted design as central elements, providing districtwide data on outdoor spaces, including playfields, shade structures, walking tracks, outdoor learning areas, and EV charging stations (Chunks 4-15). It includes detailed strategies for campus greening such as shade shelters, permeable surfaces, and outdoor classrooms, framed as climate resilience and wellness strategies."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "The plan acknowledges climate-related risks broadly and includes some strategies such as shade structures and EV charging stations, but lacks a comprehensive climate risk assessment or detailed multi-risk mitigation strategies across the district (Chunks 4-15). Climate readiness is mentioned but not positioned as a central theme or fully integrated into long-range planning."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan includes energy efficiency strategies such as solar photovoltaic arrays, battery storage, and EV charging stations, with some data on energy use and references to Title 24 and Zero Net Energy goals (Chunks 4, 15). Energy resilience is discussed as a goal with planned upgrades, but comprehensive strategies for electrification and decarbonization are not fully detailed."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents a comprehensive capital strategy with detailed cost estimates by site and project type, including escalation and contingency assumptions (Chunks 16-19). It outlines prioritization criteria, multiple funding sources including state grants, bonds, developer fees, and alternative financing, and considers long-term financial sustainability aligned with district priorities."
+    }
+  }
+}

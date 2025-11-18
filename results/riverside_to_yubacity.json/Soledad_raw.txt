@@ -1,0 +1,33 @@
+{
+  "district": "Soledad",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed data on building sizes, ages, classrooms, specialized spaces, and site plans (Table 1, pages 13-15). Robust condition assessments cover major systems and accessibility, with detailed site assessments and Tier 1 project lists integrating immediate and long-term needs (Volume Three, pages 24-127)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections over 6+ years with methodology explained, including demographic trends, birth rates, and housing development (Volume Two, pages 1-35). Capacity utilization data by site and grade with square footage and classroom counts linked to enrollment projections and facility actions (pages 20-36). Explicit strategies for new construction and consolidation linked to projected residential development."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "Plan references educational goals and some program needs (e.g., CTE, special education) with connections to facility projects (e.g., new science wing at high school, special education classrooms) but coverage is partial and uneven (Facility assessments and site committee comments, Volume Three). Educational specifications beyond minimum requirements are present but not fully integrated as a core organizing principle."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "References to outdoor spaces include playgrounds, fields, and some shade structures; some plans for shade and resurfacing (e.g., playground surface replacements, shade structures at multiple sites). However, lacks districtwide data on green space, canopy cover, or stormwater management; greening and outdoor learning are mentioned only in passing (Facility assessments, site committee comments)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges some climate-related facility issues such as roof leaks, drainage, and flooding concerns (site assessments), but does not provide detailed climate risk assessments or comprehensive resilience strategies. Climate readiness is not a central theme in the plan."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "Mentions replacement of interior and exterior lighting under Prop. 39 and some HVAC upgrades across campuses. No comprehensive energy data or detailed strategies for electrification, decarbonization, or energy resilience; state requirements like Title 24 or Zero Net Energy goals are not referenced."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a detailed financial plan including cost estimates for Tier 1 projects, new construction, and modernization with escalation and contingencies (pages 25-27, Volume One). Includes prioritization framework, multiple funding sources (Measure G bond, state funding, developer fees), and long-term financial sustainability considerations with transparency and accountability emphasized."
+    }
+  }
+}

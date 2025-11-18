@@ -1,0 +1,33 @@
+{
+  "district": "SouthSanFrancisco",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed classroom counts, building ages, and specialized spaces; robust condition assessment with detailed project budgets and prioritization; integrates short- and long-term needs into capital planning (Ch. 1-2, 16-26, 59-61)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections using multiple cohort survival methodologies; integrates residential development impact with student generation factors; capacity utilization data by site and grade with clear connection to facility actions (Ch. 3-15, 41, 67-68)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational specifications are a core organizing principle; detailed descriptions of learning environments, specialized classrooms, and non-instructional spaces aligned with district mission and instructional goals; direct connection of facilities to educational programs across all school levels (Ch. 26-57)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Includes data and analysis of outdoor spaces with strategies for improvement such as shade structures, outdoor learning areas, and playground rehabilitation; references to site infrastructure and greening but lacks districtwide quantitative data on green surfaces or climate resilience framing (Ch. 16-26, 59-61, 117-119)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Acknowledges climate-related facility needs such as HVAC upgrades and energy efficiency; includes some strategies like shade structures and stormwater management; however, lacks comprehensive climate risk assessment or districtwide climate resilience integration (Ch. 16-26, 123-127)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Discusses energy efficiency strategies including HVAC upgrades, lighting replacements, and references to Title 24 and sustainability goals; mentions energy resilience goals but does not present comprehensive districtwide energy resilience or electrification plans (Ch. 16-26, 123-127, 153-157)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents detailed capital improvement budgets totaling $436 million with project prioritization by site and type; outlines multiple funding sources including state grants, local bonds, developer fees, and alternative financing; includes financial fund balances and strategic recommendations (Ch. 58-61, 189-196)."
+    }
+  }
+}

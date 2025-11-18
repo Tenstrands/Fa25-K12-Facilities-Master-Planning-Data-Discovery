@@ -1,0 +1,33 @@
+{
+  "district": "Selma",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including building ages, sizes, classrooms, and specialized spaces; detailed condition assessments including roofs, HVAC, plumbing, and accessibility; uses multiple data sources including facility audits and roofing manufacturer assessments; connects condition data to student outcomes and long-term capital planning (Pages 6-7, 21-27)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides detailed enrollment projections over 6 years with methodology from SchoolWorks, Inc.; includes capacity utilization data by site and classroom; connects enrollment trends to facility actions including boundary adjustments and project prioritization; considers new housing developments and TK expansion (Pages 6-7, 14-24)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "Plan references district mission and educational goals as guiding principles; connects facility projects to educational programs such as CTE, TK, and science labs; includes some discussion of programmatic shifts and instructional priorities but coverage is partial and not fully integrated as a core organizing principle (Pages 6-7, 12-13, 35-37)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "Mentions outdoor learning spaces and playground improvements; includes some references to outdoor play in LCAP goals and community input; lacks detailed data or districtwide analysis of green spaces, shade coverage, or greening strategies (Pages 6, 12)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges climate-related challenges broadly (e.g., safety, air quality improvements) but does not provide detailed climate risk assessments or comprehensive mitigation strategies; no evidence of climate readiness as a central theme (No explicit detailed climate risk assessment found)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "Mentions energy efficiency projects such as HVAC replacements funded by ESSER; references some energy-related upgrades but lacks comprehensive data on energy use, resilience strategies, or references to state mandates like Title 24 or Zero Net Energy goals (Pages 32-33)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a detailed capital strategy with itemized project costs, phased implementation plan, and prioritization criteria; identifies multiple funding sources including local bonds, state modernization funds, developer fees, and reserves; includes financial projections and fund balances over 8 years (Pages 8-10, 28-33, 50-56)."
+    }
+  }
+}

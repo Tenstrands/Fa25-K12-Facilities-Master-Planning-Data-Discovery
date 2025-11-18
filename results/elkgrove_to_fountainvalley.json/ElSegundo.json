@@ -1,0 +1,33 @@
+{
+  "district": "ElSegundo",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 3,
+      "justification": "The plan includes an inventory of all district facilities with details on building sizes, ages, and specialized spaces (e.g., classrooms, multipurpose rooms, cafeterias) and provides a facility condition assessment including building systems and lifecycle costs (Sections 3, site plans, and financial summaries). However, it lacks explicit connection of condition data to student outcomes or long-term capital planning integration."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 2,
+      "justification": "The plan references enrollment and capacity considerations in relation to modernization and new construction projects, but provides only limited detail on enrollment projections, capacity utilization data, or explicit strategies for addressing over- or under-capacity (Introduction and project prioritization sections)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "The plan includes references to educational goals and innovative 'Next Gen' learning environments with flexible furniture and specialized spaces (e.g., science labs, multipurpose rooms), connecting facility projects to educational programs, but coverage is partial and not fully comprehensive (project descriptions and site plans)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "The plan provides data and analysis of outdoor spaces including shade structures, outdoor learning courts, and landscaping improvements at multiple sites, with strategies for greening and student accessibility, though not fully districtwide or deeply detailed (site master plans and project lists)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan minimally acknowledges safety and security improvements but does not provide a detailed climate risk assessment or comprehensive climate resilience strategies related to specific climate impacts (no explicit climate risk or mitigation discussion found)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "The plan mentions site power upgrades and modernization projects that may include energy efficiency improvements, but lacks detailed energy use data, comprehensive energy resilience strategies, or references to state requirements such as Title 24 or Zero Net Energy goals."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents a comprehensive financial strategy with detailed cost estimates, phased bond funding releases, prioritization of projects by phase, and multiple funding sources. It includes escalation assumptions, contingencies, and aligns financial capacity with district priorities (financial summaries and project cost tables)."
+    }
+  }
+}

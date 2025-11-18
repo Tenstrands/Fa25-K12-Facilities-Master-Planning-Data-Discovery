@@ -1,0 +1,33 @@
+{
+  "district": "Irvine",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "The plan presents a comprehensive district-wide inventory including all schools and support sites with detailed information on building age, size, classrooms, and specialized spaces (Chunks 1-4). It includes a robust condition assessment covering major systems and uses multiple data sources, connecting condition data to instructional priorities and long-term capital planning (Chunks 2-4)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan provides comprehensive enrollment projections with detailed methodology and long-term horizon, including capacity utilization data by site and grade (Chunks 8-9). It explicitly links enrollment projections to facility actions such as new school construction, expansions, and reconfigurations, with innovative adaptive uses and developer collaboration for new school funding (Chunks 8-9)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle, with detailed educational specifications approved by the Board and integrated into facility planning (Chunks 1-4, 9-10). The plan connects facility projects directly to educational goals, including STEM labs, flexible classrooms, and specialized program spaces, supporting the district mission and instructional priorities (Chunks 9-10)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "The plan includes some references to outdoor spaces such as playgrounds, shade structures, and landscape/hardscape improvements (Chunks 3-7). However, it lacks districtwide data or detailed strategies for greening, shade coverage, or climate resilience framing related to outdoor spaces."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan minimally acknowledges climate change impacts and includes some shade structures as a strategy, but does not provide detailed climate risk assessments or comprehensive resilience strategies across the district (Chunks 3, 5). Climate readiness is not a central theme in the plan."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 1,
+      "justification": "The plan does not mention energy efficiency, electrification, decarbonization, or energy resilience strategies, nor does it reference state requirements such as Title 24 or Zero Net Energy goals. Energy data and related strategies are absent (no evidence in provided chunks)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents a comprehensive capital strategy with detailed cost estimates by project and scope category, including escalation assumptions (Chunks 5-8). It outlines a clear prioritization framework and multiple funding strategies including local bonds, state programs, and developer fees, with consideration of long-term financial sustainability and alignment with district priorities (Chunks 5-8, 13)."
+    }
+  }
+}

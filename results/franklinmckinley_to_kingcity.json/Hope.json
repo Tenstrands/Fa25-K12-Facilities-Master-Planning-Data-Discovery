@@ -1,0 +1,33 @@
+{
+  "district": "Hope",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including building age, size, classrooms, specialized spaces, and detailed site plans (Chunks 2-3, 5-7). Robust condition assessment with detailed scoring for major systems and priority factors, including immediate and long-term needs integrated into capital planning (Chunks 2-4, 6-7)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections with methodology from demographic study and district data (Chunk 10). Capacity utilization data by site and classroom with square footage and student numbers provided. Explicit connection of capacity analysis to facility actions and planning (Chunk 10)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with a comprehensive Educational Specifications section detailing how facilities support multiple programs (TK, special education, STEM, arts, outdoor learning) with clear connections to district mission and instructional priorities (Chunks 9-27). Facility projects and specifications respond directly to educational goals."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Provides data and analysis of outdoor spaces including playfields, hardcourts, and apparatus areas with surface types and sizes (Chunks 21-23). Identifies strategies for improvements such as tree trimming and playfield repairs. Mentions outdoor classrooms and their educational use but lacks districtwide greening data or climate resilience framing."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Minimal mention of climate-related issues; no detailed climate risk assessment or comprehensive mitigation strategies found in the plan. Some references to sustainability and passive systems but no explicit climate resilience or risk assessment (Chunks 11, 15-17)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "Mentions energy efficiency measures such as HVAC upgrades, LED lighting, and some sustainability focus (Chunks 11, 15-17). Lacks detailed energy use data, comprehensive energy resilience strategies, or explicit reference to state requirements like Title 24 or Zero Net Energy goals."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents detailed cost estimates for immediate, short-term, and long-term projects with prioritization and phased budgeting (Chunks 3-6, 8). Includes funding sources and prioritization framework. Provides a comprehensive capital strategy aligned with district needs and educational priorities."
+    }
+  }
+}
