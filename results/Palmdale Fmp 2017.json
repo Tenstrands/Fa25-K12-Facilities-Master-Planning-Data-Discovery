@@ -1,0 +1,33 @@
+{
+  "district": "Palmdale Fmp 2017",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 2,
+      "justification": "The plan includes a basic inventory of district facilities and mentions projects at multiple sites, but lacks detailed data on building sizes, ages, and comprehensive condition assessments of major systems or detailed site plans (Chunks 1-6)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 1,
+      "justification": "There is no mention or analysis of enrollment trends, projections, or capacity utilization in the provided plan content."
+    },
+    "Educational Alignment": {
+      "score": 2,
+      "justification": "The plan references educational spaces such as science labs, maker spaces, and future learning spaces, but only at a basic level without detailed educational specifications or clear connections to instructional goals (Chunks 1-6)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "The plan provides data and strategies for outdoor spaces including playfield upgrades, shade structures, rubber surfaces, and removal of portables to create field space, indicating some districtwide greening and outdoor learning improvements (Chunks 1-6)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 0,
+      "justification": "No mention of climate risks, climate readiness, or mitigation strategies is found in the plan content."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 1,
+      "justification": "There is no mention of energy efficiency, electrification, decarbonization, energy resilience, or related state requirements in the plan."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 2,
+      "justification": "The plan provides rough order of magnitude cost estimates for projects and mentions funding allowances and some funding sources, but lacks detailed cost estimating methods, prioritization criteria, or a comprehensive financial strategy (Chunks 1-6)."
+    }
+  }
+}

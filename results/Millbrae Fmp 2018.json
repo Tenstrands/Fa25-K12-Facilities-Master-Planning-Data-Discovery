@@ -1,0 +1,33 @@
+{
+  "district": "Millbrae Fmp 2018",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including building ages, sizes, classrooms, portables, and specialized spaces with detailed site plans (Sections 4, multiple school assessments). Robust condition assessments cover HVAC, plumbing, roofs, electrical, lighting, technology infrastructure, and accessibility, with cost estimates and modernization eligibility detailed per site (Green Hills, Lomita Park, Meadows, Spring Valley, Taylor Middle). Connects condition data to long-term capital planning and student outcomes."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections over 6 years with methodology explained, including demographic trends, housing development, and student yield rates (Section 3). Capacity utilization data by site and classroom with loading standards and projected utilization rates provided. Explicit connection of enrollment projections to facility needs and actions such as Lomita Park reconstruction and portable replacement. Includes strategies for addressing overcapacity and undercapacity with specific site plans."
+    },
+    "Educational Alignment": {
+      "score": 2,
+      "justification": "References educational goals and some program spaces (e.g., STEAM/Maker Labs, specialty buildings) and mentions alignment with educational mission (Section 4, school mission statements). However, lacks detailed educational specifications or comprehensive connection of facility projects to specific instructional needs or program requirements."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 1,
+      "justification": "No explicit mention or detailed discussion of outdoor spaces, greening, shade, or outdoor learning as part of the facilities plan. Site maps show playgrounds and fields but no analysis or strategies for greening or environmental benefits."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 0,
+      "justification": "No mention of climate risks, climate readiness, or mitigation strategies in the plan. Emergency preparedness is not linked to climate change impacts."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "Mentions HVAC system upgrades and some infrastructure improvements but lacks comprehensive energy data, resilience strategies, or references to state requirements such as Title 24 or Zero Net Energy goals. No detailed discussion of electrification, decarbonization, or energy resilience."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a comprehensive capital strategy with detailed cost estimates, funding sources including state grants, developer fees, and a proposed $80.5M local bond (Sections 1, 6, 7). Includes prioritization criteria, phased implementation plans with two and three tranche scenarios, escalation assumptions, bridge financing, and long-term financial sustainability considerations."
+    }
+  }
+}

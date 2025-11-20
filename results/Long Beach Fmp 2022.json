@@ -1,0 +1,33 @@
+{
+  "district": "Long Beach Fmp 2022",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "The plan presents a comprehensive district-wide inventory including building ages, sizes, portables, and specialized spaces (Chunks 1-2). It provides a robust condition assessment covering major systems (HVAC, plumbing, roofs, electrical, lighting) and connects condition data to student outcomes and instructional priorities, identifying both immediate and long-term needs (Chunks 1-2)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan includes a comprehensive enrollment analysis with detailed projections and demographic trends, showing declining enrollment and capacity utilization data by site and grade (Chunks 2-3). It explicitly links these projections to facility actions such as portable removal, school consolidation, and adaptive reuse, with innovative uses of space like wellness hubs and community partnerships (Chunks 2, 9-10)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle, with clear integration of district mission, instructional priorities, and facilities planning (Chunks 1, 9-14). The plan provides comprehensive analysis of how facilities support multiple programs including TK, CTE, special education, and collaborative learning, with projects directly responding to educational needs such as STEM labs, project-based learning spaces, and inclusive design (Chunks 9-14)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 4,
+      "justification": "Outdoor greening and climate-adapted design are central elements, with districtwide data on green space quality, shade coverage, and urban heat island effects (Chunks 11-12). The plan details strategies for campus greening including portable removal, drought-tolerant landscaping, outdoor classrooms, rain gardens, and reflective paint to reduce heat gain, explicitly framing these as climate resilience strategies (Chunks 9-12)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 3,
+      "justification": "The plan addresses multiple climate impacts such as heat, drought, and urban heat island effect with detailed strategies including shade structures, reflective surfaces, and drought-tolerant landscaping (Chunks 9-12). Climate readiness is a theme in the plan and is prioritized in assessment and project planning, though a comprehensive multi-impact districtwide climate risk assessment is implied but not fully detailed (Chunks 11-12)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan includes energy efficiency strategies such as HVAC modernization, energy efficient lighting, and kitchen upgrades (Chunks 9, 11). It references energy resilience goals and aligns with state requirements like Title 24 and Zero Net Energy goals, but does not present a fully comprehensive energy resilience strategy including detailed data baselines or microgrid plans (Chunks 11, 21)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents a comprehensive capital strategy with detailed cost estimates, prioritization frameworks based on equity and educational needs, and multiple funding strategies including bonds and alternative financing (Chunks 6-8). It considers long-term financial sustainability, maintenance costs, and aligns financial capacity with district priorities, providing a realistic path forward (Chunks 6-8)."
+    }
+  }
+}

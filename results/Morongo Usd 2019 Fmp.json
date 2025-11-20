@@ -1,0 +1,33 @@
+{
+  "district": "Morongo Usd 2019 Fmp",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed building ages, sizes, classrooms, specialized spaces, and site plans. Robust condition assessments cover HVAC, plumbing, roofs, electrical, lighting, technology infrastructure, and accessibility, with connections to student outcomes and long-term capital planning (Chunks 1-6, 30-45)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections over 10 years with methodology described, including demographic and housing data. Capacity utilization data by site and classroom with square footage and student counts, linked to specific facility actions such as closures, consolidations, and new construction (Chunks 7-9, 18)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed educational specifications linking district mission, instructional priorities, and facilities planning. Comprehensive analysis of how facilities support multiple programs including TK, CTE, special education, STEM, and collaborative learning, with direct connection of projects to educational goals (Chunks 48-50, 25-29)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Provides data and analysis of outdoor spaces including play apparatus, shade structures, and outdoor learning environments at multiple sites. Strategies for improvement such as shade structures, drought-tolerant landscaping, and outdoor classrooms are identified, but districtwide data on green surfaces or climate resilience framing is limited (Chunks 30-35, 47-49)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges climate-related issues indirectly through sustainability and energy conservation efforts, but lacks detailed climate risk assessment or comprehensive mitigation strategies specific to climate impacts (Chunks 5, 30)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as solar panels, HVAC upgrades, and LED lighting. References Title 24 and state goals indirectly through Prop 39 upgrades and energy conservation programs. Energy resilience is mentioned but lacks comprehensive district-wide resilience or electrification plans (Chunks 5, 30, 31)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a detailed capital strategy with itemized cost estimates, prioritization framework, and multiple funding sources including state bonds, local bonds, developer fees, and alternative financing. Includes escalation assumptions, contingencies, and long-term financial sustainability considerations (Chunks 14-16, 40-46)."
+    }
+  }
+}

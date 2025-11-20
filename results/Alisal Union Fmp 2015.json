@@ -1,0 +1,33 @@
+{
+  "district": "Alisal Union Fmp 2015",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory with detailed building ages, sizes, classrooms, specialized spaces, and site plans. Robust condition assessments cover major systems and connect facility condition to student outcomes and long-term capital planning (e.g., detailed campus analyses, modernization categories, and cost projections across all schools)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Includes detailed enrollment projections linked to housing growth in North Salinas, with capacity data by site and grade. Explicit strategies for new school construction and satellite campuses address future enrollment and capacity needs (e.g., new school campuses section, target capacities per site)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "Plan references educational goals and some programmatic needs (e.g., technology, computer labs, specialized rooms) and connects facility projects to educational priorities. However, detailed educational specifications and comprehensive integration with instructional goals are limited (e.g., community meeting notes highlight needs but no detailed educational specifications section)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "Outdoor spaces are described with playgrounds, turf, and site amenities, but greening and shade strategies are minimally addressed. No districtwide data on green surfaces or climate-adaptive outdoor design; shade structures are mentioned but not as a central theme."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges some climate-related concerns such as shade structures and drought-resistant landscaping in leadership notes, but lacks detailed climate risk assessments or comprehensive mitigation strategies across the district."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 1,
+      "justification": "Minimal mention of energy efficiency or resilience; solar panels and shade structures are noted as priorities in leadership meetings but no detailed energy data, strategies, or references to state requirements are provided."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents detailed cost estimates for all campuses, including construction, soft costs, contingencies, and site improvements. Includes prioritization of projects and multiple funding sources (local bonds, state programs, developer fees). Cost estimating methods and escalation considerations are described."
+    }
+  }
+}

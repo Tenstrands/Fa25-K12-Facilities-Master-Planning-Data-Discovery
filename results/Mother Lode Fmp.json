@@ -1,0 +1,33 @@
+{
+  "district": "Mother Lode Fmp",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory with detailed building ages, sizes, portables, and specialized spaces provided (Section 4, pages 19-25). Robust condition assessments include HVAC, roofing, ADA compliance, and site drainage with detailed cost estimates and phased rehabilitation plans (Sections 4 and 7). Connections made between facility conditions and educational needs with integration into capital planning."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections over 6+ years with methodology explained including demographic trends and housing developments (Sections 3 and Demographic Study). Capacity utilization data by site and grade with square footage and classroom counts provided (Section 3, Table 3.4). Explicit strategies for reconfiguring grade levels, reopening Charles Brown ES, and phased implementation linked to enrollment trends."
+    },
+    "Educational Alignment": {
+      "score": 2,
+      "justification": "Educational goals are referenced broadly with some mention of program relocations (e.g., Pre-K/K-2 at Charles Brown ES), but no detailed educational specifications or direct connections between facility projects and specific instructional needs are provided."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 1,
+      "justification": "No mention or minimal reference to outdoor spaces or greening strategies in the plan. Site maps show outdoor spaces as playgrounds and athletic fields only, with no discussion of shade, green space, or outdoor learning."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 0,
+      "justification": "No mention of climate risks, climate readiness, or mitigation strategies in the Facilities Master Plan or supporting documents."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "Limited description with mention of Proposition 39 Clean Energy funding allocation and some modernization projects that may include energy efficiency upgrades (Section 6). No comprehensive energy data, resilience strategies, or references to state mandates such as Title 24 or Zero Net Energy goals."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Comprehensive financial plan with detailed cost estimates for all projects, funding sources including local bonds, state modernization eligibility, developer fees, and district funds (Sections 6 and 7). Clear prioritization and phasing plan linked to enrollment and facility needs with detailed implementation schedule and funding assumptions."
+    }
+  }
+}

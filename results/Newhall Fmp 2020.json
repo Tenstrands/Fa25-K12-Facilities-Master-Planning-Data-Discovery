@@ -1,0 +1,33 @@
+{
+  "district": "Newhall Fmp 2020",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including all elementary schools, support facilities, and detailed site plans with square footage (Sections 1-4). Robust condition assessment with Facility Condition Index (FCI) scores for all sites, detailed system evaluations (HVAC, plumbing, electrical), and life-cycle replacement plans (Sections 10-11, 30-31). Connects condition data to educational program needs and long-term capital planning (Sections 10-11, 29-31)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections over 7+ years with methodology including demographic trends, housing developments, and mobility factors (Sections 5-6, 82-84). Capacity utilization data by site and grade with functional capacity and program capacity considerations (Sections 6-7, 83-84). Explicit connection of enrollment projections to facility needs including potential new school construction and boundary realignments (Sections 5-6, 83-84)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational specifications are a core organizing principle, developed with broad stakeholder engagement including students and teachers (Sections 2-4, 12-17). Detailed program spaces aligned with district mission and instructional frameworks, including specialized spaces for STEM, arts, special education, and collaborative learning (Sections 8-19). Facility projects and improvements are directly linked to educational goals and programmatic needs (Sections 12-19)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Plan provides data and analysis of outdoor spaces including playgrounds, shade structures, and green spaces at multiple sites (Sections 11, 20-25). Strategies for improvement such as shade structures, outdoor classrooms, and sustainable landscaping are identified but not fully detailed district-wide (Sections 11, 20-25). Connections to wellness and outdoor learning are mentioned but coverage is partial (Sections 20-25)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Minimal mention of climate-related risks or resilience strategies. No comprehensive climate risk assessment or district-wide mitigation strategies identified in the plan (No explicit sections on climate risk or mitigation)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes data on energy use and references to energy efficiency strategies such as LED lighting upgrades, HVAC system replacements, and building control systems (Sections 10, 30, 75). Discusses energy resilience goals and references state requirements (Title 24, Zero Net Energy) but lacks comprehensive district-wide electrification or microgrid strategies (Sections 10, 30, 75)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a comprehensive capital strategy with detailed cost estimates for all projects, including construction, soft costs, and contingencies (Sections 11, 27-29). Uses clear prioritization criteria and phases projects over short-, mid-, and long-term horizons (Sections 11, 27-29). Outlines multiple funding sources including bonds, state grants, developer fees, and alternative financing (Sections 79-81). Considers long-term financial sustainability and aligns financial capacity with district priorities (Sections 79-81)."
+    }
+  }
+}

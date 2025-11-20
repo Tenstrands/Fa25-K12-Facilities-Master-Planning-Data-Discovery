@@ -1,0 +1,33 @@
+{
+  "district": "Oakland Usd Fmp 2020",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed data on building sizes, ages, classrooms, specialized spaces, and site plans (Section 4.1 Inventory, pages 46-47). Robust condition assessment covers all major systems (HVAC, plumbing, roofs, electrical, lighting, technology infrastructure, accessibility) with multiple data sources including facility audits and engineering assessments. Connects condition data to student outcomes and integrates short- and long-term capital planning (Section 4.2 Facility Needs, pages 48-51; detailed site-level data in Appendix 7.3)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides comprehensive enrollment analysis with detailed methodology including demographic trends and community data (Section 3.1 Enrollment Trends, pages 33-35). Detailed capacity utilization data by site, classroom, and grade with square footage and student numbers (Appendix 7.3 site profiles). Explicitly links enrollment projections to long-term facility needs with strategies for closures, consolidations, and adaptive uses (Section 1.4 District Trends and Enrollment, pages 11-13; Section 6 Smart Asset Management)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle, with clear integration of district mission, instructional priorities, and facilities planning (Section 2 Goals & Guiding Principles, pages 16-24). Comprehensive analysis of how facilities support multiple programs including TK, CTE, special education, collaborative learning, and technology (Section 3.2 OUSD Program Trends, pages 35-38). Facility projects and strategies are directly connected to educational goals and specifications (Section 5 Projects, pages 52-63)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 4,
+      "justification": "Positions outdoor greening and climate-adapted design as central elements of the plan (Section 1.0 Executive Summary, pages 12-14; Section 5 Projects, pages 55-58). Provides districtwide data on green spaces, tree canopy, surface types, and shade coverage. Details strategies for campus greening including tree planting, permeable surfaces, outdoor classrooms, rain gardens, and stormwater management. Explicitly frames greening as climate resilience and connects to outdoor learning and community benefits."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 3,
+      "justification": "Plan addresses multiple climate impacts such as heat, air quality, and flooding with detailed discussion of vulnerabilities and mitigation strategies (Section 3.0 Futures Analysis, pages 40-44). Climate readiness is a priority and theme throughout the plan, integrated into assessment and long-range planning (Guiding Principles, pages 20-22). However, the plan does not provide a comprehensive districtwide climate risk assessment covering two or more impacts with detailed site-level strategies, limiting it to level 3."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 4,
+      "justification": "Energy resilience and efficiency are core parts of the plan with detailed data on energy use, baselines, and targets (Section 1.0 Executive Summary, pages 13-14; Section 5 Projects, pages 54-56). References state requirements including Title 24 and Zero Net Energy goals. Includes comprehensive strategies for electrification, renewable energy integration, solar + storage, microgrids, and energy resilience to climate disruptions. Connects energy improvements to cost savings, emissions reductions, and indoor air quality."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a comprehensive capital strategy with detailed cost estimates across all projects and clear prioritization framework aligned with district goals (Section 5 Projects, pages 59-63). Uses criteria-based prioritization including safety, equity, program alignment, lifecycle cost, and climate resilience. Outlines multiple funding strategies including bonds, state programs, developer fees, and alternative financing. Considers long-term financial sustainability including maintenance, debt capacity, and bond timing (Section 6 Smart Asset Management)."
+    }
+  }
+}

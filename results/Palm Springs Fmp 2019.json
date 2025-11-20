@@ -1,0 +1,33 @@
+{
+  "district": "Palm Springs Fmp 2019",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory with detailed building and site data, including square footage, building age, and condition assessments using Facilities Condition Index (FCI) across all major systems. Detailed condition assessments link to long-term capital planning and include immediate and lifecycle needs (e.g., HVAC, roofing, electrical) (see multiple campus asset summaries and financial summaries)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides detailed enrollment projections by school and grade through 2026, with capacity utilization data including classroom counts and square footage. Connects enrollment trends to facility needs and project prioritization, including strategies for closures, consolidations, and new construction (see enrollment tables and financial summaries)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Facilities Master Plan explicitly integrates district educational mission and goals with facilities planning. Detailed educational specifications are provided, linking facility projects to specific programs such as STEM, CTE, special education, and collaborative learning spaces (see executive summaries and educational program descriptions per school)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Plan includes data on outdoor spaces such as playgrounds, athletic fields, and shade structures, with some mention of outdoor learning and greening strategies. However, districtwide data on green space coverage and comprehensive greening strategies are limited (see site plans and shade structure listings)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Acknowledges climate-related risks and includes some strategies such as shade structures and solar installations. However, lacks comprehensive districtwide climate risk assessment or detailed mitigation strategies across multiple climate impacts (see references to solar and shade structures, but no detailed climate risk assessment)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 4,
+      "justification": "Includes detailed energy use data, solar photovoltaic arrays, battery storage, and microgrid plans. References state requirements (Title 24, Zero Net Energy goals) and includes electrification and decarbonization strategies. Energy resilience is a core part of the plan (see solar installations and energy strategy in financial and asset summaries)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a comprehensive financial plan with detailed cost estimates by project and priority phase, including escalation and contingencies. Uses clear prioritization criteria and outlines multiple funding strategies. Aligns financial capacity with educational and facility needs (see detailed financial summaries by school and districtwide totals)."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "district": "Moraga 2015 Fmp",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including building sizes, ages, classrooms, specialized spaces, and detailed site plans (pp. 26-62). Robust condition assessment covering HVAC, roofing, electrical, plumbing, lighting, technology infrastructure, and seismic strengthening needs with cost estimates and integration into capital planning (pp. 22-83)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections through 2024-25 with methodology and assumptions, capacity utilization by site and classroom, and analysis of under- and over-capacity (pp. 6-18). Explicit connection of enrollment projections to facility needs and no need for new construction but sufficient capacity, with discussion of potential adaptive uses (pp. 9-11)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "Includes detailed discussion of 21st century classroom characteristics aligned with district educational goals, technology integration, and flexible learning spaces (pp. 19-22). Connects facility projects to educational programs but coverage of programmatic shifts and specific educational specifications is partial (pp. 19-22)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "References to outdoor facilities such as playfields, hardcourts, and playground equipment with some maintenance and upgrade plans (pp. 27-64). No districtwide data or comprehensive greening strategies; no mention of shade structures or climate resilience framing for outdoor spaces."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Acknowledges seismic risks with detailed seismic evaluations and mitigation plans for vulnerable buildings (pp. 87-89). Includes energy efficiency projects under Prop 39 and solar panel parking sheds but lacks comprehensive climate risk assessment or multi-hazard climate resilience strategies."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency upgrades such as LED lighting retrofits, HVAC replacements, energy management systems, and solar PV parking sheds (pp. 29-32, 90-91). References Proposition 39 funding and energy expenditure planning but lacks a fully integrated district-wide energy resilience plan or detailed electrification strategy."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents detailed cost estimates with escalation, contingencies, and soft costs for all projects (pp. 73-83). Provides a comprehensive funding strategy including state grants, developer fees, Proposition 39, and local bond recommendations with prioritization and financial sustainability considerations (pp. 84-95)."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "district": "La Canada Fmp 2017",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including building age, size, classrooms, specialized spaces, and detailed site plans (Sections 5.1-5.7). Robust condition assessment covers HVAC, plumbing, roofs, electrical, lighting, technology infrastructure, and accessibility with connection to student outcomes and long-term capital planning (Sections 5.2-5.7, 6.3)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections with methodology and long-term horizon; capacity utilization data by site and classroom; explicit strategies for new construction, modernization, and consolidation linked to enrollment trends (Sections 2.3, 4.3, 6.4)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed educational specifications for TK, CTE, special education, project-based learning, and flexible classrooms; clear integration of educational goals with facility projects (Sections 2.3, 3.2, 5.2-5.7)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Includes data and analysis of outdoor spaces such as playfields, quads, and shade structures; identifies strategies for improvement including new amphitheaters and learning courts; some districtwide coverage but less emphasis on climate resilience framing (Sections 5.2-5.7, 6.3)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Acknowledges climate-related concerns such as irrigation efficiency and shade but lacks comprehensive districtwide climate risk assessment or detailed mitigation strategies; sustainability goals discussed in committee meetings (Sections 2.2, 6.2)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as HVAC upgrades, lighting controls, and some renewable readiness; references Title 24 and state goals; energy resilience mentioned but lacks comprehensive districtwide resilience plan (Sections 2.2, 5.2-5.7, 6.3)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents detailed cost estimates with escalation assumptions; clear prioritization framework aligned with educational and safety goals; multiple funding strategies including bonds and state programs; long-term financial sustainability considered (Sections 4.1-4.4, 6.3-6.4)."
+    }
+  }
+}

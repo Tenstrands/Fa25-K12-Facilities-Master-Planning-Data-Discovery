@@ -1,0 +1,33 @@
+{
+  "district": "Newark Fmp 2020",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed site plans, building sizes, ages, portables, and specialized spaces. Robust condition assessment with Facility Condition Index (FCI), system evaluations, and deferred maintenance forecasts integrated into long-term capital planning (Sections 3, 5, Appendix 1)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections with methodology, site-specific capacity utilization, and demographic analysis. Explicit connection of enrollment trends to facility actions including new construction, consolidation, and adaptive uses (Sections 3, 5.1-5.11)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed conceptual education specifications, primordial spaces, and small learning communities. Facility projects are directly linked to educational goals including STEAM, flexible learning, and inclusivity (Sections 4, 5)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 4,
+      "justification": "District-wide data on outdoor spaces including green surfaces, shade coverage, and stormwater management. Detailed strategies for campus greening such as amphitheaters, gardens, permeable surfaces, and outdoor learning spaces framed as climate resilience (Sections 4.1, 5)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Plan acknowledges climate impacts and includes some strategies such as shade structures and green spaces, but lacks comprehensive district-wide climate risk assessment or multi-impact mitigation strategies (No explicit detailed climate risk assessment found)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies like HVAC upgrades, lighting, and some renewable energy references. Mentions energy resilience goals but lacks comprehensive district-wide data or detailed electrification and decarbonization plans (Sections 3, 5)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Comprehensive capital strategy with detailed cost estimates, prioritization framework, and multiple funding sources including bonds and state grants. Long-term financial sustainability and phased implementation plans are included (Section 6)."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "district": "Livingston Fmp 2016",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "The plan provides a comprehensive district-wide inventory including building ages, sizes, types, and detailed site plans for all schools and facilities (Sections 3, pages 17-50). It includes robust condition assessments covering major systems (HVAC, roofing, electrical, plumbing) with detailed findings and recommendations (Sections 3, pages 33-35, 40-45). The plan connects facility conditions to student outcomes and instructional priorities, and integrates short- and long-term needs into capital planning."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan includes a comprehensive enrollment analysis with detailed methodology covering demographic trends, birth rates, migration, and housing development (Section 5, pages 61-75). It provides detailed capacity utilization data by site and classroom, including permanent and portable capacities (Section 5, pages 76-79). The plan explicitly links enrollment projections to facility actions and discusses strategies for consolidation and adaptive uses."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "The plan includes a section on educational standards and suitability, linking educational goals to facility assessments and improvements (Section 2, pages 13-19). It discusses educational specifications such as flexible classrooms, technology integration, and specialized spaces. However, connections between facility projects and specific educational programs are present but not fully comprehensive or deeply integrated."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "The plan references outdoor spaces such as play areas, athletic fields, and shade structures at various sites (Sections 3, pages 26-47). Shade and greening are mentioned with some proposed fabric and metal shade structures, but there is limited district-wide data or detailed strategies for campus greening or climate-adapted design."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan acknowledges safety and security concerns including exterior and interior safety measures (Section 3, pages 21-23), but does not provide a detailed climate risk assessment or comprehensive climate resilience strategies. Climate readiness is not a central theme."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "The plan mentions some energy-related improvements such as new roofing with insulation, LED lighting, and HVAC upgrades (Section 3, pages 33-35). However, it lacks comprehensive data on energy use, detailed energy resilience strategies, or references to state requirements like Title 24 or Zero Net Energy goals."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 2,
+      "justification": "The plan includes a funding options report and discusses bond funding and prioritization of projects (Section 6, pages 79-92). It provides some cost estimates and mentions funding sources but lacks detailed cost estimating methods, comprehensive prioritization criteria, or a long-term financial sustainability framework."
+    }
+  }
+}

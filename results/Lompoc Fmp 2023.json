@@ -1,0 +1,33 @@
+{
+  "district": "Lompoc Fmp 2023",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "The plan provides a comprehensive district-wide inventory including detailed data on building age, size, classrooms, specialized spaces, and portables across all sites. It includes robust condition assessments covering major systems (HVAC, plumbing, roofs, electrical, lighting, technology infrastructure, accessibility) with references to multiple data sources such as facility audits and engineering assessments. The plan connects facility conditions to student outcomes and instructional priorities, identifying immediate and long-term needs integrated into capital planning (e.g., detailed campus data sheets, principal meeting minutes, and needs assessments for each site)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan includes comprehensive enrollment data and projections for all schools with detailed capacity utilization information by site and classroom. It explicitly links enrollment trends and projections to facility needs, including plans for new classrooms, modular buildings, and replacement of portables. The plan discusses strategies for addressing under- and over-capacity, including school consolidations and adaptive uses of space, with detailed projections and planning for UTK expansions and other programmatic shifts."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "The plan includes sections relating district educational goals to facility needs, with detailed educational specifications such as flexible classroom configurations, STEM labs, and specialized program spaces (e.g., CTE, TK, special education). Facility projects are connected to educational programs, though some coverage of programmatic shifts and technology integration is partial or uneven across sites."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "The plan provides data and analysis on outdoor spaces including playgrounds, athletic fields, and shade structures. It identifies strategies for improvement such as shade structures, rubberized playground surfaces, and sustainable landscaping. Some sites mention outdoor learning and connections to wellness, but districtwide greening and climate-adapted design are not fully detailed."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "The plan acknowledges climate-related risks such as drainage and flooding issues at multiple sites and includes some mitigation strategies like shade structures and irrigation upgrades. However, it lacks a comprehensive climate risk assessment across multiple climate impacts and does not position climate readiness as a central theme or priority throughout the plan."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan discusses energy efficiency strategies including LED lighting upgrades, HVAC improvements, and solar photovoltaic installations at some sites. It references state requirements such as Title 24 and Zero Net Energy goals and mentions energy resilience goals like backup power generators. However, it does not present a fully comprehensive district-wide energy resilience or electrification strategy."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents a detailed financial strategy with itemized cost estimates for all projects across sites, including escalation assumptions. It uses a clear prioritization framework addressing safety, modernization, and program alignment. Multiple funding sources are identified, including bonds, state grants, and developer fees, with consideration of long-term financial sustainability and maintenance costs. The plan aligns financial capacity with district educational priorities and facility needs."
+    }
+  }
+}

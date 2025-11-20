@@ -1,0 +1,33 @@
+{
+  "district": "Cypress Fmp 2024",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 3,
+      "justification": "The plan includes an inventory of all district facilities including schools, administrative buildings, and closed sites with some detail on building age, size, and types (pages 3-4). It provides condition assessments including deferred maintenance needs and roof replacements (pages 6-7), but lacks comprehensive multi-system condition data and detailed site plans."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 3,
+      "justification": "The plan provides detailed enrollment trends over 10 years, demographic data, and future residential development impacts (pages 4-5). It identifies underutilized closed schools and discusses potential reopening or repurposing, but does not fully integrate capacity utilization data by site or classroom."
+    },
+    "Educational Alignment": {
+      "score": 2,
+      "justification": "The plan references educational goals broadly and mentions facility needs to support 21st century learning (page 2), but lacks detailed educational specifications or direct connections between facility projects and specific educational programs."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 1,
+      "justification": "There is no mention or discussion of outdoor spaces, greening, shade, or outdoor learning in the plan."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 0,
+      "justification": "The plan does not mention climate risks, climate readiness, or mitigation strategies."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "The plan mentions LED lighting upgrades and some maintenance projects that may improve energy efficiency (page 6), but lacks comprehensive energy data, resilience strategies, or references to state energy requirements."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents a detailed financial strategy including multiple funding sources such as state funds, local bonds, developer fees, and asset management income (pages 11-12). It includes cost estimates for projects, prioritization of projects, and discusses long-term financial sustainability and constraints."
+    }
+  }
+}

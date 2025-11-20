@@ -1,0 +1,33 @@
+{
+  "district": "Cabrillo Fmp 2022",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 2,
+      "justification": "The plan includes a basic inventory of facilities with mention of new classrooms, modernization of existing buildings, and site development (chunks 1-2). However, it lacks detailed data such as building sizes, ages, square footage of classrooms, or comprehensive condition assessments across all systems."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 1,
+      "justification": "There is no mention or analysis of enrollment trends, projections, or capacity utilization in the provided plan content."
+    },
+    "Educational Alignment": {
+      "score": 2,
+      "justification": "The plan references educational spaces such as classrooms, science labs, and outdoor learning spaces (chunk 1), but does not explicitly connect facility projects to educational goals or provide detailed educational specifications."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "The plan mentions site development including landscaping upgrades, new student gathering areas, playground replacement, and some outdoor learning spaces (chunk 1), but provides minimal detail or districtwide analysis of greening or shade strategies."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan references air filtration system upgrades and perimeter security fencing but does not provide a detailed climate risk assessment or comprehensive climate resilience strategies."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "The plan mentions electrical and lighting upgrades including LED lighting and some infrastructure upgrades (chunk 1-2), but lacks detailed energy use data, comprehensive energy resilience strategies, or references to state requirements."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 3,
+      "justification": "The plan provides detailed cost estimates for phases 1 and 2, including construction, site development, utilities, soft costs, and escalation (chunks 1-2). It references bond funding and available balances, but does not fully describe prioritization criteria or long-term financial sustainability."
+    }
+  }
+}

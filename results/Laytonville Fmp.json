@@ -1,0 +1,33 @@
+{
+  "district": "Laytonville Fmp",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed descriptions of all school buildings, modular classrooms, specialized spaces, and site amenities. Detailed condition assessments cover building systems (HVAC, roofing, electrical, plumbing), ADA compliance, and long-term lifecycle considerations with prioritized capital improvements (e.g., replacement of old HVAC units, roofing, fire alarm systems) integrated into planning (Chunks 1-27)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 1,
+      "justification": "No mention or analysis of enrollment trends, projections, or capacity utilization in the provided plan content."
+    },
+    "Educational Alignment": {
+      "score": 2,
+      "justification": "Plan references educational spaces such as classrooms, preschool, technical arts, and performing arts venues, but only in terms of physical condition and improvements. There is minimal connection to educational goals or specifications, and no detailed discussion of how facilities support specific educational programs or instructional needs (Chunks 1-27)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "Includes some description of outdoor spaces such as playgrounds, athletic fields, and site amenities with recommendations for repairs and ADA compliance. However, there is minimal detail or districtwide data on greening, shade coverage, or environmental benefits, and no explicit strategies for campus greening or outdoor learning (Chunks 4, 16)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 0,
+      "justification": "No mention of climate risk assessment, climate impacts, or climate resilience strategies in the plan content."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Plan includes energy reduction measures such as insulation upgrades, replacement of inefficient lighting with T-8 or LED, occupancy sensors, programmable thermostats, and potential solar photovoltaic system with cost and payback analysis. References to Proposition 39 and California Energy Commission grants are included, but energy resilience and electrification strategies are not comprehensively developed (Chunks 2, 22-23, 24-29)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a detailed capital improvement plan with itemized cost estimates, prioritization by required, necessary, desired, and conservation improvements, and multiple funding sources including local bonds, state modernization funds, Proposition 39, and grants. Includes bond capacity analysis, repayment schedules, and escalation assumptions, providing a comprehensive and realistic financial framework (Chunks 2-3, 23-27)."
+    }
+  }
+}

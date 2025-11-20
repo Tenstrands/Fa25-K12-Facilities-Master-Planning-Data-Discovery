@@ -1,0 +1,33 @@
+{
+  "district": "Burbank Fmp 2024",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including building ages, sizes, portables, and detailed site plans; robust condition assessments covering major systems and connecting condition data to student outcomes and capital planning (Chunks 1, 5, 6, 184)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections over 10 years with methodology, demographic data, housing development impact, and capacity utilization by site and grade; explicit connection of enrollment to facility needs and adaptive uses (Chunks 7, 169, 175)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed educational specifications covering diverse programs (TK, CTE, special education), flexible learning spaces, and integration with facilities planning (Chunks 13-23)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Provides data and analysis of outdoor spaces with some strategies for improvement such as shade structures, gardens, and outdoor classrooms; references to wellness and outdoor learning at certain sites but not fully districtwide (Chunks 23, 6, 184)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Acknowledges climate-related risks and includes some strategies such as shade structures and sustainable landscaping; however, lacks comprehensive district-wide climate risk assessment and detailed mitigation strategies (Chunks 6, 23)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 4,
+      "justification": "Significant detail on energy use data, strategies for electrification, renewable integration, and resilience including solar, battery storage, and microgrids; references to state requirements and climate-related disruptions (Chunks 1, 6)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Comprehensive capital strategy with detailed cost estimates, prioritization framework, multiple funding sources including bonds and state programs, and consideration of long-term financial sustainability (Chunks 17, 182, 197)."
+    }
+  }
+}

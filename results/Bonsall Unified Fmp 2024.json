@@ -1,0 +1,33 @@
+{
+  "district": "Bonsall Unified Fmp 2024",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed data on school buildings, classrooms, and other facilities with square footage and site maps (Ch. 1-7). Robust condition assessment covering major systems and portable buildings noted as beyond useful life, with prioritized capital improvements (Ch. 7, Appendix C). Connection made between facility condition and long-term planning including modernization eligibility and replacement of portables."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections over 7 years with methodology explained including demographic trends, birth rates, mobility, and housing development (Ch. 5, Appendix D). Capacity utilization data provided by site and grade with district and state loading standards compared; explicit connection to facility needs and recommendations for boundary adjustments and school utilization (Ch. 6, Appendix E)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with extensive educational specifications linking district mission, vision, and instructional priorities to facilities planning (Ch. 4.1). Detailed programmatic requirements for TK-12 including specialized spaces for STEM, arts, CTE, special education, and collaborative learning. Facility projects and strategies directly respond to educational goals and program needs."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Plan provides data and analysis of outdoor spaces including playfields, shade structures, and outdoor learning areas with strategies for improvement (Appendix C project lists). Some references to shade and outdoor classrooms as part of instructional support and wellness. However, districtwide data on green surfaces, canopy cover, or stormwater management is limited."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Plan acknowledges climate-related facility challenges such as stormwater management and energy efficiency but lacks a comprehensive climate risk assessment or detailed mitigation strategies across multiple climate impacts (Ch. 4, 7). Some strategies like shade structures and stormwater improvements are mentioned but not fully integrated as a districtwide priority."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as HVAC upgrades, LED lighting, and technology improvements (Appendix C). References to energy resilience goals and some renewable energy integration implied but lacks comprehensive data on energy use baselines, targets, or detailed electrification and decarbonization plans. State requirements like Title 24 are referenced."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Comprehensive capital strategy with detailed cost estimates, project prioritization, and multiple funding sources including state programs and bonds (Ch. 8, 9, Appendix C). Prioritization criteria include safety, equity, program alignment, and lifecycle costs. Financial sustainability and alignment with educational priorities are demonstrated with phased project implementation plans."
+    }
+  }
+}

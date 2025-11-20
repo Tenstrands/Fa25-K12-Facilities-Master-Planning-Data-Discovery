@@ -1,0 +1,33 @@
+{
+  "district": "Los Gatos Fmp",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 3,
+      "justification": "The plan includes an inventory of all district facilities with details on building systems such as HVAC, fire alarms, and security upgrades across multiple campuses (Ch.1-3). It identifies modernization needs and infrastructure replacements, indicating a comprehensive condition assessment beyond basic deficiencies."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 2,
+      "justification": "The plan references accommodating additional grade levels (Pre-K) and expanding classrooms but lacks detailed enrollment projections, capacity utilization data, or explicit connection of enrollment trends to facility actions (Ch.1, 2)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "The plan connects facility projects to educational goals such as STEAM labs, enrichment programs, and Pre-K expansions, with specific projects for flexible learning spaces and program relocations (Ch.1-3). However, it lacks a fully comprehensive educational specifications section."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "The plan includes outdoor area improvements with greening and shade structures at multiple sites, referencing outdoor learning spaces and wellness benefits, though not districtwide or fully detailed (Ch.2-3)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan acknowledges HVAC replacements and shade structures which may relate to climate resilience but does not provide a detailed climate risk assessment or comprehensive mitigation strategies (Ch.1-3)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "The plan mentions HVAC replacements and some energy-related upgrades but lacks detailed energy use data, comprehensive energy resilience strategies, or references to state requirements like Title 24 or Zero Net Energy goals (Ch.1-3)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents detailed cost estimates with escalation assumptions, a clear prioritization framework addressing safety, modernization, and program expansion, and outlines funding sources including bonds and state funds with cash balances (Ch.2-3)."
+    }
+  }
+}

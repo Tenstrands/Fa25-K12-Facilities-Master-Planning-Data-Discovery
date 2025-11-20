@@ -1,0 +1,33 @@
+{
+  "district": "Beaumont Fmp 2024",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed building sizes, ages, classrooms, portables, and specialized spaces (e.g., athletic fields, cafeterias). Robust condition assessment using a 5-point scale and Facility Condition Index (FCI) with detailed system evaluations (HVAC, roofing, electrical, plumbing, safety) and connection to long-term capital planning (pp. 7-8, 39-46)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed 7-year and long-term enrollment projections using demographic data and housing development analysis. Capacity utilization data by site and classroom with state loading standards, identification of over- and under-capacity sites, and explicit strategies for new school construction and site acquisition (pp. 23-38)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with a dedicated education specifications section linking district mission, curriculum frameworks, and instructional methodologies to facility planning. The plan addresses multiple programs including TK, CTE, SPED, outdoor learning, and flexible classrooms with direct connection to facility projects (pp. 47-54)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Plan provides data and analysis of outdoor spaces including fields, playgrounds, and shade structures. Strategies for improvement such as shade shelters, outdoor learning areas, and sustainable landscaping are identified at multiple sites, though districtwide greening data and climate resilience framing are limited (pp. 18, 72, 84, 96, 102)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan minimally acknowledges climate-related concerns indirectly through shade additions and outdoor temperature management but lacks a comprehensive climate risk assessment or detailed mitigation strategies as a central theme (pp. 63)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "Mentions energy saving and solar panel projects in community feedback and some energy-related upgrades (e.g., LED lighting, HVAC replacements), but lacks comprehensive data on energy use, resilience strategies, or explicit reference to state mandates like Title 24 or Zero Net Energy goals (pp. 63)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a detailed financial summary with itemized project costs, cost estimating methods, escalation factors, and prioritization framework. Discusses multiple funding sources including state grants, local bonds, developer fees, and alternative financing with alignment to educational priorities and long-term sustainability (pp. 163-174)."
+    }
+  }
+}

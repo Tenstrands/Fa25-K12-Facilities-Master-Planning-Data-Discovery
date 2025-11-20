@@ -1,0 +1,33 @@
+{
+  "district": "Belmont Redwood Fmp 2024",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory with detailed room-by-room assessments, building ages, sizes, and conditions; includes multiple engineering assessments and community input; connects condition data to long-term capital planning (Component 1, pages 9-180)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides detailed enrollment projections with methodology, site-specific capacity data, and connections to facility actions including new construction and repurposing; addresses declining enrollment and programmatic shifts (Component 1, Executive Summary and enrollment sections)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed educational specifications, including flex rooms, specialist rooms, nursing rooms, and connections between facilities and district educational goals; projects respond directly to educational needs (Component 2, Logical Project Outline, pages 185-187)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 4,
+      "justification": "District-wide data on outdoor spaces including square footage, surface types, shade coverage, and stormwater management; detailed strategies for campus greening, shade structures, outdoor classrooms, rain gardens, and climate resilience framing (Component 1 Landscape Reports and Component 2 Project Outlines)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 3,
+      "justification": "Plan addresses multiple climate impacts such as drainage and flooding with detailed site-level assessments; includes resilience strategies like shade structures, synthetic turf, and stormwater improvements; climate readiness is a theme in planning and projects (Component 1 Civil and Landscape Assessments, Component 2 Project Outlines)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 4,
+      "justification": "Comprehensive energy strategies including electrification of HVAC, replacement of gas systems with heat pumps, photovoltaic installations, battery storage, and microgrids; references state requirements (Title 24, ZNE goals); detailed energy data and resilience planning (Component 1 Mechanical Reports, Component 2 Project Outlines, Component 3 Budgets)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a detailed capital strategy with itemized cost estimates, prioritization framework, multiple funding sources including bonds and state grants, and long-term financial sustainability considerations; includes escalation and contingency assumptions (Component 3 Preliminary Budget and Schedule)."
+    }
+  }
+}

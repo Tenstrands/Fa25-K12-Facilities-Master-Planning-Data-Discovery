@@ -1,0 +1,33 @@
+{
+  "district": "Cardiff Fmp Packet 2015",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed building sizes, ages, portables, and specialized spaces; robust condition assessment with detailed cost analysis and sustainability modeling linking condition to long-term capital planning (Pages 6-44)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections with capacity utilization data by site and classroom; explicit connection of enrollment to facility capacity and potential for accommodating additional students; clear strategies for space use and capacity (Pages 5-10, 12, 27-30)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "Plan references educational goals and specifications, including alignment of facilities with educational programs and standards; mentions technology integration and program needs but lacks full integration of facility projects directly tied to educational goals (Pages 3-5, 10)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 1,
+      "justification": "No mention or discussion of outdoor greening, shade, or environmental benefits of outdoor spaces; outdoor areas described only as play courts, fields, and parking without greening strategies (Pages 11-44)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 0,
+      "justification": "No mention of climate risks, climate readiness, or mitigation strategies related to climate change impacts in the plan; emergency preparedness not linked to climate (Entire document)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as LED lighting upgrades and HVAC improvements funded by Prop 39; references energy surveys and some resilience goals but lacks comprehensive energy resilience or electrification plan (Pages 14, 30)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Detailed 5-year Capital Improvement Plan with itemized cost estimates, prioritization framework, and funding sources including Prop 39 and bonds; includes contingency and escalation assumptions and aligns financial planning with facility needs (Pages 9-19, 29-31)."
+    }
+  }
+}

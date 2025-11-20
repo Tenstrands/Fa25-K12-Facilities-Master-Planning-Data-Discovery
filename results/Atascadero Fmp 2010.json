@@ -1,0 +1,33 @@
+{
+  "district": "Atascadero Fmp 2010",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 3,
+      "justification": "The plan includes a detailed inventory of all district facilities with information on building age, size, number of portables, and specialized spaces such as gyms, libraries, and athletic fields (Sections II and III). It provides condition assessments including deferred maintenance needs and modernization eligibility, referencing HVAC, roofing, electrical, and accessibility issues. However, it lacks evidence of multiple data sources or real-time monitoring and does not fully integrate condition data with long-term capital planning."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan provides comprehensive enrollment projections through 2026-27 with detailed demographic analysis by Schoolhouse Services, including grade-level breakdowns and projected increases after a period of decline (Section II). It includes capacity utilization data by site and classroom, discusses under- and over-capacity issues, and links these to specific facility actions such as modernization, relocation, and new construction."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "The plan references educational programs and goals, including Career Technology Education, performing arts, and science labs, and connects these to facility needs and projects (Sections II and III). It includes some educational specifications such as specialized classrooms and program expansions but coverage is partial and does not fully integrate educational goals as a core organizing principle."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "The plan mentions outdoor spaces such as turf areas, playgrounds, sports fields, and amphitheaters at various sites (Sections II). However, it provides minimal detail on greening strategies, shade, permeable surfaces, or outdoor learning, and does not analyze green space in relation to health, wellness, or climate resilience."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 0,
+      "justification": "There is no mention of climate risks, climate readiness, or mitigation strategies related to climate change impacts in the plan."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "The plan references HVAC upgrades, replacement of evaporative coolers with gas or propane powered units, and some infrastructure modernization (Sections II and III). However, it lacks comprehensive energy data, discussion of energy resilience, electrification, decarbonization, or reference to state requirements such as Title 24 or Zero Net Energy goals."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents a detailed capital strategy with itemized project cost estimates, funding sources including state modernization funds, developer fees, tax overrides, and bond measures (Sections III). It includes a prioritization framework with timelines, discusses local matching requirements, and addresses the significant funding shortfall with a Proposition 39 bond election planned."
+    }
+  }
+}

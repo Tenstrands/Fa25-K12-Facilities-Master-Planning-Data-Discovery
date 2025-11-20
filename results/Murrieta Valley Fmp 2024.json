@@ -1,0 +1,33 @@
+{
+  "district": "Murrieta Valley Fmp 2024",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "The plan presents a comprehensive district-wide inventory including building age, size, classrooms, portables, and specialized spaces (e.g., CTE, athletic fields). It provides a robust condition assessment across all major systems (HVAC, roofing, electrical, plumbing, security) with detailed cost estimates and prioritization by site (e.g., pages 12-13, 29-61). The assessment connects condition data to student outcomes and long-term capital planning."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan includes detailed enrollment projections over a 10-year horizon with methodology referencing housing development and demographic data (pages 12-28). It provides capacity utilization data by site, classroom, and grade, with projected utilization percentages and discusses strategies such as boundary adjustments, new K-8 development, and portable replacement to address growth and capacity challenges."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "The plan references educational goals and aligns facility projects with educational programs such as CTE expansions, TK classrooms, and outdoor learning spaces (pages 33, 57-59). It includes some educational specifications like STEM labs and flexible classrooms but coverage of programmatic shifts and detailed educational specifications is partial."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "The plan identifies outdoor spaces and greening strategies including playground expansions, shade structures, turf replacement, and landscaping improvements (pages 33, 41, 43, 58). It provides some data on site improvements and greening but lacks districtwide comprehensive data on green surface coverage or detailed climate resilience framing."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "The plan acknowledges climate-related facility needs such as HVAC upgrades for indoor air quality and shade structures for heat mitigation (pages 33, 58). However, it does not provide a comprehensive climate risk assessment or detailed multi-risk mitigation strategies across the district, nor is climate resilience a central theme."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan includes energy efficiency strategies such as HVAC upgrades, solar and EV charging infrastructure (page 34), and references Title 24 and Zero Net Energy goals. It discusses energy resilience goals but lacks a fully comprehensive strategy or detailed energy use baselines and targets."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents a detailed capital strategy with itemized cost estimates for projects across all sites, including escalation assumptions (pages 29, 37-61). It uses a clear prioritization framework addressing safety, growth, and modernization, and outlines multiple funding sources including bonds and state grants, with consideration of long-term financial sustainability."
+    }
+  }
+}

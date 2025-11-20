@@ -1,0 +1,33 @@
+{
+  "district": "Marysville Fmp 2022",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide facility condition assessment covering all sites with detailed evaluations of building systems, site conditions, and prioritization of immediate and long-term needs (Facility Condition Assessment, Sections 5-6). Includes detailed cost estimates and priority codes for repairs and modernization (Sections 5-6)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides detailed enrollment projections through 2028-29 with methodology including demographic trends, birth data, and residential development (Demographic Analysis & Enrollment Projections Report, Sections 3 and 7). Includes site-level capacity data and links projections to facility needs and boundary considerations."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational specifications are a core organizing principle of the plan, with detailed descriptions of educational goals, curriculum frameworks, and how facilities support various programs including TK, CTE, special education, and collaborative learning (Section 7)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Plan includes outdoor learning spaces, shade structures, and site upgrades at multiple campuses (Site Assessments, Sections 6). Some districtwide data on outdoor spaces and greening strategies are provided, but not fully detailed or framed as climate resilience."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Acknowledges climate-related facility needs such as roofing and HVAC upgrades, and includes some mitigation strategies like shade structures and stormwater management (Facility Assessments, Site Plans). However, lacks comprehensive districtwide climate risk assessment or integrated climate resilience theme."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes data on energy use and energy efficiency strategies such as HVAC upgrades, solar, and electrification of systems (Facility Assessments). References Title 24 and state goals but does not present a fully comprehensive energy resilience plan."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a detailed capital strategy with itemized cost estimates, prioritization by urgency, and multiple funding sources including bonds and state grants (Executive Summary, Sections 1-6). Includes escalation assumptions and contingency planning."
+    }
+  }
+}

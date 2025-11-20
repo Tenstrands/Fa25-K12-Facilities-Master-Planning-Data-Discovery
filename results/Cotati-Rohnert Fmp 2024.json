@@ -1,0 +1,33 @@
+{
+  "district": "Cotati-Rohnert Fmp 2024",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including building sizes, ages, classrooms, portables, and specialized spaces; detailed condition assessments covering HVAC, plumbing, roofs, electrical, lighting, technology infrastructure, and accessibility; connects condition data to student outcomes and integrates short- and long-term capital planning (e.g., Evergreen ES detailed assessments, multiple site plans, and condition ratings)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides comprehensive enrollment projections with methodology (demographic trends, housing development) through 2028-29 and beyond; detailed capacity utilization data by site and classroom; explicit strategies for right-sizing schools, replacing portables, and flexible space use; connects enrollment to facility actions district-wide (e.g., capacity summaries and planning for each school)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed educational specifications; clear integration of district mission, instructional priorities, and facilities planning; projects directly respond to educational needs including TK, CTE, STEAM, special education, wellness centers, and collaborative learning spaces (e.g., detailed IoQ scoring linking projects to educational programs)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 4,
+      "justification": "District-wide data and analysis on outdoor spaces including shade structures, permeable surfaces, and green spaces; detailed strategies for campus greening such as expanded tree cover, rain gardens, bioswales, and outdoor classrooms; frames greening as climate resilience and wellness strategy; includes outdoor learning and community benefits (e.g., multiple schools with shade structures, walking paths, field improvements, and outdoor learning areas)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 3,
+      "justification": "Plan addresses multiple climate risks with detailed strategies such as perimeter fencing, shade structures, stormwater management, and improved HVAC; climate readiness is a theme in the plan and integrated into site-level projects and long-range planning; however, comprehensive district-wide climate risk assessment for multiple impacts is implied but not fully detailed across all sites."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as solar panel arrays, LED lighting, HVAC upgrades, and some renewable energy integration; discusses energy resilience goals with backup power and microgrids mentioned; references state requirements like Title 24 and Zero Net Energy goals but lacks fully comprehensive district-wide energy data and detailed electrification plans."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 3,
+      "justification": "Provides itemized cost estimates with some methodology, prioritization framework based on Indicators of Quality, and identifies funding sources including bonds and state grants; includes project cost contingencies and phased implementation; lacks fully detailed long-term financial sustainability analysis and comprehensive capital improvement plan."
+    }
+  }
+}

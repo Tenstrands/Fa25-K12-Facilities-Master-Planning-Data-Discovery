@@ -1,0 +1,33 @@
+{
+  "district": "Beverly Hills Fmp",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed building sizes, classrooms, specialized spaces, and site plans; robust condition assessment covering HVAC, plumbing, electrical, lighting, technology infrastructure, and accessibility; integrates condition data with student outcomes and long-term capital planning (Chunks 1, 26, 35)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides detailed enrollment projections over 10+ years using cohort survival method; includes demographic, housing, and permit data; detailed capacity utilization by site and grade; connects projections to facility actions and adaptive space uses (Chunks 2-6, 26, 30, 35, 38)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle; detailed educational specifications for K-8 and 9-12 with clear integration of district mission, instructional priorities, and facilities planning; comprehensive analysis of how facilities support multiple programs including STEM, CTE, special education, and technology-rich environments (Chunks 6-17, 26, 30, 35, 38, 41, 44, 46)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Includes data and analysis of outdoor spaces such as playfields, athletic fields, and plazas; identifies strategies for improvement like adding multipurpose rooms and gymnasiums; mentions outdoor learning and wellness but lacks districtwide greening data or climate resilience framing (Chunks 26, 27, 35, 36)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Acknowledges climate-related facility issues such as stormwater management and HVAC ventilation improvements; includes some MEPC upgrades addressing environmental controls; however, lacks comprehensive districtwide climate risk assessment or integrated climate resilience strategies (Chunks 19, 20, 21, 35)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Plan includes MEPC assessments with recommendations for HVAC, electrical, and plumbing upgrades; discusses energy-related repairs and improvements; references energy resilience goals but does not present comprehensive electrification or decarbonization strategies (Chunks 19, 20, 35, 44)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents detailed capital strategy with itemized cost estimates, prioritization of projects, and multiple funding strategies including Measure E; includes lifecycle cost considerations and phased project schedules; aligns financial capacity with educational and facility priorities (Chunks 20-25, 26, 30, 33, 38, 43)."
+    }
+  }
+}

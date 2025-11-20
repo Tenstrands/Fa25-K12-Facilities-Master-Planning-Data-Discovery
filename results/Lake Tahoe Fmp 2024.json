@@ -1,0 +1,33 @@
+{
+  "district": "Lake Tahoe Fmp 2024",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 3,
+      "justification": "The plan includes detailed inventories of all district facilities with building sizes, ages, and types, including permanent and non-permanent classrooms, athletic fields, and multipurpose rooms (e.g., pages 4-27). It provides condition assessments with references to major systems and identifies areas for improvement, but does not explicitly mention multiple data sources or connect condition data comprehensively to student outcomes or long-term lifecycle planning."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 1,
+      "justification": "The provided plan content does not include any discussion or analysis of enrollment projections, capacity utilization, or demographic trends, nor does it connect these to facility planning or actions."
+    },
+    "Educational Alignment": {
+      "score": 2,
+      "justification": "The plan references educational goals broadly, such as modern learning environments and next generation classrooms, and mentions program spaces like STEM/maker spaces and TK additions (e.g., pages 5-24), but lacks detailed educational specifications or explicit connections between facility projects and instructional needs."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "The plan identifies outdoor spaces including playgrounds, athletic fields, and outdoor learning areas at multiple sites (e.g., pages 5, 8, 14, 17, 24). It includes strategies for activating outdoor learning and expanding green play areas, though districtwide data on green space or detailed greening strategies are not fully developed."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 0,
+      "justification": "There is no mention or discussion of climate risks, climate readiness, or mitigation strategies related to climate impacts in the provided plan content."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 1,
+      "justification": "The plan does not mention energy efficiency, electrification, decarbonization, energy resilience, or state energy requirements such as Title 24 or Zero Net Energy goals in the provided content."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents a comprehensive capital strategy with detailed cost estimates by site and project phase, including contingencies, escalation, and soft costs (e.g., pages 6-31). It outlines a phased bond funding plan with prioritization of safety, permanent facilities, academic, outdoor, and support projects, demonstrating alignment with district priorities and financial capacity."
+    }
+  }
+}

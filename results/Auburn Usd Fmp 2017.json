@@ -1,0 +1,33 @@
+{
+  "district": "Auburn Usd Fmp 2017",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "The plan provides a comprehensive district-wide inventory including building ages, sizes, portables, and detailed site assessments for all campuses. It uses a detailed repair/replace scoring system and categorizes needs into code, maintenance, and transformation, linking condition data to educational priorities and long-term capital planning (Chunks 3,4,9,10)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 3,
+      "justification": "The plan includes detailed enrollment data by site and discusses capacity utilization and implications such as modernization and replacement of portables. It identifies under- and over-capacity issues and potential actions like new construction and repurposing, but lacks explicit long-term demographic methodology and innovative adaptive space uses (Chunks 9,14,16)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle, with detailed integration of district mission and LCAP goals into facilities planning. The plan includes comprehensive educational specifications addressing STEAM labs, flexible classrooms, collaboration spaces, and program-specific facility needs, directly linking projects to educational goals (Chunks 1,6,7,8,21)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "The plan provides data and analysis on outdoor spaces including fields, hardcourts, gardens, and amphitheaters, with strategies for improvements such as shade structures and outdoor learning areas. However, districtwide greening data and comprehensive climate resilience framing for outdoor spaces are limited (Chunks 9,12,14,16,17)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "The plan acknowledges climate-related issues such as irrigation efficiency, drought-tolerant landscaping, and stormwater management, and mentions solar arrays as resilience strategies. However, it lacks a comprehensive climate risk assessment or detailed multi-risk mitigation strategies across the district (Chunks 9,12,19,20)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan discusses energy efficiency measures including HVAC replacements, solar arrays, and renewable energy integration. It references state requirements and energy resilience goals but does not present a fully comprehensive strategy with detailed baselines, targets, or electrification plans (Chunks 9,12,19,20)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents detailed cost estimates categorized by code, maintenance, and transformation projects with escalation assumptions. It includes a clear prioritization framework aligned with educational goals and identifies multiple funding sources and strategies, supporting a fiscally realistic and strategic implementation path (Chunks 10,11,15,20)."
+    }
+  }
+}

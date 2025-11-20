@@ -1,0 +1,33 @@
+{
+  "district": "Carmel Fmp 2019",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including building ages, sizes, portables, and detailed site plans; robust condition assessment covering HVAC, plumbing, roofs, electrical, lighting, technology infrastructure, and accessibility; connects condition data to student outcomes and integrates short- and long-term capital planning (Sections 5.1-5.11, Appendix 6.2)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides detailed enrollment projections over 10 years with methodology including demographic trends, housing patterns, and cohort survival; includes capacity utilization data by site and grade; links projections to specific facility actions and adaptive uses of space (Section 2.2, FMPC Meeting Minutes 3.01)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle; detailed educational specifications for all school levels with comprehensive analysis of how facilities support multiple programs (TK, CTE, special education, collaborative learning, technology); clear integration of district mission, instructional priorities, and facilities planning (Sections 3.1-3.5, FMPC Meeting Minutes 1.07, 2.04)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 4,
+      "justification": "District-wide data on outdoor spaces including square footage of green surfaces, shade coverage, and stormwater management; detailed strategies for campus greening such as expanding tree cover, permeable surfaces, outdoor classrooms, rain gardens, and bioswales; frames outdoor spaces as climate resilience strategies and supports outdoor learning and environmental literacy (Sections 3.2, 3.3, 3.4, 3.5)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Acknowledges climate change impact risks and includes some strategies such as shade structures and stormwater management; however, lacks comprehensive district-wide climate risk assessment or multi-impact mitigation strategies; climate readiness is a consideration but not a central theme (Sustainability and Safety sections, FMPC discussions)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as HVAC upgrades, LED lighting, and some renewable energy references; discusses energy resilience goals and references state requirements (Title 24, ZNE goals); lacks fully comprehensive energy resilience and electrification strategies across all sites (Sections 3.2, 4.2, FMPC Meeting Minutes)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a comprehensive capital strategy with detailed cost estimates by project and scope category, including escalation and contingencies; uses clear prioritization criteria aligned with safety, equity, program alignment, lifecycle cost, and climate resilience; outlines multiple funding strategies including bonds, state programs, developer fees; considers long-term financial sustainability and aligns with district priorities (Section 4, Appendix 6.2, FMPC Meeting Minutes 5.05)."
+    }
+  }
+}

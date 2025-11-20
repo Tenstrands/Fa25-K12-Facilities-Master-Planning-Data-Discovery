@@ -1,0 +1,33 @@
+{
+  "district": "Las Virgenes Fmp 2019",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed data on building sizes, ages, classrooms, portables, and specialized spaces across all schools. Robust condition assessments cover HVAC, roofing, electrical, plumbing, technology infrastructure, and accessibility, with clear connections to student outcomes and long-term capital planning (e.g., Bay Laurel, Chaparral, Lupin Hill, and others detailed in chunks 5-36)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections and capacity utilization data by site, classroom, and grade with square footage and student counts. Plans explicitly link enrollment trends to facility actions including new construction, modernization, portable replacement, and adaptive uses (e.g., detailed capacity analyses and project highlights for each school in chunks 5-36)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with clear integration of district mission and instructional priorities. Facility projects are directly connected to educational goals including STEM labs, CTE programs, special education, collaborative learning, and technology-rich environments (e.g., detailed programmatic goals and facility improvements across all schools, including STEAM labs, CTE expansions, and outdoor learning in chunks 6-37)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 4,
+      "justification": "District-wide data on outdoor spaces including square footage of green surfaces, shade coverage, and surface types. Detailed strategies for campus greening such as shade trees, solar shade canopies, permeable surfaces, outdoor classrooms, rain gardens, and stormwater management are included. Outdoor learning and environmental literacy are emphasized (e.g., multiple schools with outdoor learning areas, shade canopies, and greening projects detailed in chunks 6-37)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 3,
+      "justification": "Plan addresses climate impacts such as heat, wildfires, and power outages with detailed strategies including shade structures, solar arrays, emergency generators, and HVAC upgrades. Climate readiness is a priority and a theme throughout the plan, but comprehensive multi-risk district-wide climate risk assessment is not fully detailed (e.g., emergency generators, solar power initiatives, and HVAC resilience mentioned across campuses in chunks 6-37)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 4,
+      "justification": "Energy resilience and efficiency are core parts of the plan with district-wide energy use data, strategies for electrification, solar photovoltaic arrays, battery storage, and microgrids. The plan references state requirements (Title 24, Zero Net Energy goals) and includes detailed capital projects for energy upgrades and resilience (e.g., solar shade canopies, battery backups, and electrification strategies across campuses in chunks 6-37)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Comprehensive capital strategy with detailed cost estimates, prioritization frameworks, and multiple funding sources including bonds, state grants, and developer fees. The plan includes escalation assumptions, contingencies, and aligns financial capacity with educational priorities and facility needs (e.g., detailed cost estimates and funding strategies for all campuses in chunks 7, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49, 53, 57, 61)."
+    }
+  }
+}

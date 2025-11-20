@@ -1,0 +1,33 @@
+{
+  "district": "Pajaro Valley Usd Fmp 2012-2022",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed data on building age, size, classrooms, specialized spaces, and detailed site plans; robust condition assessment covering major systems with cost estimates and contingency planning (Chunks 1-20, 50)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections with methodology, capacity utilization by site and grade, and explicit connection to facility actions including portable exclusions and new construction eligibility (Chunks 1-5, 50, 52)."
+    },
+    "Educational Alignment": {
+      "score": 2,
+      "justification": "Limited references to educational goals and programs (e.g., CTE, special education) but no comprehensive educational specifications or direct connection of projects to educational needs (no explicit educational alignment sections found)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Provides data and analysis of outdoor spaces including playfields, hard courts, shade structures, and fencing; identifies strategies for improvement such as shade structures and irrigation upgrades, but lacks districtwide greening data or climate resilience framing (Chunks 6-26)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges some climate-related issues indirectly (e.g., rodent damage, drainage problems) but no comprehensive climate risk assessment or integrated climate resilience strategies evident in the plan (Chunks 6, 31)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as solar photovoltaic installations at multiple sites, EMS upgrades, and references to Title 24 and state goals; discusses energy resilience goals but lacks fully comprehensive districtwide resilience strategy (Chunks 46-47)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a comprehensive financial plan with detailed cost estimates, escalation, contingencies, prioritization, multiple funding sources including bonds, state programs, developer fees, and endowments; aligns financial capacity with district priorities (Chunks 52-55)."
+    }
+  }
+}

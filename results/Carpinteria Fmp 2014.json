@@ -1,0 +1,33 @@
+{
+  "district": "Carpinteria Fmp 2014",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed site maps, building ages, sizes, portables, and specialized spaces (e.g., science labs, cafeterias). Robust condition assessment with detailed cost estimates and technical expert input across all major systems; includes deferred maintenance and modernization plans (Chapters III, IX, Appendices C, D). Connects condition data to instructional priorities and long-term capital planning (Executive Summary, Chapter X)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides detailed enrollment trends and projections over a 20-year horizon with demographic context (Chapter II). Includes capacity utilization data by site and classroom, identifies under- and over-capacity schools, and links these to specific facility actions such as portable replacement, new construction, and site consolidation (Chapters II, VIII, IX). Explicit strategies for closure, consolidation, and adaptive uses of space are discussed (Executive Summary, Chapter X)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "Includes educational mission and goals linked to facilities planning with detailed educational specifications (e.g., STEM labs, flexible classrooms, special education spaces) and programmatic needs (Chapters I, III). Connects facility projects to educational programs such as science classrooms, culinary arts, and ROP training. Some programmatic shifts and instructional needs are mentioned but coverage is partial (e.g., technology integration, early learning) and not fully comprehensive."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "References outdoor spaces such as fields, playgrounds, and school gardens with some mention of shade structures and outdoor learning (Summerland garden, CCPM outdoor play areas). However, lacks district-wide data or detailed analysis of green space, canopy cover, or stormwater management. Strategies for greening and environmental literacy are minimal and not framed as climate resilience (Chapters III, IX)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges climate-related risks indirectly through energy efficiency and infrastructure upgrades but does not provide a detailed climate risk assessment or comprehensive mitigation strategies. No district-wide climate resilience theme or multi-hazard assessment evident (Chapter VI on energy efficiency mentions Proposition 39 but no explicit climate risk assessment)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Discusses energy efficiency projects including LED lighting upgrades and solar parking shade structures with cost estimates and potential funding sources (Chapter VI). References Proposition 39 funding and energy infrastructure upgrades. Mentions energy resilience goals but lacks a fully comprehensive strategy including electrification or microgrids. Some data on energy use and savings projections provided."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a detailed financial plan with itemized cost estimates for deferred maintenance, modernization, new construction, and technology infrastructure (Chapter VII, Appendix D, Table 8). Includes prioritization framework developed by Superintendent's Facilities Committee and Board with clear criteria. Multiple funding sources identified including bonds, developer fees, state programs, property sales, and fundraising. Considers long-term sustainability and aligns financial capacity with educational priorities."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "district": "Central Union High Fmp 2015",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including building age, size, and detailed assessments of classrooms and specialized spaces across all three high schools. Detailed condition assessments cover major systems (HVAC, roofs, electrical, plumbing, fire alarms) with cost estimates and scheduled repairs, connecting condition data to long-term capital planning (Chunks 1-15)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 1,
+      "justification": "No mention or analysis of enrollment projections, capacity utilization, or demographic trends found in the plan content."
+    },
+    "Educational Alignment": {
+      "score": 1,
+      "justification": "No references to educational goals, educational specifications, or connections between facilities and instructional needs or programs were identified."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 1,
+      "justification": "No discussion or data on outdoor spaces, greening, shade, or outdoor learning; site plans only show basic site elements without greening strategies."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 0,
+      "justification": "No mention of climate risks, climate readiness, or mitigation strategies related to climate change impacts."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 1,
+      "justification": "No mention of energy efficiency, electrification, decarbonization, energy resilience, or state energy requirements such as Title 24 or Zero Net Energy goals."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Detailed cost estimates for modernization and new projects across all sites with itemized costs and summaries. Prioritization of projects is evident with scheduled repairs and new construction. Multiple funding sources implied through detailed budgeting and phased capital improvements (Chunks 1-15)."
+    }
+  }
+}

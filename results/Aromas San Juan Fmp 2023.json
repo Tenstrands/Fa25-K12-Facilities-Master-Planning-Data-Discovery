@@ -1,0 +1,33 @@
+{
+  "district": "Aromas San Juan Fmp 2023",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including building age, size, classrooms, portables, and specialized spaces across all three campuses (Sections 4, pages 27-50). Detailed condition assessments cover major systems (HVAC, roofing, plumbing, electrical), with cost estimates and modernization eligibility. Connects condition data to long-term capital planning and student outcomes."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides detailed enrollment projections over 6 years with methodology explained (cohort analysis, birth rates, housing development) and historic trends (Section 3, pages 21-25). Capacity utilization data by site and classroom included with net classroom counts and loading standards. Explicitly links enrollment and capacity to facility needs and projects, including replacement and modernization plans."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "Includes discussion of educational environment and facility support for programs (Section 2, Scope of Work). Mentions educational specifications such as support facilities meeting state standards and qualitative assessments of educational environment. Connects facility projects to instructional needs but coverage of specific program requirements (CTE, TK, special education) is partial."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "References to landscaping, irrigation, playgrounds, and shade structures are present (Sections 4, pages 30, 40, 48), but minimal detail on greening strategies or districtwide analysis of green space. Some mention of adding shade structures and irrigation repairs but lacks comprehensive data or holistic greening strategy."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges seismic risks and need for structural engineering analysis and seismic mitigation funding (Section 4, San Juan School, pages 38-42). However, no comprehensive climate risk assessment or multi-hazard climate resilience strategies are detailed beyond seismic concerns."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "Mentions HVAC upgrades and energy management system additions (Section 4, Aromas and Anzar High assessments). No detailed energy use data, resilience strategies, or references to state mandates such as Title 24 or Zero Net Energy goals."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents detailed cost estimates for modernization and new construction projects with itemized categories and total costs (Executive Summary, pages 5-7). Describes multiple funding sources including state modernization, hardship, new construction, developer fees, bonds, and COPs (Section 2, pages 11-18). Includes prioritization framework and aligns funding strategies with district needs."
+    }
+  }
+}

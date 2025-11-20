@@ -1,0 +1,33 @@
+{
+  "district": "Lemoore Fmp 2016",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 3,
+      "justification": "The plan includes an inventory of all district facilities with details on building sizes, ages, portables, and specialized spaces such as science labs, athletic fields, and multipurpose rooms. The condition assessment covers building systems like HVAC, roofs, electrical, and plumbing, identifying areas for improvement and infrastructure issues (CHUNK 1, Facilities Assessment). However, it lacks comprehensive district-wide data integration and long-term lifecycle planning."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 1,
+      "justification": "There is no mention or analysis of enrollment projections, capacity utilization, or demographic trends in the provided plan content."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "The plan includes detailed educational specifications linking facility projects to educational programs such as CTE classrooms, science labs, and library modernization. It addresses programmatic needs with new academic buildings and specialized spaces (CHUNK 3 and 4). However, the connection to educational goals is partial and not fully integrated as a core organizing principle."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "The plan provides data and analysis on outdoor spaces including landscaping, shade structures, and outdoor instructional spaces with phased improvements district-wide. It mentions greening strategies like solar-ready shade structures and seating, but does not fully integrate these as climate resilience strategies or provide comprehensive district-wide data (CHUNK 4 and 5)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan minimally acknowledges infrastructure issues and includes some shade structures but does not provide a detailed climate risk assessment or comprehensive climate resilience strategies."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "The plan mentions solar-ready roofs on new buildings and some HVAC upgrades but lacks detailed energy use data, comprehensive energy resilience strategies, or references to state requirements such as Title 24 or Zero Net Energy goals (CHUNK 4 and 5)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents a comprehensive capital strategy with detailed project budgets, phased implementation plans, multiple funding sources including local bonds, state grants, and Prop 39, and clear prioritization of projects. It includes cost escalation assumptions and aligns funding strategies with project priorities (CHUNK 2 and 3)."
+    }
+  }
+}

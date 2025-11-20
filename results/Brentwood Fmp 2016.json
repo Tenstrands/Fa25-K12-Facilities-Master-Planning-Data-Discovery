@@ -1,0 +1,33 @@
+{
+  "district": "Brentwood Fmp 2016",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed site plans, building ages, sizes, and specialized spaces; robust condition assessments covering HVAC, plumbing, roofs, electrical, lighting, technology infrastructure, and accessibility; connects condition data to student outcomes and integrates short- and long-term capital planning (e.g., detailed site master plans and cost models for all schools, pp. 21-172)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides comprehensive enrollment analysis with detailed projections and capacity utilization by site and grade; connects enrollment data to specific facility actions including new school construction, modernization, and program relocations; includes innovative uses of space and detailed phasing and prioritization of projects (e.g., demographic assessment and capacity summaries, pp. 12-13, 21-172)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with clear integration of district mission, instructional priorities, and facilities planning; detailed educational specifications address multiple programs (TK, CTE, special education, collaborative learning, technology); facility projects directly respond to educational needs (e.g., 21st Century learning libraries, instructional technology infrastructure, specialized classrooms, pp. 8-10, site narratives and recommendations)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Provides data and analysis of outdoor spaces including play areas, shade structures, and field conditions; identifies strategies for improvement such as shade structures, all-access playgrounds, and outdoor seating; however, lacks districtwide greening data and comprehensive climate-adapted design framing (e.g., site master plans include shade and playground improvements but limited districtwide greening metrics, pp. 28-31, 42-45)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges climate-related issues such as drought impacts on landscaping and irrigation challenges; mentions some site drainage and stormwater management concerns; however, lacks comprehensive climate risk assessment or detailed mitigation strategies integrated into the plan (e.g., references to drought watering restrictions and drainage issues, but no detailed climate risk assessment, pp. 80, 134)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as LED lighting upgrades (Prop 39 funding), solar panels on some buildings, and HVAC system maintenance plans; references Title 24 compliance and energy use data; discusses energy resilience goals but lacks comprehensive districtwide electrification or microgrid strategies (e.g., solar panels on Adams Middle, LED lighting plans, HVAC upgrades, pp. 136, 144)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a comprehensive capital strategy with detailed cost estimates for all projects, including escalation and contingencies; clear prioritization framework linking projects to safety, equity, program alignment, and lifecycle costs; multiple funding strategies including bonds, developer fees, and state programs; aligns financial capacity with educational priorities and facility needs (e.g., detailed bond program cost models, phasing schedules, and funding sources, pp. 14-19, 31-33, 46-47)."
+    }
+  }
+}

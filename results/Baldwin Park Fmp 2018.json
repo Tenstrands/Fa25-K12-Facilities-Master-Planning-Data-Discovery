@@ -1,0 +1,33 @@
+{
+  "district": "Baldwin Park Fmp 2018",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed site plans, building ages, sizes, and specialized spaces (e.g., athletic fields, libraries). Robust condition assessment covering HVAC, plumbing, roofing, electrical, lighting, technology infrastructure, and accessibility with lifecycle and immediate needs identified (Sections 6, 44-64, 101-110)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections over 10 years with methodology from DecisionInsite, including capacity utilization by site, classroom, and grade. Explicit connection of enrollment trends to facility actions such as consolidation and repurposing (Sections 4, 36-39, 289)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed educational specifications for all school levels, linking facilities to district mission and instructional goals. Includes comprehensive descriptions of learning spaces, special education, nutritional services, and career/technology labs (Sections 3, 23-33, 109-138, 235-375)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Plan provides data and analysis of outdoor spaces including playgrounds, sports fields, and shaded areas with strategies for improvements such as covered eating areas and outdoor learning spaces. However, districtwide greening and climate resilience framing is limited (Sections 6, 44, 289, 346)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Acknowledges climate-related facility needs such as roofing, HVAC upgrades, and outdoor shading but lacks a comprehensive climate risk assessment or districtwide resilience strategy. Some mitigation strategies are implied in facility upgrades (Sections 12-14, 289)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as HVAC upgrades, LED lighting, and some renewable energy references. Energy data and resilience goals are mentioned but comprehensive districtwide energy resilience and electrification plans are not fully detailed (Sections 12-14, 289)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a detailed capital strategy with itemized cost estimates, prioritization criteria, and phased project implementation aligned with available funding of $126.5M. Includes multiple funding sources and long-term financial sustainability considerations (Section 7, 289-291)."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "district": "Black Oak Mine Usd 2020 Fmp",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "The plan presents a comprehensive district-wide inventory including detailed information on building ages, sizes, portables, and specialized spaces such as athletic fields and multipurpose rooms (Chunks 3, 5). It provides a robust condition assessment covering major systems (HVAC, plumbing, electrical, lighting, technology infrastructure, accessibility) with repair/replace levels and life cycle data, connecting condition data to student outcomes and instructional priorities (Chunks 2, 3, 5). Immediate and long-term needs are integrated into capital planning."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 3,
+      "justification": "The plan provides detailed enrollment data and projections for multiple years and discusses capacity utilization by site, including identification of portables beyond lifespan and recommendations for replacement (Chunks 11, 13, 15). It acknowledges under- and over-capacity issues and potential actions such as portable removal and new construction. However, it lacks explicit detailed methodology for projections and innovative adaptive uses of space."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle, with the plan explicitly linking district mission and LCAP goals to facilities planning (Chunks 1, 6, 7). It includes detailed educational specifications for flexible classrooms, STEM labs, CTE facilities, and collaborative spaces, connecting facility projects directly to educational goals and programs such as project-based learning, STEAM, and equity initiatives (Chunks 7-10)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "The plan provides data and analysis of outdoor spaces including fields, playgrounds, gardens, and amphitheaters, with strategies for improvement such as shade structures, landscaping, and outdoor learning environments (Chunks 11, 13, 15, 16). It mentions connections between greening and wellness but does not provide districtwide data or fully detailed greening strategies."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan acknowledges some climate-related risks such as flooding on playing fields and drainage issues (Chunks 11, 15), and mentions some strategies like shade structures and drainage improvements. However, it lacks a comprehensive climate risk assessment, detailed data on frequency or intensity of climate impacts, and districtwide mitigation strategies."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan references energy efficiency strategies including HVAC upgrades, smart thermostats, and some use of Prop 39 funds (Chunks 11, 15). It discusses energy resilience goals and references Title 24 and Zero Net Energy goals, but does not present a comprehensive energy resilience strategy or detailed energy use data."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 3,
+      "justification": "The plan provides itemized cost estimates for projects, including code, maintenance, and transformation categories, with some indication of cost escalation and prioritization frameworks aligned with educational goals (Chunks 4, 5). It identifies likely funding sources such as bonds and state grants and outlines strategies for accessing them, but lacks a fully comprehensive long-term financial sustainability analysis."
+    }
+  }
+}

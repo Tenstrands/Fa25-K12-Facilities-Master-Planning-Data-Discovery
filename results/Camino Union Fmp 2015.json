@@ -1,0 +1,33 @@
+{
+  "district": "Camino Union Fmp 2015",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 3,
+      "justification": "The plan includes an inventory of all district facilities with details on building sizes, ages, and portable classrooms (Section II, Appendix B). It uses the Facility Inspection Tool (FIT) for condition assessment and provides detailed evaluations of building systems and maintenance categories (Section III). However, it lacks multiple data sources or real-time monitoring and does not fully integrate condition data with long-term capital planning."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan provides comprehensive enrollment projections through 2024/25 using multiple methodologies including cohort survival and housing development analysis (Section IV, Table IV-4). It includes detailed capacity utilization data by site and classroom, and connects these analyses to facility needs and potential expansions (Section II, Section V)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "The plan includes a detailed section on the district’s educational mission, goals, and instructional programs, including special education and charter school programs (Section I). It connects facility projects to educational programs but coverage of programmatic shifts and detailed educational specifications is partial."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 1,
+      "justification": "There is no mention or discussion of outdoor spaces, schoolyard greening, shade, or outdoor learning in the plan."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 0,
+      "justification": "The plan does not mention climate risks, climate readiness, or mitigation strategies related to climate change."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 1,
+      "justification": "There is no mention of energy efficiency, electrification, decarbonization, energy resilience, or state energy requirements in the plan."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents a comprehensive capital strategy including detailed funding options such as state programs, local bonds, Mello Roos, parcel taxes, developer fees, and Certificates of Participation (Section V). It outlines project prioritization phases and discusses financial sustainability and realistic funding expectations."
+    }
+  }
+}

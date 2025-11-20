@@ -1,0 +1,33 @@
+{
+  "district": "Manhattan Beach Fmp 2015",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed site plans, building sizes, ages, and specialized spaces; robust condition assessment covering all major systems with multiple data sources; connects condition data to student outcomes and integrates short- and long-term needs into capital planning (Chapters 2, 5; Facility Assessment and Grading; Master Planning)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides detailed enrollment projections over 10 years with methodology explained; includes capacity utilization data by site and grade; links enrollment projections to specific facility actions including new construction, reconfiguration, and adaptive uses; considers demographic trends and housing patterns (Chapters 1, 5; Enrollment Analysis; Master Planning)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle; detailed educational specifications for all school levels; clear integration of district mission, instructional priorities, and facilities planning; facility projects directly respond to educational goals including STEM, CTE, special education, and collaborative learning (Chapter 4; Educational Specifications)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 4,
+      "justification": "District-wide data on outdoor spaces including playfields, gardens, and hard courts; detailed strategies for campus greening such as stormwater retention, permeable paving, and community gardens; frames outdoor spaces as climate resilience strategies; includes outdoor learning and environmental literacy (Chapters 2, 5; Facilities Assessment; Master Planning)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 3,
+      "justification": "Plan addresses climate impacts such as stormwater management and heat mitigation with detailed strategies including stormwater retention systems and permeable paving; climate readiness is a priority and theme in planning and design; however, comprehensive multi-risk district-wide climate risk assessment is limited (Chapters 2, 5; Facilities Assessment; Master Planning)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 4,
+      "justification": "Energy resilience and efficiency are core parts of the plan; includes data on energy use and strategies for reduction; references state requirements (Title 24, Zero Net Energy goals); plans for electrification, renewable integration, and resilience strategies such as solar and microgrids; connects energy improvements to climate-related disruptions (Chapter 2; Facilities Assessment; Master Planning)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Comprehensive capital strategy with detailed cost estimates, prioritization criteria, and multiple funding strategies including bonds, state programs, and alternative financing; includes escalation assumptions, contingencies, and long-term financial sustainability considerations; aligns financial capacity with educational priorities and facility needs (Chapter 5; Implementation; Funding Opportunities)."
+    }
+  }
+}

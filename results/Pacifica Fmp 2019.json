@@ -1,0 +1,33 @@
+{
+  "district": "Pacifica Fmp 2019",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed site plans and square footage; robust condition assessments by EMG Corp and Garland Company covering all major systems; connects condition data to educational suitability and long-term planning (Chapters 2, 5; Facility Condition Assessments; Roof Inspections)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections with methodology, capacity utilization by site and grade, and explicit connection to facility actions including new construction, consolidation, and adaptive uses; includes innovative uses like collaborative classrooms and community partnerships (Introduction and Process, Chapter 5 site analyses)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed educational specifications; clear integration of district mission, instructional priorities, and facilities planning; facility projects directly respond to educational needs including STEM, special education, collaborative learning, and technology-rich environments (Chapters 1, 2, 5; Educational Suitability Assessments and Staff Input)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Provides data and analysis of outdoor spaces including fields, playgrounds, and shading; identifies strategies for improvement such as shade structures, outdoor learning spaces, and landscaping; however, lacks fully districtwide detailed greening data and comprehensive climate resilience framing (Site plans and priorities across schools, e.g., Sunset Ridge, Ocean Shore, Vallemar)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Acknowledges climate-related issues such as shading and ventilation improvements for heat mitigation; includes some strategies like outdoor shade structures and HVAC upgrades; however, lacks comprehensive climate risk assessment or districtwide climate resilience as a central theme (Bond Implementation Priorities, Site Specific Impact Projects)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as HVAC upgrades, lighting improvements, and some renewable energy references; discusses energy resilience goals and references state requirements; lacks fully comprehensive energy resilience and electrification strategies across all sites (Facility Assessments, Cost Models, and Bond Priorities)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a comprehensive capital strategy with detailed cost estimates by tier and site, including escalation and contingencies; clear prioritization framework with tiers for code compliance, deferred maintenance, and site-specific impact projects; multiple funding sources including Measure O bond and technology plan; considers long-term sustainability and phased implementation (Chapter 3 Program Costs, Cost Models, Bond Implementation Priorities)."
+    }
+  }
+}

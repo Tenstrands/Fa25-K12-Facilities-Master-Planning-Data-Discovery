@@ -1,0 +1,33 @@
+{
+  "district": "Lowell Fmp 2021",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including building sizes, ages, portables, and detailed site plans for all six campuses. Robust condition assessments use a Facility Condition Index (FCI) with detailed evaluations of major systems (HVAC, roofing, electrical, plumbing) and non-classroom spaces; connects condition data to long-term capital planning (Sections II-VII, Facility Assessments and Modernization Plans)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment data provided for each school with current enrollment and grade levels. Capacity utilization is analyzed with specific plans for replacing portables, consolidating programs, and expanding facilities. The plan links enrollment projections to facility actions including new construction, modernization, and site reconfiguration (Sections II-VII, Modernization Plans and Cost Analyses)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "Educational goals are referenced with inclusion of specialized spaces such as STEAM classrooms, computer labs, and special education facilities. Facility projects are connected to educational programs (e.g., STEAM, early learning, special education), but the integration is partial and uneven across campuses without a fully comprehensive educational specifications section (Sections II-VII, Modernization Plans)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Plans include data on outdoor spaces such as athletic fields, playgrounds, and parking, with strategies for improvements like new shade structures, amphitheaters, and landscaping beautification. Some sites mention outdoor learning and greening efforts, but districtwide data on green surfaces or climate-adapted design is limited (Sections II-VII, Site Plans and Modernization Plans)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "The plan acknowledges climate-related issues such as ponding and drainage problems at multiple sites and proposes mitigation strategies like improved drainage and shade structures. However, it lacks a comprehensive climate risk assessment or districtwide climate resilience theme (Facility Assessments and Site Plans)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Energy efficiency strategies include HVAC replacements, roofing upgrades, and lighting improvements with references to Prop 39 energy projects. The plan discusses electrical service upgrades and some energy resilience goals but does not present a comprehensive energy resilience or electrification strategy aligned with state mandates (Sections II-VII, Cost Analyses)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Detailed cost estimates are provided for all projects across campuses with itemized categories and escalation assumptions. The plan includes a clear prioritization framework linked to safety, modernization, and program needs, and outlines multiple funding sources including Measure LL bonds and state grants. Long-term financial sustainability and project phasing are addressed in the cost breakdown and schedule (Sections VIII and Cost Analyses)."
+    }
+  }
+}

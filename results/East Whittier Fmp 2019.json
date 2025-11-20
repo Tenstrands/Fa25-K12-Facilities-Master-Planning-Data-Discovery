@@ -1,0 +1,33 @@
+{
+  "district": "East Whittier Fmp 2019",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory with detailed building and site data including square footage, building age, and specialized spaces. Robust condition assessments cover HVAC, plumbing, electrical, roofing, structural, and accessibility, with detailed recommendations and cost estimates (e.g., Ceres ES, Evergreen ES, La Colima ES, etc.). Condition data is linked to long-term planning and capital needs (e.g., deferred maintenance, safety, and modernization priorities)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 3,
+      "justification": "Detailed enrollment data and projections are provided with site-level capacity utilization and identification of under- and over-capacity schools. Plans discuss potential actions such as modernization, replacement of modular buildings, and facility expansions. However, explicit district-wide methodology and innovative adaptive space use strategies are less developed."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "The plan includes educational mission and goals linked to facilities, with detailed educational specifications such as 21st Century School requirements, STEM labs, and special education needs. Facility projects are connected to educational programs, though some programmatic shifts and integration are partial or uneven across sites."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Plans provide data and analysis on outdoor spaces including playfields, hardcourts, and shade structures. Strategies for improvements such as additional shade, new play apparatus, and irrigation upgrades are identified. However, district-wide greening data and climate resilience framing are limited."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "The plan acknowledges climate-related risks such as heat and stormwater issues and includes some mitigation strategies like shade structures and irrigation upgrades. Climate readiness is a consideration but not a central theme, and comprehensive multi-risk assessments or district-wide resilience strategies are not fully developed."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Energy efficiency measures such as LED lighting upgrades and HVAC replacements are detailed with references to state requirements. Energy resilience is mentioned with plans for solar and backup power at some sites, but comprehensive district-wide energy resilience and decarbonization strategies are not fully articulated."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents detailed cost estimates by site and project category, including escalation and contingencies. It outlines prioritization frameworks based on safety, modernization, and program alignment. Multiple funding sources and long-term financial sustainability considerations are included, providing a realistic and strategic capital plan."
+    }
+  }
+}

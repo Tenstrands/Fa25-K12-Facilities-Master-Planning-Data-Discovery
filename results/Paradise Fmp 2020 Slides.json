@@ -1,0 +1,33 @@
+{
+  "district": "Paradise Fmp 2020 Slides",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 2,
+      "justification": "The plan includes a basic inventory of district facilities and outlines major projects and priorities for each site, but lacks detailed data such as square footage, building ages, or comprehensive condition assessments of building systems. There is no mention of detailed assessment tools or connection of facility condition to student outcomes."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 1,
+      "justification": "There is no evidence of enrollment projections, capacity utilization data, or discussion of demographic trends and their impact on facility planning in the provided content."
+    },
+    "Educational Alignment": {
+      "score": 2,
+      "justification": "The plan references educational programs such as STEAM labs and CTE facilities and includes modernization of classrooms to support these, but does not provide detailed educational specifications or explicitly connect facility projects to educational goals."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 1,
+      "justification": "The plan mentions playgrounds, fields, and some site improvements like fencing and resurfacing, but does not discuss greening strategies, shade, outdoor learning, or environmental benefits of outdoor spaces."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 0,
+      "justification": "No mention or discussion of climate risks, climate resilience, or mitigation strategies related to climate change is present in the plan content."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 1,
+      "justification": "There is no mention of energy efficiency, electrification, decarbonization, energy resilience, or state energy requirements in the plan content."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan provides detailed cost estimates by phase and site, includes contingencies and escalation assumptions, identifies funding sources such as insurance proceeds, bonds, developer funds, and surplus sales, and outlines a phased capital strategy with prioritization of projects."
+    }
+  }
+}

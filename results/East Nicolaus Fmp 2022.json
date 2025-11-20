@@ -1,0 +1,33 @@
+{
+  "district": "East Nicolaus Fmp 2022",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 3,
+      "justification": "The plan includes an inventory of district facilities with details on building sizes, ancillary spaces, and phased capacity expansions (Ch1 pp.4-11). It provides a condition assessment with modernization plans and prioritization but lacks multiple data sources or detailed system monitoring."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan provides comprehensive enrollment projections over a 10+ year horizon with detailed grade-level data and development impacts (Ch2-3 pp.15-21). It links capacity needs to phased facility expansions and discusses developer fees and mitigation strategies."
+    },
+    "Educational Alignment": {
+      "score": 2,
+      "justification": "The plan references educational programs such as CTE expansions and ancillary spaces but only at a basic level without detailed educational specifications or strong connections between facilities and instructional goals (Ch1 pp.9-11, Ch3 p.24)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 1,
+      "justification": "There is no mention or analysis of outdoor spaces, greening, shade, or outdoor learning in the plan content provided."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan acknowledges site infrastructure needs and proximity to hazards but does not provide a detailed climate risk assessment or resilience strategies related to climate impacts (Ch1 p.4)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 1,
+      "justification": "No mention of energy efficiency, electrification, decarbonization, or energy resilience strategies is found in the plan content."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 3,
+      "justification": "The plan includes detailed cost estimates for phased projects with contingency and soft costs, and discusses funding sources such as developer fees and state programs (Ch1-2 pp.10-14, Ch3 p.24). It outlines prioritization but lacks a comprehensive long-term financial sustainability analysis."
+    }
+  }
+}

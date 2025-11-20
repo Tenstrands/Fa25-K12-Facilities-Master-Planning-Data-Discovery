@@ -1,0 +1,33 @@
+{
+  "district": "Livermore Valley Fmp 2021",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "The plan provides a comprehensive district-wide inventory including detailed building ages, sizes, types, and specialized spaces across all campuses (e.g., pages 12-17 for Altamont Creek, similar detail for other campuses). It includes robust condition assessments covering major systems and connects these to long-term planning and capital needs (e.g., HVAC, roofing, accessibility, and modernization needs detailed throughout). The plan integrates immediate and long-term needs into capital planning with phased implementation strategies."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan includes detailed enrollment projections and capacity ranges for each campus (e.g., Altamont Creek p.16, Arroyo Seco p.26, Junction Avenue p.140), with current enrollment and anticipated growth. It links capacity utilization to specific facility actions such as new construction, modernization, and removal of portables. The plan explicitly addresses growth needs and proposes adaptive uses of space, including new schools and expansions (e.g., Montevina new campus, p.112)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle, with clear integration of district mission and instructional priorities into facilities planning. The plan connects facility projects directly to educational goals, including STEM labs, CTE facilities, special education, and collaborative learning spaces (e.g., new STEM building at Jackson Avenue p.44, CTE upgrades at Granada p.206). It addresses programmatic shifts and specialized program needs comprehensively."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "The plan provides data and analysis of outdoor spaces including surface types, canopy cover, and site features (e.g., detailed site maps and descriptions of quads, play yards, and fields across campuses). It identifies strategies for improvement such as shade structures, landscaping refresh, and outdoor learning areas (e.g., Altamont Creek shade structure p.14, Rancho Las Positas outdoor dining p.86). However, districtwide greening and climate-adapted design are not fully detailed or framed as a central theme."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan minimally acknowledges climate-related issues such as solar panel installations and bio-swale areas (e.g., multiple campuses mention bio-swales and solar arrays), but does not provide a comprehensive climate risk assessment or detailed mitigation strategies. Climate readiness is not a central theme, and specific climate risks and resilience strategies are not detailed."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan references energy efficiency measures such as solar panel arrays at multiple campuses (e.g., Altamont Creek p.12, Rancho Las Positas p.82), and includes some discussion of energy resilience goals. It references state requirements indirectly through modernization and new construction but lacks comprehensive data on energy use or detailed electrification and decarbonization strategies."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan includes a comprehensive capital strategy with detailed cost estimates and prioritization of projects (e.g., cost estimate summary p.243). It references cost estimating methods, contingencies, and escalation assumptions. The plan outlines multiple funding strategies including bonds and state programs, and considers long-term financial sustainability aligned with district priorities."
+    }
+  }
+}

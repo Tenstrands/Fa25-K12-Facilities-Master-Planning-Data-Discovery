@@ -1,0 +1,33 @@
+{
+  "district": "El Dorado Union Hsd Fmp 2018",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed site maps, building sizes, ages, portables, and specialized spaces; robust condition assessments covering HVAC, plumbing, roofs, electrical, lighting, technology infrastructure, and accessibility; connects condition data to student outcomes and integrates short- and long-term needs into capital planning (Sections D, Figures 6-16, pages 25-44; Section E, Figures 18-19, pages 52-54)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides detailed enrollment projections over 10 years with methodology explained; includes capacity utilization data by site and classroom; links enrollment projections to facility actions and discusses strategies for boundary changes and maximizing existing capacities; considers long-term implications including new high school planning (Sections C and D, pages 16-24, 25-51; Figures 3-5, 6-17)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Positions educational alignment as a core principle; detailed analysis of how facilities support multiple programs including CTE, special education, STEM, and college readiness; connects facility projects directly to educational goals and program needs; includes strategic planning goals aligned with educational mission (Sections B and G; Career Technical Education program matrix and descriptions, pages 12-15; Strategic Planning Goals Appendix 1)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "Includes some reference to outdoor spaces such as athletic fields and synthetic turf replacements; mentions site improvements and shade structures at some campuses; lacks districtwide data or comprehensive greening strategies; no detailed analysis of green space coverage or climate resilience framing (Section E, pages 52-54; project descriptions of athletic fields and shade structures)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges environmental factors indirectly through facility upgrades (e.g., HVAC, roofing, energy efficiency) but does not provide a detailed climate risk assessment or comprehensive climate resilience strategies; no explicit climate readiness theme or districtwide climate risk mitigation plan found."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy-related upgrades such as HVAC system replacements, lighting improvements, and technology infrastructure enhancements; references to energy efficiency projects and compliance with state standards; discusses modernization and replacement of aging systems; lacks comprehensive energy resilience strategy or detailed energy use data (Sections D and E, pages 25-54)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a comprehensive financial plan including detailed cost estimates, funding sources (developer fees, bonds, state programs, CFD taxes), and prioritization of projects; includes multi-year revenue and expenditure projections; aligns financial capacity with facility needs and educational priorities; includes contingency and escalation assumptions (Section E, pages 52-57; Facilities Report and Measure Q Bond Final Report Appendices)."
+    }
+  }
+}

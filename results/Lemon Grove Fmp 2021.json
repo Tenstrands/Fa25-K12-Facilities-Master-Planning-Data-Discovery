@@ -1,0 +1,33 @@
+{
+  "district": "Lemon Grove Fmp 2021",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "The plan provides a comprehensive district-wide inventory including detailed site maps, building sizes, ages, and portable classrooms (Sections B, pages 8-18). It includes a robust condition assessment with Facility Condition Index (FCI) scores for all major systems (HVAC, roofing, lighting, fire alarm, ADA upgrades) and cost estimates for short-, intermediate-, and long-term needs, connecting condition data to long-term capital planning (Sections B, pages 18-28)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan includes detailed enrollment data by site, permanent and total capacity including portables, and projections for transitional kindergarten expansion through 2025-26 with methodology explained (Section B, pages 8-10). It connects capacity utilization to facility needs, highlighting reliance on portables and recommending replacement with permanent facilities, and discusses site size adequacy relative to state guidelines."
+    },
+    "Educational Alignment": {
+      "score": 2,
+      "justification": "The plan references educational goals broadly, such as accommodating Universal Transitional Kindergarten expansion and providing adequate classroom space, but lacks detailed educational specifications or explicit connections between facility projects and specific instructional programs or educational strategies (Executive Summary and Recommendations, pages 4-5, 35)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 1,
+      "justification": "The plan includes site maps showing outdoor spaces but does not discuss outdoor greening, shade, environmental benefits, or outdoor learning strategies in detail (Section B, pages 10-17). No analysis or strategies for campus greening or climate-adapted outdoor spaces are provided."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan minimally acknowledges climate-related issues indirectly through deferred maintenance and modernization needs but does not provide a detailed climate risk assessment or specific mitigation strategies related to climate impacts (no explicit section or detailed discussion found)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan discusses energy efficiency strategies such as LED lighting upgrades, HVAC modernization with higher MERV filters, and energy savings potential (Sections B, pages 19-28). It references Title 24 requirements and energy savings but lacks comprehensive energy resilience strategies like solar, microgrids, or electrification plans."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents a detailed financial analysis including multiple funding sources (State School Facility Program, bonds, developer fees), eligibility tables, and a project prioritization rubric with clear criteria (Section C and D, pages 28-35). It includes cost estimates with escalation assumptions and a strategic approach to prioritizing and funding projects aligned with district needs."
+    }
+  }
+}

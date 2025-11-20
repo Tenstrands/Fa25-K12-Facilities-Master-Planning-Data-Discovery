@@ -1,0 +1,33 @@
+{
+  "district": "East Side Fmp 2004",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed data on buildings, classrooms, specialized spaces, and site plans; robust condition assessments covering major systems with multiple data sources; connects condition data to student outcomes and integrates short- and long-term needs into capital planning (Volumes I, Master List of District Priority Projects, Facility Assessments, Cost Estimation Analysis)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides comprehensive enrollment analysis with detailed methodology, district demographics, and projections; includes detailed capacity utilization data by site and classroom; explicitly links enrollment projections to facility actions including closures, consolidations, and adaptive uses (Enrollment/Teaching Station Needs Analysis, Demographics Study, Master Plan Volume I)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with clear integration of district mission, instructional priorities, and facilities planning; detailed educational specifications for multiple programs including STEM, CTE, special education, and collaborative learning; facility projects directly respond to educational goals (District Educational Facilities Planning, Facility Design Guidelines, Campus Project Scope Lists)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Includes data and analysis of outdoor spaces such as athletic fields, landscaping, and parking; identifies strategies for improvements like landscaping and irrigation modernization; mentions outdoor learning and wellness connections at some sites but lacks districtwide detailed greening and climate resilience framing (Master List of District Priority Projects, Campus Project Scope Lists, Landscape & Irrigation Improvements)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges climate-related risks broadly through references to seismic upgrades, roofing, and HVAC improvements but lacks detailed climate risk assessments or comprehensive climate resilience strategies; no central theme of climate readiness in planning (Master List of District Priority Projects, Facility Modernization descriptions)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "Mentions energy-related upgrades such as HVAC modernization, lighting improvements, and electrical capacity upgrades; lacks comprehensive energy use data, resilience strategies, or references to state mandates like Title 24 or Zero Net Energy goals (Modernization Scope of Work, Cost Estimation Analysis)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a detailed capital strategy with itemized cost estimates, contingency and escalation assumptions, and phased project prioritization; includes multiple funding sources such as Measure G bonds, state eligibility funds, and private contributions; aligns financial capacity with district priorities and includes long-term sustainability considerations (Probable Construction Cost Summaries, Measure G Bond Budget, Capital Strategy sections)."
+    }
+  }
+}

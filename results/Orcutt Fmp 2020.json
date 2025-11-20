@@ -1,0 +1,33 @@
+{
+  "district": "Orcutt Fmp 2020",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed data on building age, size, portables, classrooms, and specialized spaces; robust condition assessments covering HVAC, plumbing, roofs, electrical, lighting, technology infrastructure, and accessibility; uses multiple data sources and links condition data to student outcomes and capital planning (Chunks 1-4, 5-7, 9-10, 12-14, 16-18, 22-26, 27-31, 32-36, 37-41, 42-46, 47-51, 52-56, 57-61)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides detailed, long-term enrollment projections with methodology; identifies under- and over-capacity sites; connects capacity analysis to specific facility actions including closures, consolidations, new construction, and adaptive uses; includes innovative uses such as wellness hubs and community partnerships (Chunks 1-2, 16-20)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle; clear integration of district mission, instructional priorities, and facilities planning; comprehensive analysis of how facilities support multiple programs including TK, CTE, special education, collaborative learning, and technology; facility projects directly respond to educational goals (Chunks 5-6, 10-11, 16-17, 22-23, 27-28, 32-33, 37-38, 42-43, 47-48, 52-53, 56-57, 62-63)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 4,
+      "justification": "Districtwide data on outdoor spaces including surface types, shade coverage, and green space; detailed strategies for campus greening such as expanding tree cover, permeable surfaces, outdoor classrooms, rain gardens, bioswales; frames shade and green space as climate resilience strategies; references outdoor learning and community benefits (Chunks 7-9, 13-15, 19-21, 24-26, 29-31, 34-36, 39-41, 44-46, 49-51, 54-56, 59-61)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 3,
+      "justification": "Plan addresses multiple climate impacts and resilience strategies in detail, including heat, drought, irrigation improvements, and stormwater management; climate readiness is a theme in assessment and planning; however, comprehensive districtwide climate risk assessment for multiple impacts is less explicit (Chunks 7, 13, 19, 24, 29, 34, 39, 44, 49, 54, 59)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 4,
+      "justification": "Significant detail with districtwide energy use data, strategies for energy efficiency including LED lighting, HVAC upgrades, electrification plans, renewable energy integration, and energy resilience measures; references state requirements such as Title 24 and Zero Net Energy goals; includes plans for solar, battery storage, microgrids, and electrification of systems (Chunks 4, 9, 14, 20, 25, 30, 35, 40, 45, 50, 55, 60)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Comprehensive capital strategy with detailed cost estimates for all projects, including escalation and contingencies; clear prioritization framework based on safety, equity, program alignment, lifecycle cost, and climate resilience; multiple funding strategies including bonds, state programs, developer fees, and alternative financing; considers long-term financial sustainability and aligns financial capacity with educational priorities (Chunks 4-5, 14-15, 20-21, 25-26, 30-31, 35-36, 40-41, 45-46, 50-51, 55-56, 60-61)."
+    }
+  }
+}

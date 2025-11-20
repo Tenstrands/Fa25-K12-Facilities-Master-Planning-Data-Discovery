@@ -1,0 +1,33 @@
+{
+  "district": "Central Usd Fmp 2021 Update",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory with detailed building and classroom data, including portables and specialized spaces. Robust condition assessments cover major systems and connect facility condition to educational needs and long-term capital planning (Sections 4, Facilities Assessments; Executive Summary)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections over multiple years with methodology explained, including demographic trends, birth rates, housing development, and cohort analysis. Capacity utilization data by site and classroom with clear connection to facility actions and long-term planning (Sections 3, Demographics & Projections; Executive Summary)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "Educational goals and specifications are referenced with connections to facility projects and program needs such as ADA compliance and specialized classrooms. However, explicit integration of facilities as a driver of educational improvement and comprehensive program-specific facility requirements are less emphasized (Facilities Assessments and Executive Summary)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "Outdoor spaces such as playgrounds, athletic fields, and parking are mapped and mentioned. Some improvements like playground equipment replacement and landscaping are noted, but districtwide greening strategies, shade coverage data, or climate resilience framing are limited or absent (Facilities Assessments)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan acknowledges some climate-related facility issues such as roofing and HVAC upgrades, but lacks a comprehensive climate risk assessment or detailed mitigation strategies. Climate readiness is not a central theme in the plan (no explicit climate risk assessment or districtwide strategies found)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as LED lighting upgrades, HVAC replacements, and some renewable energy references. Mentions compliance with state requirements and energy resilience goals but lacks a fully comprehensive energy resilience plan or detailed electrification and decarbonization strategies (Facilities Assessments, Executive Summary)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a detailed capital strategy with phased project implementation, cost estimates with inflation adjustments, and multiple funding sources including bonds, state funds, and developer fees. Prioritization criteria and long-term financial sustainability considerations are clearly outlined (Implementation Plan, Funding Sources)."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "district": "Carlsbad Fmp 2018",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed site plans, building ages, sizes, and specialized spaces; robust condition assessment covering HVAC, roofing, electrical, plumbing, technology infrastructure, and accessibility; uses multiple data sources including facility audits and engineering assessments; connects condition data to student outcomes and instructional priorities; integrates short- and long-term capital planning (Ch. 1-5, Facility Condition Assessment sections)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides detailed enrollment projections with methodology, including demographic trends and housing patterns; detailed capacity utilization data by site and grade; connects capacity analysis to specific facility actions such as new construction, consolidation, and adaptive space uses; includes innovative uses like wellness hubs and community partnerships (Site chapters, Enrollment Projections, Stakeholder Meetings)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle; clear integration of district mission, instructional priorities, and facilities planning; detailed educational specifications including STEM labs, makerspaces, flexible classrooms, and technology-rich environments; facility projects directly respond to educational goals and program needs (Guiding Principles, Site Master Planning, Stakeholder Meeting summaries)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 4,
+      "justification": "Outdoor greening and climate-adapted design are central elements; districtwide data on green surfaces, shade coverage, and stormwater management; detailed strategies for campus greening including tree cover expansion, permeable surfaces, outdoor classrooms, rain gardens, and bioswales; frames green space as climate resilience strategy; references outdoor learning and community benefits (Site plans, Outdoor Learning Spaces, Shade Shelters, Landscape sections)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 3,
+      "justification": "Plan addresses multiple climate impacts and resilience strategies with detail, including drought, flooding, and heat mitigation; includes strategies such as shade structures, solar panels, stormwater management, and energy resilience; climate readiness is a theme in introduction and long-range planning; however, comprehensive district-wide climate risk assessment for two or more impacts is implied but not fully detailed (Guiding Principles, Site Improvements, Energy and Climate sections)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 4,
+      "justification": "Energy efficiency and resilience are core to the plan; includes baseline energy data, targets, and detailed strategies for reduction; references state requirements including Title 24 and Zero Net Energy goals; plans for electrification, renewable integration, solar + storage, microgrids; connects energy resilience to climate disruptions; includes cost and operational savings analysis (Guiding Principles, Energy Efficiency and Resilience sections)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a comprehensive capital strategy with detailed cost estimates by site and project type; includes prioritization framework based on safety, equity, program alignment, lifecycle cost, and climate resilience; outlines multiple funding strategies including bonds, state programs, developer fees, and alternative financing; considers long-term financial sustainability including maintenance, debt capacity, and bond timing; aligns financial capacity with educational priorities and facility needs (Cost Estimating sections)."
+    }
+  }
+}

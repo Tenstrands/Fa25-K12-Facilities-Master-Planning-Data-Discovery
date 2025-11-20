@@ -1,0 +1,33 @@
+{
+  "district": "Central Unified Fmp 2021",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed building ages, sizes, classrooms, portables, and specialized spaces; robust condition assessments covering HVAC, roofing, electrical, plumbing, lighting, technology infrastructure, and ADA compliance; detailed site plans and connection of condition data to educational priorities and capital planning (Sections 4, School Assessments; Executive Summary; Facilities Assessment details)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides detailed, long-term enrollment projections with methodology including demographic trends, birth rates, housing development, and cohort analysis; detailed capacity utilization data by site and classroom; explicit connection of enrollment projections to facility actions including new construction and modernization; includes strategies for addressing over- and under-capacity and new school construction (Executive Summary Enrollment Projections; Demographics & Projections; School Assessments)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "Includes sections relating educational mission and goals to facilities; detailed educational specifications for classrooms and specialized spaces; connects facility projects to educational programs such as CTE, special education, and technology integration; however, coverage of programmatic shifts and full integration across all projects is partial (Facilities Assessment sections describe instructional spaces and program needs; Executive Summary references educational goals)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "References outdoor spaces such as athletic fields, playgrounds, and parking; mentions some site improvements like landscaping and playground equipment replacement; limited detail on greening strategies, shade coverage, or stormwater management; no districtwide data on green space or explicit climate resilience framing (Facilities Assessment site plans and project descriptions)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges some health and safety issues related to facilities (e.g., asbestos abatement, ADA compliance, roof leaks) but does not provide a comprehensive climate risk assessment or detailed climate resilience strategies; no central theme of climate readiness evident (Facilities Assessment and Implementation Plan lack explicit climate risk analysis or mitigation strategies)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as LED lighting upgrades, HVAC replacements, and some renewable energy references; discusses energy resilience goals with some backup power and electrification efforts; references state requirements like Title 24 and Zero Net Energy goals are implied but not fully detailed; energy data and comprehensive resilience strategies are limited (Facilities Assessment HVAC and lighting upgrades; Executive Summary references energy goals)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a comprehensive capital strategy with detailed cost estimates for modernization and new construction projects; phased implementation plan with inflation adjustments; clear prioritization of projects by phase; multiple funding sources including local bonds, state funds, developer fees; considers long-term financial sustainability and bond capacity; aligns financial capacity with district priorities (Implementation Plan sections; Funding Sources; Executive Summary)."
+    }
+  }
+}

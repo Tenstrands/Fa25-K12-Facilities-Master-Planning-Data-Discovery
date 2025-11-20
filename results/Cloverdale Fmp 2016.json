@@ -1,0 +1,33 @@
+{
+  "district": "Cloverdale Fmp 2016",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including building sizes, ages, portables, and detailed site plans for all schools; robust condition assessment covering HVAC, roofs, electrical, plumbing, lighting, technology infrastructure, and accessibility with detailed cost estimates and prioritization (CUSD 3-20, 24-63)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment data and projections with capacity utilization by site and classroom; clear connection of enrollment trends to facility actions including replacement of portables, new construction, and reconfiguration; plans address growth and no-growth scenarios (CUSD 3-15)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "Includes educational program needs such as STEAM labs, technology upgrades, and flexible spaces; connects facility projects to educational goals but coverage of programmatic shifts and detailed educational specifications is partial (CUSD 5-16)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "Mentions outdoor spaces such as play fields and shade structures; includes some plans for new landscaping and shade structures but lacks district-wide data or comprehensive greening strategies (CUSD 12, 24, 41)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Minimal acknowledgment of climate-related issues such as stormwater drainage upgrades and some shade structures; no comprehensive climate risk assessment or integrated climate resilience planning evident (CUSD 5, 35)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency upgrades such as LED lighting, HVAC system improvements, programmable thermostats, and window replacements; references some energy resilience elements but lacks comprehensive strategies or detailed energy use data (CUSD 5, 25-62)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents detailed cost estimates for current needs and master plan upgrades with contingencies, escalation, and soft costs; includes prioritization of projects and multiple funding sources; provides a comprehensive capital strategy with clear financial framework (CUSD 22-23, 34, 42, 51)."
+    }
+  }
+}

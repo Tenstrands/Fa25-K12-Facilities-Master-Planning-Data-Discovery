@@ -1,0 +1,33 @@
+{
+  "district": "Loomis Fmp 2024",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 3,
+      "justification": "The plan includes an inventory of all district facilities with details on building sizes, ages, and non-classroom spaces. The condition assessment uses a scoring system with multiple focus areas (e.g., Campus Safety, Warm and Dry, Immediate Funding) and identifies deferred maintenance needs, but does not show evidence of multiple data sources or integration into long-term capital planning (pages 52-54)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 3,
+      "justification": "The plan provides detailed enrollment data over multiple years and demographic trends, identifies capacity utilization issues, and discusses potential actions such as consolidation or repurposing. However, it lacks explicit linkage of enrollment projections to specific facility actions or innovative adaptive uses of space (pages 27-31)."
+    },
+    "Educational Alignment": {
+      "score": 1,
+      "justification": "No explicit mention or connection of educational goals, specifications, or instructional needs to facility planning was found in the provided content."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 1,
+      "justification": "No mention or reference to outdoor spaces, greening, shade, or outdoor learning was found in the provided content."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan minimally acknowledges climate risks or hazards but does not provide detailed assessments or strategies related to climate impacts or resilience."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 1,
+      "justification": "No mention of energy efficiency, electrification, decarbonization, energy resilience, or related state requirements was found in the provided content."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 3,
+      "justification": "The plan includes itemized cost estimates and a prioritization framework based on safety, maintenance, and district priorities. It identifies funding sources such as state and district shares but lacks comprehensive long-term financial sustainability analysis or multiple funding strategies (pages 43-45, 52-54)."
+    }
+  }
+}

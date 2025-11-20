@@ -1,0 +1,33 @@
+{
+  "district": "Mountain View-Los Altos Fmp 2018",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "The plan presents a comprehensive district-wide inventory including detailed information on school buildings, classrooms, and other facilities such as athletics, food service, and multipurpose rooms (Ch. 1-6). It provides a robust condition assessment covering major systems like HVAC, plumbing, roofs, electrical, lighting, and accessibility, referencing multiple data sources including facility audits and engineering assessments (Ch. 6-7). The plan connects facility condition to student outcomes and instructional priorities, addressing immediate and long-term needs integrated into capital planning."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan includes a comprehensive enrollment analysis with detailed methodology from a demographic study by Jack Schreder & Associates, projecting enrollment through 2021-22 and beyond (Ch. 6-11). It provides detailed capacity utilization data by site and classroom, including square footage and number of students, and links these to specific facility actions such as new classroom construction and modernization (Ch. 11-17, 26-29). The plan explicitly connects enrollment projections to long-term facility needs with strategies for expansion, replacement of portables, and monitoring future residential developments."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle, with the plan integrating district mission and instructional priorities into facilities planning (Ch. 4-6). It provides comprehensive educational specifications supporting multiple programs including STEM, project-based learning, special education, and outdoor learning (Ch. 6). Facility projects are directly connected to educational goals, such as specialized classrooms, wellness centers, and flexible learning spaces, demonstrating facilities as active drivers of educational improvement."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "The plan references outdoor student gathering areas and improvements such as synthetic turf fields and science courtyards (Ch. 6, 20, 31), but provides minimal detail on greening strategies or districtwide data on green space or shade coverage. There is limited mention of outdoor learning or environmental benefits, and no comprehensive analysis or strategy for campus greening or climate-adapted design."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan acknowledges sustainability issues such as energy use and stormwater treatment (Ch. 4), but does not provide a detailed climate risk assessment or comprehensive climate resilience strategies. Climate readiness is not a central theme, and specific climate impacts or mitigation strategies are not detailed."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan includes energy efficiency strategies such as photovoltaic carports, roof-mounted solar panels, and HVAC upgrades (Ch. 13, 24, 34). It references energy resilience goals and aligns with state requirements like Title 24 and Zero Net Energy goals. However, it lacks comprehensive strategies for electrification, decarbonization, or detailed energy use data and resilience plans such as microgrids or battery storage."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents a comprehensive capital strategy with detailed cost estimates for all projects, including construction and non-construction costs with contingencies and escalation allowances (Ch. 10, 22, 33). It uses a clear prioritization framework aligned with educational goals and includes multiple funding strategies such as local bonds and state grants. The plan considers long-term financial sustainability including maintenance and operations costs, demonstrating a fiscally realistic and strategic path forward."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "district": "Castro Valley Fmp 2016",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed data on building sizes, ages, classrooms, specialized spaces, and detailed site plans (e.g., pages 7-13, 81-158). Robust condition assessments cover major systems (HVAC, plumbing, roofs, electrical, lighting, technology infrastructure, accessibility) with cost estimates and prioritization (pages 77-205). Connections made between facility condition and educational needs, including air conditioning and modernization projects (pages 3-5, 78-94)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections through 2024 with methodology and assumptions explained (pages 1-14). Capacity utilization data by site, classroom, and grade with square footage and student counts (pages 7-14). Explicit connection of enrollment projections to facility needs and actions including new classrooms, expansions, and monitoring recommendations (pages 1-14, 38-39)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed educational specifications linked to facilities (pages 35-64). Comprehensive analysis of how facilities support multiple programs including TK, CTE, special education, STEM, collaborative learning, and technology (pages 15-24, 36-64). Facility projects and strategies directly respond to educational goals, e.g., Project Lead the Way, science labs, performing arts, special education (pages 223-230, 246-260)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Provides data and analysis of outdoor spaces including surface types, canopy cover, and site acreage (pages 16-19, 25-28). Identifies strategies for improvement such as shade structures, playground upgrades, synthetic turf, and stormwater management (pages 78-90, 206-210). Mentions outdoor learning and community benefits but coverage is site-specific and not fully districtwide or framed as climate resilience (pages 31, 75)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Acknowledges climate-related issues such as rising temperatures and need for air conditioning (pages 3-5, 75). Includes strategies like installing air conditioning districtwide and shade structures but lacks comprehensive climate risk assessment or multi-hazard analysis. Climate readiness is a consideration but not a central theme across all planning (pages 4, 75, 230)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 4,
+      "justification": "Significant detail on energy use baselines, targets, and strategies including electrification, HVAC upgrades, LED lighting, solar panels, and battery storage (pages 3-5, 75, 213-214, 219-220). References state requirements such as Title 24 and Zero Net Energy goals. Energy resilience is integrated with climate-related disruptions and continuity of learning (pages 75, 213-214)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Comprehensive capital strategy with detailed cost estimates, prioritization criteria, and multiple funding sources including bonds, state programs, developer fees, and alternative financing (pages 205-242). Includes escalation assumptions, contingencies, and long-term financial sustainability considerations. Aligns financial capacity with educational priorities and facility needs with a realistic path forward (pages 233-242)."
+    }
+  }
+}

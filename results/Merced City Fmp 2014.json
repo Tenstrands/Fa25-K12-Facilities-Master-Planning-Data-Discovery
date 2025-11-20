@@ -1,0 +1,33 @@
+{
+  "district": "Merced City Fmp 2014",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed building and site information, with robust condition assessments of major systems and connection to educational outcomes and capital planning (Sections 1.0, 5.0, 5.3-5.18, Appendix 6.4)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections with methodology, capacity utilization by site and grade, and explicit strategies for boundary changes, school conversion, and new construction linked to demographic and housing data (Sections 2.3, 2.4, 5.17)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed educational specifications updates, integration of district mission and instructional priorities, and connection of facility projects to specific programs including TK, CTE, special education, and technology (Section 4.1, 5.0, site master plans)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Provides data and analysis of outdoor spaces including playfields, hardcourts, and quads with strategies for improvements such as shade structures and playground upgrades, but lacks districtwide greening data or explicit climate resilience framing (Site plans and project scopes)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges climate-related issues such as drainage and irrigation problems, but does not provide detailed climate risk assessments or comprehensive mitigation strategies across the district (Facility assessments mention drainage and gopher issues)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as HVAC upgrades, electrical system improvements, and some renewable energy considerations; references Title 24 and state goals but lacks comprehensive districtwide energy resilience or electrification plans (Sections 5.0, Appendix detailed costs)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a comprehensive financial plan with detailed cost estimates, phased prioritization, multiple funding sources including state grants, developer fees, bonds, and Prop 39, and aligns financial capacity with district priorities (Section 3.0, 3.4, Appendix 6.4, 6.5)."
+    }
+  }
+}

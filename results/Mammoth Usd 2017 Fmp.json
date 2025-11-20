@@ -1,0 +1,33 @@
+{
+  "district": "Mammoth Usd 2017 Fmp",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including building age, size, classrooms, portables, and specialized spaces (Elem, Middle, High, Alt schools). Detailed condition assessments cover major systems (HVAC, plumbing, roofs, electrical, lighting, technology infrastructure, accessibility) with engineering evaluations and recommendations (Appendices). Connects condition data to long-term capital planning and educational priorities (Sections 4, Appendix)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides detailed enrollment data over multiple years with demographic breakdowns and projections. Capacity utilization is analyzed by site with classroom counts and portables. Plan links enrollment trends to facility needs and proposes additions/remodels to address capacity and flexibility (Section 3, 5)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational goals and mission are integrated throughout the plan. Facility projects are explicitly connected to educational programs including STEM, CTE, special education, and 21st century learning environments. Teaching wall standards and flexible learning spaces are planned district-wide (Sections 1, 3, 5)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "Outdoor spaces are described mainly as playgrounds, fields, and parking. Some mention of site views and potential for outdoor learning spaces, but limited data or districtwide greening strategies. No comprehensive analysis of green space, shade coverage, or climate resilience related to outdoor spaces (Sections 4, 5)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges climate-related issues such as snow and freeze cycles impacting building envelopes and drainage. Recommends climate-appropriate materials and roof designs but lacks comprehensive climate risk assessment or districtwide mitigation strategies (Sections 4, 5)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes detailed energy system assessments with recommendations for upgrades to HVAC, lighting (LED retrofits), and electrical systems. Mentions Proposition 39 funding for energy efficiency. Discusses energy resilience goals but lacks comprehensive districtwide electrification or microgrid strategies (Appendices, Sections 4, 5)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 3,
+      "justification": "Provides Rough Order of Magnitude cost estimates for projects with soft costs and escalation. Describes prioritization of safety, modernization, and educational alignment. Funding sources and strategies are mentioned but not comprehensively detailed. Financial plan supports phased implementation (Section 5)."
+    }
+  }
+}

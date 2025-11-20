@@ -1,0 +1,33 @@
+{
+  "district": "Mill Valley Fmp 2021",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "The plan presents a comprehensive district-wide inventory including detailed information on school buildings, classrooms, and other facilities with square footage and site plans (Chunks 1, 14, 18). It includes a robust condition assessment across all major systems (HVAC, plumbing, roofs, electrical, lighting, technology infrastructure, accessibility) using multiple data sources such as facility audits and engineering assessments (Chunks 16-17). The plan connects condition data to student outcomes and instructional priorities and integrates short- and long-term needs into capital planning (Chunks 16-18)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan provides a comprehensive enrollment analysis with detailed methodology including demographic trends, housing patterns, and community data (Chunks 6-7). It includes detailed capacity utilization data by site, classroom, and grade with square footage and number of students (Chunks 7-9). The plan clearly links enrollment projections to long-term facility needs with explicit strategies for closure, consolidation, boundary changes, or reconfiguration (Chunks 7-9). It also proposes adaptive uses of space such as wellness hubs and community partnerships (Chunks 7-9)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle of the plan, with clear integration between district mission, instructional priorities, and facilities planning (Chunks 10-15). The plan provides a comprehensive analysis of how facilities support multiple programs including TK, CTE, special education, collaborative learning, and technology (Chunks 10-15). Facility projects and strategies are directly connected to educational goals and specifications, responding to educational needs such as technology-rich environments and inclusive special education design (Chunks 10-15)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "The plan provides data and analysis of outdoor spaces including surface types and shade coverage with reference to greenery (Chunks 18, 21-23). It identifies strategies for improvement such as shade structures, gardens, and sustainable landscaping, though these are not fully detailed districtwide (Chunks 18, 21-23). The plan mentions connections between greening and wellness, including outdoor learning at certain sites (Chunks 18, 21-23)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan acknowledges climate change impact risks broadly and references some strategies such as shade structures and air conditioning upgrades (Chunks 19, 21). However, it does not provide detailed assessments of specific climate risks or comprehensive district-wide mitigation strategies, nor is climate readiness a central theme throughout the plan."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan includes energy efficiency strategies such as HVAC upgrades, solar, and electrification of specific systems (Chunks 1, 16). It discusses energy resilience goals including backup power and solar + battery systems (Chunks 1, 16). The plan references Title 24 and Zero Net Energy goals but does not present a fully comprehensive energy resilience strategy or detailed energy use data."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents a comprehensive capital strategy with detailed cost estimates across all projects, including escalation assumptions and contingencies (Chunks 3, 20-26). It uses a clear, criteria-based prioritization process phased over time and outlines multiple funding strategies including bonds, state programs, and developer fees (Chunks 3, 20-26). The plan considers long-term financial sustainability including maintenance costs and aligns financial capacity with district educational priorities and facility needs (Chunks 3, 20-26)."
+    }
+  }
+}

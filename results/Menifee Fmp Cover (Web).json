@@ -1,0 +1,33 @@
+{
+  "district": "Menifee Fmp Cover (Web)",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 1,
+      "justification": "No detailed inventory or condition assessment information provided in the available content; only a contents list mentioning 'SiteListSiteMasterPlansFITReports' without detail."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 1,
+      "justification": "Only a contents reference to 'Enrollment 2024/2025Projections/Capacity' without any detailed enrollment projections, capacity data, or planning discussion."
+    },
+    "Educational Alignment": {
+      "score": 1,
+      "justification": "Only a contents reference to 'Educational Specifications ElementarySchoolMiddleSchool' without any detailed discussion or connection to educational goals or facility planning."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 1,
+      "justification": "No mention or detail regarding outdoor spaces, greening, or related strategies in the provided content."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 0,
+      "justification": "No mention of climate risk or mitigation strategies in the provided content."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 1,
+      "justification": "No mention or detail on energy efficiency, resilience, or related state requirements in the provided content."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 1,
+      "justification": "Only a contents reference to 'FacilitiesFundingPlan' without detailed financial planning, cost estimates, or prioritization strategies."
+    }
+  }
+}

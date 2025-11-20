@@ -1,0 +1,33 @@
+{
+  "district": "El Rancho Fmp 2014",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including all schools and facilities with detailed site plans and square footage (Chapters 2, 6). Robust condition assessment using a 100-point scale and Facility Condition Index (FCI) methodology with detailed building and site evaluations, including HVAC, electrical, plumbing, and accessibility (Chapters 3, 6). Connects condition data to long-term capital planning and educational priorities."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections over 10 years with demographic analysis and assumptions (Chapter 3). Capacity utilization data by site and grade with square footage and classroom loading. Explicit strategies for addressing over- and under-capacity including portables, reorganization, magnet programs, and long-term facility actions (Chapters 3, 6)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with clear integration of district mission, instructional priorities, and facilities planning (Chapters 1, 9). Comprehensive educational specifications covering TK-12 programs including STEM, CTE, special education, collaborative learning, and technology-rich environments. Facility projects and strategies directly respond to educational goals (Chapters 5, 9)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Provides data and analysis of outdoor spaces with references to shade structures, gardens, and outdoor learning areas at multiple campuses (Chapters 6, 9). Strategies for campus greening and outdoor learning are identified but not fully districtwide or detailed. Some connection to wellness and environmental literacy is mentioned."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Minimal mention of climate-related issues; no comprehensive climate risk assessment or detailed mitigation strategies found in the plan. Emergency preparedness is not linked to climate change impacts (No explicit chapter or section on climate risk)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as HVAC upgrades, solar, and LED lighting referenced in bond measures and project descriptions (Chapters 4, 7). Discusses energy resilience goals and references state requirements (Title 24, ZNE) but lacks comprehensive district-wide energy use data or detailed electrification and microgrid plans."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a comprehensive capital strategy with detailed cost estimates for all projects, including escalation and contingencies (Chapter 7). Uses clear prioritization criteria and phased implementation aligned with funding availability. Multiple funding sources identified including bonds and state programs. Considers long-term financial sustainability and aligns financial capacity with educational priorities."
+    }
+  }
+}
