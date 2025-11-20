@@ -1,0 +1,33 @@
+{
+  "district": "Pomona Fmp 2024",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed data on buildings, classrooms, and specialized spaces; robust condition assessment covering HVAC, plumbing, roofing, electrical, lighting, technology infrastructure, and accessibility; uses multiple data sources including facility audits and engineering assessments; connects condition data to student outcomes and integrates short- and long-term capital planning (Chunks 15-17)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides detailed historic and projected enrollment data with two projection models over 10 years; includes programmatic capacity loading standards and detailed capacity utilization data by site and grade; connects enrollment projections to potential school closures and consolidations; includes development of an interactive analysis tool for portfolio optimization and boundary scenarios (Chunks 10-12)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed educational adequacy assessments; clear integration of district mission, instructional priorities, and facilities planning; comprehensive analysis of how facilities support multiple programs including special education, CTE, and collaborative learning; facility projects directly respond to educational goals and specifications (Chunks 13-14, 18)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "Includes some references to outdoor spaces such as playgrounds, fields, and landscaping; mentions need for shade structures and outdoor learning in passing; lacks districtwide data or detailed strategies for campus greening or climate-adapted design (Chunks 5-7)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Acknowledges climate-related risks and includes a Zero Net Energy assessment as part of sustainable/resilient operations; discusses energy conservation measures and emissions projections; however, lacks comprehensive districtwide climate risk assessment for multiple impacts and detailed mitigation strategies across all sites (Chunks 12-13, 18)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 4,
+      "justification": "Positions energy resilience and efficiency as a core part of the plan; provides baseline energy use data and emissions analysis; includes detailed strategies for electrification, renewable energy integration, and resilience (solar, battery storage, microgrids); references state requirements including Title 24 and Zero Net Energy goals (Chunks 12-13, 18)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a comprehensive capital strategy with detailed cost estimates for facility condition assessments and improvement projects; includes escalation assumptions and contingencies; uses a clear prioritization framework aligned with district priorities; outlines multiple funding sources including bonds, state programs, developer fees, and alternative financing; considers long-term financial sustainability and alignment with educational goals (Chunks 19-21)."
+    }
+  }
+}

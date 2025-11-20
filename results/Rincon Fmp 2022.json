@@ -1,0 +1,33 @@
+{
+  "district": "Rincon Fmp 2022",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed site plans and square footage; robust condition assessment covering HVAC, plumbing, roofs, electrical, lighting, technology infrastructure, and accessibility; connects condition data to student outcomes and integrates short- and long-term needs into capital planning (Sections 4, Appendix A)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides detailed enrollment projections with methodology including demographic trends and housing patterns; detailed capacity utilization data by site and classroom; connects capacity analysis to specific facility actions including TK expansion and SDC needs; proposes adaptive uses of space (Sections 2.2, 2.3, Tables 4, 5)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle; comprehensive analysis of how facilities support multiple programs including TK, CTE, special education, collaborative learning, and technology; facility projects directly respond to educational goals with detailed educational specifications and 21st Century learning environments (Sections 3, 7.1, Tables 6, 7)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Provides data and analysis of outdoor spaces including green spaces and playgrounds at each site; identifies strategies for improvement such as new play structures, turf/track areas, fencing, and solar shade structures; mentions outdoor learning gardens but lacks districtwide greening data or climate resilience framing (Sections 4 site assessments, proposed improvements)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Acknowledges climate-related site improvements such as artificial turf, solar shade structures, and fencing for safety; however, lacks detailed climate risk assessment or comprehensive districtwide climate resilience strategies; climate readiness is a consideration but not a central theme (Sections 4, 7, no explicit climate risk assessment found)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as LED lighting upgrades, window replacements, and modern HVAC implied in modernization; references solar panels on some campuses; discusses energy resilience goals but lacks comprehensive districtwide energy data or detailed electrification and decarbonization plans (Sections 4, 7, site assessments)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a comprehensive capital strategy with detailed cost estimates, prioritization of projects, and multiple funding sources including existing capital funds, developer fees, and proposed G.O. bonds; includes escalation assumptions and contingencies; aligns financial capacity with educational priorities and facility needs; phased implementation plan with program reserves (Sections 5, 6, 7.3, 8)."
+    }
+  }
+}

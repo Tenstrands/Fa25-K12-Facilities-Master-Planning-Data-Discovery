@@ -1,0 +1,33 @@
+{
+  "district": "Rim Of The World Fmp 2024",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including building age, size, classrooms, portables, and specialized spaces across all sites (e.g., pages 35-87). Detailed condition assessments cover major systems (HVAC, roofing, electrical, plumbing), with multiple data sources including site visits, photos, and engineering assessments. The plan connects condition data to student outcomes and instructional priorities, addressing immediate and long-term needs (e.g., HVAC importance, deferred maintenance budgets, pages 3-7, 31-32)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Includes detailed historic enrollment data showing decline over 10 years (page 11), and comprehensive classroom inventory with permanent and portable counts by site (pages 12-13). The plan discusses capacity utilization and implications for facility use, including portable replacement and modernization strategies (pages 5, 13, 15). Enrollment projections and demographic trends inform long-term facility needs and adaptive uses, with explicit strategies for consolidation and modernization (pages 11-12, 25-27)."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "The plan references district educational goals and programmatic needs such as TK, special education, and CTE spaces, and discusses facility adaptations to support these (pages 5-7). While educational specifications are not site-specific, the plan provides district-wide guidelines linking facilities to educational programs and priorities. Connections between facility projects and educational goals are present but coverage is partial and not fully detailed (page 5, Guiding Principles)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "The plan includes data and analysis of outdoor spaces, including playgrounds, athletic fields, and shade structures, with strategies for improvements such as shade structures, turf rehabilitation, and irrigation upgrades (pages 36, 40, 55, 66). Outdoor learning and environmental literacy are mentioned in relation to outdoor classrooms and shade, but districtwide greening and climate-adapted design are not fully developed as central elements."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "The plan acknowledges climate-related risks indirectly through deferred maintenance and infrastructure upgrades (e.g., roofing, HVAC, irrigation), and includes some strategies like shade structures and irrigation improvements (pages 36, 40, 55). However, it lacks a comprehensive climate risk assessment or detailed climate resilience strategies as a central theme across the district."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan discusses energy efficiency strategies such as LED lighting upgrades, HVAC modernization, and electrical panel upgrades across sites (pages 37, 46, 56, 66). It references energy resilience goals and includes some data on energy use and state requirements, but does not present a fully comprehensive energy resilience or electrification plan with detailed targets or microgrid strategies."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents a detailed capital strategy with itemized cost estimates for all projects across sites, including modernization, deferred maintenance, and new construction (pages 4, 39, 49, 59, 69, 79, 87). The plan outlines funding sources including state and local matches, eligibility analysis, and prioritization frameworks. It includes long-term financial sustainability considerations and aligns financial capacity with district priorities (pages 21-27)."
+    }
+  }
+}

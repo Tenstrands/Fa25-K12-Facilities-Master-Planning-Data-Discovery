@@ -1,0 +1,33 @@
+{
+  "district": "Ravenswood Fmp 2015",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed building sizes, ages, portables, and specialized spaces; robust condition assessment covering HVAC, plumbing, roofs, electrical, lighting, technology infrastructure, and accessibility; detailed cost estimates and prioritization integrating immediate and long-term needs (Chavez Middle School Facilities Needs Spreadsheet, Executive Summary, Facility Assessment sections)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Comprehensive seven-year enrollment projections with detailed methodology including demographic trends, housing development, and mobility factors; capacity utilization data by site and grade; explicit connection of projections to facility actions such as school reconfiguration and program relocation (Demographic Report, Appendices A and D)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed educational specifications; clear integration of district mission, instructional priorities, and facilities planning; comprehensive analysis of facilities supporting multiple programs including TK, CTE, special education, STEM, dual immersion, and collaborative learning; facility projects directly respond to educational goals (Appendix E: Educational Specifications, Educational Program Findings)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Plan provides data and analysis of outdoor spaces including playgrounds, play fields, and gardens; identifies strategies for improvement such as shaded play areas, covered walkways, and outdoor learning environments; references connections between greening and wellness but lacks districtwide detailed data on green surface coverage or stormwater management (Site Plans, Educational Specifications Section 9)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges climate-related issues such as drainage and flooding in site assessments and community input but lacks detailed climate risk assessment or comprehensive mitigation strategies; climate readiness is mentioned but not a central theme (Facility Assessments, Community Meeting Notes)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as photovoltaic systems evaluation, HVAC upgrades, and energy management systems; references Title 24 and state goals; discusses energy resilience goals including backup power but lacks comprehensive districtwide energy data and detailed electrification plans (Energy Efficiency and Photovoltaics section, Facility Needs Spreadsheets)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents detailed cost estimates with escalation, contingencies, and soft costs; clear prioritization framework categorizing critical, educational program, and future facility needs; outlines multiple funding strategies including bonds, state grants, and developer fees; considers long-term financial sustainability and aligns financial capacity with educational priorities (Executive Summary, Cost Summaries, Financial Sections)."
+    }
+  }
+}

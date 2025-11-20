@@ -1,0 +1,33 @@
+{
+  "district": "Poway Usd Fmp 2020",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed building sizes, ages, and specialized spaces across all sites; robust condition assessment using multiple data sources including facility audits and engineering assessments; connects condition data to student outcomes and integrates short- and long-term capital planning (e.g., Ameresco reports, detailed site plans, and condition summaries for all schools)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides comprehensive enrollment projections with detailed methodology from Cooperative Strategies; includes detailed capacity utilization data by site, classroom, and grade; links capacity analysis to specific facility actions including portable replacements, new construction, and adaptive uses; innovative uses such as wellness hubs and community partnerships are included."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with extensive educational specifications developed through broad stakeholder engagement; detailed analysis of how facilities support multiple programs including TK, CTE, special education, and collaborative learning; facility projects are directly connected to educational goals and instructional needs."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Plan provides data and analysis of outdoor spaces including playgrounds, shade structures, and green areas; identifies strategies for improvement such as shade structures, gardens, and sustainable landscaping; mentions outdoor learning and connections to wellness but coverage is site-specific rather than districtwide."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Acknowledges climate-related risks and includes some strategies such as shade structures and energy efficiency upgrades; however, lacks a comprehensive district-wide climate risk assessment or detailed multi-hazard mitigation strategies; climate readiness is a consideration but not a central theme."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 4,
+      "justification": "Significant detail with district-wide energy use data, strategies for energy efficiency, electrification, and resilience; references state requirements including Title 24 and Zero Net Energy goals; includes plans for solar, battery storage, microgrids, and electrification of HVAC and food service equipment; connects energy improvements to climate resilience and cost savings."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Comprehensive capital strategy with detailed cost estimates across all projects, including escalation and contingencies; clear prioritization framework based on safety, equity, program alignment, lifecycle cost, and climate resilience; multiple funding strategies outlined including bonds, state programs, developer fees, and alternative financing; considers long-term financial sustainability and aligns with district educational priorities."
+    }
+  }
+}

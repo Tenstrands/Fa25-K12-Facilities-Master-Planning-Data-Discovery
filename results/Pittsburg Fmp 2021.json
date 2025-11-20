@@ -1,0 +1,33 @@
+{
+  "district": "Pittsburg Fmp 2021",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including building ages, sizes, classrooms, specialized spaces, and detailed site plans (e.g., Foothill ES, p.15-22). Robust condition assessments cover major systems (HVAC, roofing, electrical, plumbing) with deferred maintenance and lifecycle planning integrated (e.g., Foothill ES, p.15-30)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Detailed enrollment projections over 5-10 years with methodology explained, including demographic and housing data (e.g., p.291-305). Capacity utilization data by site and classroom type is linked to specific facility actions such as portable replacements and new construction (e.g., Foothill ES, p.16-19; Los Medanos ES, p.66-73)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle, with detailed educational specifications for all school types (elementary, junior high, high school) covering classrooms, specialized spaces, and support areas (e.g., Sections 5.1, p.315-385). Facility projects are directly connected to educational goals and program needs (e.g., STEM labs, CTE, special education)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Plans include data and analysis of outdoor spaces with strategies for improvements such as shade structures, landscaping, and outdoor classrooms at multiple sites (e.g., Foothill ES, p.15-30; Marina Vista ES, p.81-90). However, districtwide greening and climate resilience framing is limited."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 2,
+      "justification": "Acknowledges climate-related issues such as shade for heat mitigation and stormwater drainage improvements (e.g., Foothill ES, p.15-30; Marina Vista ES, p.81-90). However, lacks comprehensive district-wide climate risk assessment or integrated resilience strategies."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency measures such as photovoltaic arrays at multiple sites, HVAC upgrades, and references to Title 24 and Zero Net Energy goals (e.g., Foothill ES, p.15-30; Marina Vista ES, p.81-90). Energy resilience is mentioned but lacks comprehensive district-wide strategy."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents detailed cost estimates with escalation assumptions across all projects and sites (e.g., p.373-390). Includes clear prioritization frameworks and multiple funding strategies including state grants, bonds, and local measures. Aligns financial capacity with educational and facility needs."
+    }
+  }
+}

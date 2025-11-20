@@ -1,0 +1,33 @@
+{
+  "district": "Pierce Joint Fmp 2022",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 3,
+      "justification": "The plan includes an inventory of all district facilities with details on building sizes, ages, and site acreage (Tables 11, 12). It references facility capacities and site maps (Figures 31-34). The condition assessment includes modernization eligibility and state funding applications, indicating evaluation of building systems and infrastructure (Tables 13-16). However, it lacks comprehensive multi-source condition data or explicit connection to student outcomes."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "The plan provides a comprehensive enrollment analysis with detailed projections over 7 years using cohort survival methods, birth data, migration rates, and residential development (Sections D, Tables 8-10). Capacity utilization is detailed by site with enrollment vs. capacity comparisons and site acreage analysis (Tables 11, 12, Figures 27-30). It links enrollment projections to facility needs and discusses potential new construction and consolidation strategies."
+    },
+    "Educational Alignment": {
+      "score": 2,
+      "justification": "The plan references educational goals broadly, mentioning support for Career Technical Education and program support projects (Recommendations 3). It notes updating instructional and outdoor learning spaces to align with current standards but lacks detailed educational specifications or explicit connections between facility projects and specific educational programs."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "The plan mentions updating outdoor learning spaces and supporting athletic fields and facilities (Recommendations 3, 4). However, it provides minimal detail on greening strategies, shade, canopy cover, or districtwide outdoor space data, and does not explicitly connect outdoor spaces to climate resilience or environmental literacy."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan acknowledges energy efficiency and technology upgrades including photovoltaic solar panels and backup power supply (Recommendations 2), but does not provide a detailed climate risk assessment or comprehensive climate resilience strategies. Climate change is not a central theme in assessment or planning."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "The plan discusses energy efficiency strategies such as photovoltaic solar panels, technology upgrades, and backup power supply (Recommendations 2). It references state funding for modernization including infrastructure improvements. However, it lacks comprehensive data on energy use baselines, detailed electrification plans, or explicit reference to Title 24 or Zero Net Energy goals."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "The plan presents a detailed financial analysis including state funding history, modernization and new construction eligibility, and active pursuit of multiple funding sources (Tables 13-18). It outlines prioritization of projects, cost-sharing frameworks, and long-term funding strategies including bonds, developer fees, and state grants, demonstrating a comprehensive capital strategy."
+    }
+  }
+}

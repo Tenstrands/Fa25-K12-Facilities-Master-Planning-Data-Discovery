@@ -1,0 +1,33 @@
+{
+  "district": "Rancho Santa Fe Fmp 2015",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 3,
+      "justification": "The plan includes an inventory of all district facilities with details on building sizes, ages, and specialized spaces such as classrooms, gymnasium, and labs (Chunks 1, 10-13). The condition assessment identifies the gymnasium as old and in need of significant upgrades or replacement, with a comprehensive facilities needs analysis included (Chunks 16, 21). However, the assessment does not appear to use multiple data sources or real-time monitoring, nor fully integrate condition data with long-term capital planning."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 3,
+      "justification": "The plan provides detailed demographic trending and enrollment history with projections and discusses capacity issues including portable buildings and peak enrollment (Chunks 1, 2). It identifies under- and over-utilized spaces and discusses potential actions such as expansion and acquisition of adjacent properties (Chunks 19, 20). However, it lacks explicit detailed capacity utilization data by site or classroom and does not fully link enrollment projections to specific closure or boundary change strategies."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "The plan positions educational alignment as a core principle, with detailed educational specifications for all grade levels including specialized programs such as robotics, advanced math, Spanish, and arts (Chunks 3-6, 10-15). It connects facility needs directly to educational programs and goals, including detailed descriptions of curriculum, technology integration, and program expansions. Facility projects and expansions are clearly linked to educational priorities."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "The plan references outdoor spaces such as play areas and fields, noting that the site is undersized relative to CDE recommendations and recommends future land acquisition for play areas (Chunks 10, 16). However, it provides minimal detail or data on greening, shade coverage, or sustainable landscaping strategies, and does not frame outdoor spaces as climate resilience or wellness strategies."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 0,
+      "justification": "There is no mention of climate risk assessment, climate impacts, or climate resilience strategies in the plan. Emergency preparedness is not discussed in relation to climate change (all chunks)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 1,
+      "justification": "The plan does not mention energy efficiency, electrification, decarbonization, or energy resilience strategies. There is no data on energy use or reference to state requirements such as Title 24 or Zero Net Energy goals (all chunks)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 2,
+      "justification": "The plan includes cost estimates for security upgrades and gymnasium options with some prioritization of projects (Chunks 19, 21). It mentions funding sources such as bonds and grants in passing but lacks a comprehensive financial plan, detailed cost estimating methods, or a long-term capital strategy with prioritization criteria and sustainability considerations."
+    }
+  }
+}

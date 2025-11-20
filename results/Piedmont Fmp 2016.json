@@ -1,0 +1,33 @@
+{
+  "district": "Piedmont Fmp 2016",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "The plan provides a comprehensive district-wide inventory including building sizes, ages, classrooms, specialized spaces, and detailed site plans (Chunks 1-2). It includes a robust condition assessment covering mechanical systems, accessibility, acoustics, and safety issues, with connections to educational environment impacts and long-term planning (Chunks 1-2)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 3,
+      "justification": "The plan includes detailed enrollment data by school and classroom counts, identifies under- and over-capacity issues, and discusses potential actions such as new construction and modernization (Chunks 2-3). However, it lacks a comprehensive methodology description and does not fully develop alternative or adaptive uses of space."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed educational specifications addressing STEAM, project-based learning, flexible furniture, and specialized spaces (Chunks 1-2). Facility projects are clearly connected to educational goals, including new classrooms, theater replacement, and support for special education and outdoor learning."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "The plan provides data and analysis on outdoor spaces including gardens, shade structures, and playground enhancements, with strategies for improvement (Chunks 1-2, 5). It mentions outdoor learning and greening but does not provide districtwide data or fully detailed climate resilience framing."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "The plan acknowledges sustainability and energy use improvements but provides only minimal reference to climate risks or mitigation strategies; no detailed climate risk assessment or comprehensive resilience planning is evident (Chunks 1-5)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "The plan references energy use improvements such as new mechanical and lighting systems and better building envelopes (Chunks 1, 4). However, it lacks detailed energy data, comprehensive resilience strategies, or references to state requirements like Title 24 or Zero Net Energy goals."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 2,
+      "justification": "The plan outlines phased construction and modernization projects with some cost considerations implied (Chunks 3-5). It mentions project sequencing but lacks detailed cost estimates, prioritization criteria, or comprehensive funding strategies."
+    }
+  }
+}

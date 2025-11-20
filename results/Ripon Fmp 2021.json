@@ -1,0 +1,33 @@
+{
+  "district": "Ripon Fmp 2021",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed site plans and building data; robust condition assessments covering major systems and connection to educational outcomes; integrates short- and long-term capital planning (Sections 4, Appendix A)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 4,
+      "justification": "Provides detailed enrollment projections with methodology, capacity utilization by site and grade, and links projections to facility actions including new construction and consolidation; considers new housing impacts and adaptive uses (Sections 2.2, 5.2)."
+    },
+    "Educational Alignment": {
+      "score": 4,
+      "justification": "Educational alignment is a core organizing principle with detailed educational specifications for TK-8 and 9-12; connects facility projects directly to educational goals including 21st Century learning environments, CTE, special education, and technology integration (Sections 3, 7)."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 2,
+      "justification": "References to outdoor spaces exist (e.g., green spaces, playgrounds), but minimal detail or districtwide data on greening, shade, or environmental benefits; no comprehensive greening strategy or climate resilience framing (Site descriptions in Section 4)."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges climate-related issues broadly (e.g., air quality, HVAC importance) but lacks detailed climate risk assessment or comprehensive mitigation strategies integrated into planning (No explicit climate risk assessment found)."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 3,
+      "justification": "Includes energy efficiency strategies such as HVAC upgrades and modernization; references energy resilience goals and some data; mentions alignment with state requirements but lacks comprehensive electrification and resilience plan (Sections 4, 7)."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 4,
+      "justification": "Presents detailed capital strategy with itemized cost estimates, phased project prioritization, multiple funding sources including bonds, developer fees, and state grants; includes financial sustainability considerations and alignment with educational priorities (Sections 5, 6, 8)."
+    }
+  }
+}

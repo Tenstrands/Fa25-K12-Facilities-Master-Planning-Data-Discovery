@@ -1,0 +1,33 @@
+{
+  "district": "Pleasant Ridge Fmp 2017",
+  "scores": {
+    "Facility Inventory & Condition Assessment": {
+      "score": 4,
+      "justification": "Comprehensive district-wide inventory including detailed building sizes, ages, classrooms, specialized spaces, and site plans (pages 5-9, 66-73). Robust condition assessment covering HVAC, roofing, electrical, plumbing, fire alarm, and accessibility with detailed recommendations and cost estimates (pages 10-63). Connects condition data to long-term capital planning and deferred maintenance prioritization (pages 56-64)."
+    },
+    "Enrollment & Capacity Planning": {
+      "score": 2,
+      "justification": "Includes current enrollment and capacity data by school (pages 5-9) with teacher-student ratios, but lacks long-term enrollment projections or demographic analysis. No detailed capacity utilization or explicit connection to facility actions such as closures or consolidations."
+    },
+    "Educational Alignment": {
+      "score": 3,
+      "justification": "Plan includes detailed educational specifications for STEM classrooms and multipurpose rooms with programmatic improvements described (pages 29, 36, 48, 49, 62). Connects facility projects to educational goals such as project-based learning and flexible spaces, but coverage of programmatic shifts is partial."
+    },
+    "Outdoor Spaces & Greening": {
+      "score": 3,
+      "justification": "Provides detailed descriptions and strategies for outdoor spaces including playground improvements, outdoor learning centers, shade structures, and outdoor dining/gathering areas (pages 25, 33, 39). Includes some districtwide site data and greening strategies but lacks explicit framing of greening as a climate resilience strategy."
+    },
+    "Climate Risk & Mitigation": {
+      "score": 1,
+      "justification": "Acknowledges challenges related to site grades, drainage, and erosion (pages 38, 45) and mentions tree health assessments (page 38), but does not provide a comprehensive climate risk assessment or detailed mitigation strategies linked to climate impacts."
+    },
+    "Energy Efficiency & Resilience": {
+      "score": 2,
+      "justification": "Mentions recent lighting upgrades to T8 lamps with Prop 39 funding and recommends energy management systems for HVAC (pages 12, 15, 18). Lacks comprehensive energy use data, resilience strategies, or references to state requirements such as Title 24 or Zero Net Energy goals."
+    },
+    "Financial Plan & Capital Strategy": {
+      "score": 3,
+      "justification": "Provides detailed cost estimates for numerous projects across all sites with itemized costs and some prioritization (pages 22-50). Discusses deferred maintenance budgeting and scheduling with prioritization criteria (pages 56-64). Funding sources and long-term financial strategies are not comprehensively detailed."
+    }
+  }
+}
